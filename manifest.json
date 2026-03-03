@@ -1,4 +1,10 @@
 {
   "schemaVersion": 1,
-  "categories": []
+  "categories": [
+    {
+      "name": "Tag 1",
+      "slug": "tag-1",
+      "updatedAt": "2026-03-03T00:00:00Z"
+    }
+  ]
 }

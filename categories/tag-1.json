@@ -1,0 +1,333 @@
+{
+  "lastUpdated": "2026-03-03T00:00:00Z",
+  "words": [
+    {
+      "german": "erkennen",
+      "english": "to recognize",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "erkennen",
+      "example": "Ich erkenne ihn sofort."
+    },
+    {
+      "german": "lächeln",
+      "english": "to smile",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "laecheln",
+      "example": "Sie lächelt freundlich."
+    },
+    {
+      "german": "winken",
+      "english": "to wave",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "winken",
+      "example": "Er winkt seiner Freundin."
+    },
+    {
+      "german": "grüßen",
+      "english": "to greet",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "gruessen",
+      "example": "Ich grüße meinen Lehrer."
+    },
+    {
+      "german": "als ob",
+      "english": "as if",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "als_ob",
+      "example": "Er tut so, als ob er müde wäre."
+    },
+    {
+      "german": "begrüßen",
+      "english": "to welcome / to greet",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "begruessen",
+      "example": "Wir begrüßen die Gäste herzlich."
+    },
+    {
+      "german": "(sich) vorstellen",
+      "english": "to introduce oneself / to imagine",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "vorstellen",
+      "example": "Darf ich mich vorstellen?"
+    },
+    {
+      "german": "die Vergangenheit",
+      "english": "the past",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "vergangenheit",
+      "example": "In der Vergangenheit war vieles anders."
+    },
+    {
+      "german": "die Gegenwart",
+      "english": "the present",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "gegenwart",
+      "example": "Wir leben in der Gegenwart."
+    },
+    {
+      "german": "die Zukunft",
+      "english": "the future",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "zukunft",
+      "example": "Ich denke oft an die Zukunft."
+    },
+    {
+      "german": "die Geburt",
+      "english": "birth",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "geburt",
+      "example": "Die Geburt war im Krankenhaus."
+    },
+    {
+      "german": "die Kindheit",
+      "english": "childhood",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "kindheit",
+      "example": "Meine Kindheit war schön."
+    },
+    {
+      "german": "die Schulzeit",
+      "english": "school time / school years",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "schulzeit",
+      "example": "Meine Schulzeit war interessant."
+    },
+    {
+      "german": "die Jugend",
+      "english": "youth",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "jugend",
+      "example": "In meiner Jugend habe ich viel Sport gemacht."
+    },
+    {
+      "german": "der/die Erwachsene",
+      "english": "adult",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "erwachsene",
+      "example": "Er ist schon ein Erwachsener."
+    },
+    {
+      "german": "das Alter",
+      "english": "old age / age",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "alter",
+      "example": "Im Alter wird man ruhiger."
+    },
+    {
+      "german": "das Erlebnis",
+      "english": "experience (event)",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "erlebnis",
+      "example": "Das Konzert war ein tolles Erlebnis."
+    },
+    {
+      "german": "die Erinnerung",
+      "english": "memory",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "erinnerung",
+      "example": "Diese Erinnerung macht mich glücklich."
+    },
+    {
+      "german": "das Gefühl",
+      "english": "feeling",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "gefuehl",
+      "example": "Ich habe ein gutes Gefühl."
+    },
+    {
+      "german": "der Geruch",
+      "english": "smell",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "geruch",
+      "example": "Der Geruch von Kaffee ist angenehm."
+    },
+    {
+      "german": "wecken",
+      "english": "to wake / to awaken",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "wecken",
+      "example": "Der Geruch weckt Erinnerungen."
+    },
+    {
+      "german": "die Realität",
+      "english": "reality",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "realitaet",
+      "example": "Das ist die Realität."
+    },
+    {
+      "german": "verbinden (mit)",
+      "english": "to connect (with)",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "verbinden",
+      "example": "Ich verbinde Musik mit guten Erinnerungen."
+    },
+    {
+      "german": "(sich) hinsetzen",
+      "english": "to sit down",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "hinsetzen",
+      "example": "Ich setze mich auf den Stuhl."
+    },
+    {
+      "german": "(sich) setzen",
+      "english": "to sit / to place",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "setzen",
+      "example": "Bitte setzen Sie sich."
+    },
+    {
+      "german": "wach sein",
+      "english": "to be awake",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "wach_sein",
+      "example": "Ich bin schon wach."
+    },
+    {
+      "german": "munter sein",
+      "english": "to be cheerful / lively",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "munter_sein",
+      "example": "Heute bin ich sehr munter."
+    },
+    {
+      "german": "auffressen",
+      "english": "to gobble up (animals)",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "auffressen",
+      "example": "Der Hund frisst das Fleisch auf."
+    },
+    {
+      "german": "jedes Mal",
+      "english": "every time",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "jedes_mal",
+      "example": "Er kommt jedes Mal zu spät."
+    },
+    {
+      "german": "die Fantasie",
+      "english": "imagination",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "fantasie",
+      "example": "In meiner Fantasie kann ich fliegen."
+    },
+    {
+      "german": "das Zeichen",
+      "english": "sign / symbol",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "zeichen",
+      "example": "Das ist ein Zeichen für Glück."
+    },
+    {
+      "german": "schütteln",
+      "english": "to shake",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "schuetteln",
+      "example": "Er schüttelt den Kopf."
+    },
+    {
+      "german": "täglich",
+      "english": "daily",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "taeglich",
+      "example": "Ich lerne täglich Deutsch."
+    },
+    {
+      "german": "der Korridor",
+      "english": "corridor",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "korridor",
+      "example": "Der Korridor ist lang."
+    },
+    {
+      "german": "der Gang",
+      "english": "hallway / aisle",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "gang",
+      "example": "Der Gang ist sehr eng."
+    },
+    {
+      "german": "der Ärger",
+      "english": "anger / trouble",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "aerger",
+      "example": "Er hat viel Ärger bekommen."
+    },
+    {
+      "german": "voll",
+      "english": "full",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "voll",
+      "example": "Das Glas ist voll."
+    },
+    {
+      "german": "die Glocke",
+      "english": "bell",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "glocke",
+      "example": "Die Glocke klingelt."
+    },
+    {
+      "german": "der Stempel",
+      "english": "stamp",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "stempel",
+      "example": "Der Lehrer gibt mir einen Stempel."
+    },
+    {
+      "german": "der Direktor",
+      "english": "principal / headmaster",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "direktor",
+      "example": "Der Direktor leitet die Schule."
+    },
+    {
+      "german": "die Direktorin",
+      "english": "female principal",
+      "category": "Tag 1",
+      "level": "B1",
+      "imageName": "direktorin",
+      "example": "Die Direktorin ist sehr freundlich."
+    }
+  ]
+}
