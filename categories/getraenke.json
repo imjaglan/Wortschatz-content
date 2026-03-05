@@ -1,0 +1,189 @@
+{
+  "lastUpdated": "2026-03-04T00:00:00Z",
+  "words": [
+    {
+      "german": "das Bier",
+      "english": "the beer",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "bier",
+      "example": "Deutschland ist berühmt für sein Bier."
+    },
+    {
+      "german": "das Getränk",
+      "english": "the drink",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "getraenk",
+      "example": "Wasser ist mein liebstes Getränk."
+    },
+    {
+      "german": "der Kaffee",
+      "english": "the coffee",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "kaffee",
+      "example": "Der Kaffee schmeckt morgens am besten."
+    },
+    {
+      "german": "die Milch",
+      "english": "the milk",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "milch",
+      "example": "Das Kind trinkt gerne kalte Milch."
+    },
+    {
+      "german": "der Orangensaft",
+      "english": "the orange juice",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "orangensaft",
+      "example": "Ich trinke Orangensaft zum Frühstück."
+    },
+    {
+      "german": "der Saft",
+      "english": "the juice",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "saft",
+      "example": "Der Saft ist frisch und süß."
+    },
+    {
+      "german": "der Tee",
+      "english": "the tea",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "tee",
+      "example": "Im Winter trinke ich warmen Tee."
+    },
+    {
+      "german": "das Wasser",
+      "english": "the water",
+      "category": "Getränke",
+      "level": "A1",
+      "imageName": "wasser",
+      "example": "Ich trinke jeden Tag viel Wasser."
+    },
+    {
+      "german": "der Apfelsaft",
+      "english": "the apple juice",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "apfelsaft",
+      "example": "Kinder mögen Apfelsaft, weil er süß schmeckt."
+    },
+    {
+      "german": "die Apfelschorle",
+      "english": "the apple spritzer",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "apfelschorle",
+      "example": "Apfelschorle ist in Deutschland beliebt, weil sie erfrischend schmeckt."
+    },
+    {
+      "german": "die Cola",
+      "english": "the cola",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "cola",
+      "example": "Cola schmeckt süß, aber ich trinke lieber Wasser."
+    },
+    {
+      "german": "der Eistee",
+      "english": "the iced tea",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "eistee",
+      "example": "Im Sommer trinke ich gerne Eistee, weil er erfrischend ist."
+    },
+    {
+      "german": "der Espresso",
+      "english": "the espresso",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "espresso",
+      "example": "Der Espresso ist stark, aber er schmeckt gut."
+    },
+    {
+      "german": "der Kakao",
+      "english": "the cocoa",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "kakao",
+      "example": "Im Winter trinke ich Kakao, weil er gut wärmt."
+    },
+    {
+      "german": "die Limonade",
+      "english": "the lemonade",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "limonade",
+      "example": "Im Sommer trinke ich Limonade, weil sie erfrischend ist."
+    },
+    {
+      "german": "das Mineralwasser",
+      "english": "the mineral water",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "mineralwasser",
+      "example": "Ich bestelle Mineralwasser, weil es gesünder als Cola ist."
+    },
+    {
+      "german": "der Wein",
+      "english": "the wine",
+      "category": "Getränke",
+      "level": "A2",
+      "imageName": "wein",
+      "example": "Ich trinke gerne Wein, aber nur am Wochenende."
+    },
+    {
+      "german": "der Cappuccino",
+      "english": "the cappuccino",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "cappuccino",
+      "example": "Ich bestelle im Café gerne Cappuccino, obwohl der Kaffee dort auch gut ist."
+    },
+    {
+      "german": "der Champagner",
+      "english": "the champagne",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "champagner",
+      "example": "Wir trinken Champagner zu besonderen Anlässen, obwohl er recht teuer ist."
+    },
+    {
+      "german": "der Rotwein",
+      "english": "the red wine",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "rotwein",
+      "example": "Ich trinke abends gerne ein Glas Rotwein, damit ich mich entspannen kann."
+    },
+    {
+      "german": "der Schnaps",
+      "english": "the schnapps",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "schnaps",
+      "example": "In Bayern trinkt man Schnaps nach dem Essen, obwohl er sehr stark schmeckt."
+    },
+    {
+      "german": "die Schorle",
+      "english": "the spritzer",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "schorle",
+      "example": "Die Schorle ist ein typisch deutsches Getränk, das aus Saft und Wasser besteht."
+    },
+    {
+      "german": "der Weißwein",
+      "english": "the white wine",
+      "category": "Getränke",
+      "level": "B1",
+      "imageName": "weisswein",
+      "example": "Zum Fisch bestellen viele Deutsche Weißwein, deshalb ist die Auswahl in Restaurants groß."
+    }
+  ]
+}
