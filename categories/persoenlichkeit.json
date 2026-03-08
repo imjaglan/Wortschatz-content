@@ -1,0 +1,301 @@
+{
+  "lastUpdated": "2026-03-08T00:00:00Z",
+  "words": [
+    {
+      "german": "glücklich",
+      "english": "happy",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "gluecklich",
+      "example": "Die Kinder sind heute sehr glücklich."
+    },
+    {
+      "german": "traurig",
+      "english": "sad",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "traurig",
+      "example": "Das Kind ist traurig und weint."
+    },
+    {
+      "german": "ruhig",
+      "english": "calm / quiet",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "ruhig",
+      "example": "Sie ist sehr ruhig und hört zu."
+    },
+    {
+      "german": "nervös",
+      "english": "nervous",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "nervoes",
+      "example": "Ich bin nervös vor der Prüfung."
+    },
+    {
+      "german": "ehrlich",
+      "english": "honest",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "ehrlich",
+      "example": "Mein Freund ist immer ehrlich."
+    },
+    {
+      "german": "fleißig",
+      "english": "hardworking",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "fleissig",
+      "example": "Die Schüler in der Klasse sind fleißig."
+    },
+    {
+      "german": "frech",
+      "english": "cheeky / a bit rude",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "frech",
+      "example": "Der kleine Junge ist manchmal frech."
+    },
+    {
+      "german": "hart",
+      "english": "tough / harsh",
+      "category": "Persönlichkeit",
+      "level": "A1",
+      "imageName": "hart",
+      "example": "Mein Vater ist manchmal sehr hart."
+    },
+    {
+      "german": "höflich",
+      "english": "polite",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "hoeflich",
+      "example": "Er ist immer höflich, wenn er mit Leuten spricht."
+    },
+    {
+      "german": "großzügig",
+      "english": "generous",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "grosszuegig",
+      "example": "Meine Oma ist großzügig, weil sie gerne Geschenke macht."
+    },
+    {
+      "german": "hilfsbereit",
+      "english": "helpful",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "hilfsbereit",
+      "example": "Mein Nachbar ist hilfsbereit, wenn man Hilfe braucht."
+    },
+    {
+      "german": "geduldig",
+      "english": "patient",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "geduldig",
+      "example": "Ich muss geduldig sein, weil der Bus spät kommt."
+    },
+    {
+      "german": "schüchtern",
+      "english": "shy",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "schuechtern",
+      "example": "Sie ist schüchtern, aber sie hat ein gutes Herz."
+    },
+    {
+      "german": "entspannt",
+      "english": "relaxed",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "entspannt",
+      "example": "Am Wochenende bin ich entspannt, weil ich frei habe."
+    },
+    {
+      "german": "streng",
+      "english": "strict",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "streng",
+      "example": "Der Lehrer ist streng, aber die Schüler lernen viel."
+    },
+    {
+      "german": "gemein",
+      "english": "mean",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "gemein",
+      "example": "Es ist gemein, wenn man andere Kinder auslacht."
+    },
+    {
+      "german": "sensibel",
+      "english": "sensitive",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "sensibel",
+      "example": "Mein Bruder ist sensibel, weil er schnell traurig wird."
+    },
+    {
+      "german": "treu",
+      "english": "faithful / loyal",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "treu",
+      "example": "Mein Hund ist treu, weil er immer bei mir bleibt."
+    },
+    {
+      "german": "verrückt",
+      "english": "crazy / mad",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "verrueckt",
+      "example": "Die Idee klingt verrückt, aber wir probieren es aus."
+    },
+    {
+      "german": "wütend",
+      "english": "angry",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "wuetend",
+      "example": "Ich werde wütend, wenn jemand nicht ehrlich ist."
+    },
+    {
+      "german": "gut gelaunt",
+      "english": "in a good mood",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "gutgelaunt",
+      "example": "Ich bin gut gelaunt, wenn die Sonne scheint."
+    },
+    {
+      "german": "schlecht gelaunt",
+      "english": "in a bad mood / moody",
+      "category": "Persönlichkeit",
+      "level": "A2",
+      "imageName": "schlechtgelaunt",
+      "example": "Er ist schlecht gelaunt, weil er kaum geschlafen hat."
+    },
+    {
+      "german": "zuverlässig",
+      "english": "reliable",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "zuverlaessig",
+      "example": "Mein Kollege ist sehr zuverlässig, deshalb vertrauen ihm alle im Team."
+    },
+    {
+      "german": "selbstständig",
+      "english": "independent",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "selbststaendig",
+      "example": "Sie lebt seit zwei Jahren allein, deshalb ist sie sehr selbstständig."
+    },
+    {
+      "german": "humorvoll",
+      "english": "humorous",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "humorvoll",
+      "example": "Mein Freund ist so humorvoll, dass alle immer lachen müssen."
+    },
+    {
+      "german": "eifersüchtig",
+      "english": "jealous / envious",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "eifersuechtig",
+      "example": "Er wird schnell eifersüchtig, obwohl seine Freundin ihm treu ist."
+    },
+    {
+      "german": "egoistisch",
+      "english": "selfish",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "egoistisch",
+      "example": "Sie teilt nie etwas mit anderen, deshalb halten viele sie für egoistisch."
+    },
+    {
+      "german": "ängstlich",
+      "english": "anxious / fearful",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "aengstlich",
+      "example": "Das Kind ist oft ängstlich, obwohl seine Eltern immer bei ihm sind."
+    },
+    {
+      "german": "selbstbewusst",
+      "english": "self-confident",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "selbstbewusst",
+      "example": "Sie spricht laut und klar, deshalb wirkt sie sehr selbstbewusst."
+    },
+    {
+      "german": "lebhaft",
+      "english": "lively / energetic",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "lebhaft",
+      "example": "Das Kind ist so lebhaft, dass es nie still sitzen kann."
+    },
+    {
+      "german": "sich ärgern",
+      "english": "to get angry",
+      "category": "Persönlichkeit",
+      "level": "B1",
+      "imageName": "aergern",
+      "example": "Ich ärgere mich über den Lärm, obwohl ich sonst ein ruhiger Mensch bin."
+    },
+    {
+      "german": "eingebildet",
+      "english": "arrogant / conceited",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "eingebildet",
+      "example": "Nachdem er befördert wurde, verhält er sich allen gegenüber sehr eingebildet."
+    },
+    {
+      "german": "unternehmungslustig",
+      "english": "adventurous / likes activities",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "unternehmungslustig",
+      "example": "Solange das Wetter schön bleibt, ist meine Schwester immer unternehmungslustig und voller Energie."
+    },
+    {
+      "german": "humorlos",
+      "english": "humourless",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "humorlos",
+      "example": "Während alle über den Witz lachten, blieb er völlig humorlos am Tisch sitzen."
+    },
+    {
+      "german": "die Persönlichkeit",
+      "english": "the personality",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "persoenlichkeit",
+      "example": "Bevor man jemanden wirklich kennt, sollte man seine Persönlichkeit nicht zu schnell beurteilen."
+    },
+    {
+      "german": "der Angeber",
+      "english": "the show-off",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "angeber",
+      "example": "Während er vor seinen Freunden mit dem neuen Auto prahlte, nannten ihn alle einen Angeber."
+    },
+    {
+      "german": "jemandem auf die Nerven gehen",
+      "english": "to get on someone's nerves",
+      "category": "Persönlichkeit",
+      "level": "B2",
+      "imageName": "nervengehen",
+      "example": "Falls dir jemand ständig auf die Nerven geht, solltest du das offen ansprechen."
+    }
+  ]
+}

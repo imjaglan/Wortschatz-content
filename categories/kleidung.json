@@ -1,0 +1,341 @@
+{
+  "lastUpdated": "2026-03-05T00:00:00Z",
+  "words": [
+    {
+      "german": "die Hose",
+      "english": "the trousers",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "hose",
+      "example": "Ich trage eine schwarze Hose."
+    },
+    {
+      "german": "das Hemd",
+      "english": "the shirt",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "hemd",
+      "example": "Das Hemd ist weiß und neu."
+    },
+    {
+      "german": "die Jacke",
+      "english": "the jacket",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "jacke",
+      "example": "Die Jacke ist warm und bequem."
+    },
+    {
+      "german": "das Kleid",
+      "english": "the dress",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "kleid",
+      "example": "Das rote Kleid ist sehr schön."
+    },
+    {
+      "german": "der Mantel",
+      "english": "the coat",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "mantel",
+      "example": "Im Winter trage ich einen warmen Mantel."
+    },
+    {
+      "german": "die Mütze",
+      "english": "the cap",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "muetze",
+      "example": "Die Mütze ist warm und weich."
+    },
+    {
+      "german": "der Rock",
+      "english": "the skirt",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "rock",
+      "example": "Der Rock ist blau und lang."
+    },
+    {
+      "german": "die Schuhe",
+      "english": "the shoes",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "schuhe",
+      "example": "Ich brauche neue Schuhe zum Laufen."
+    },
+    {
+      "german": "das T-Shirt",
+      "english": "the T-shirt",
+      "category": "Kleidung",
+      "level": "A1",
+      "imageName": "tshirt",
+      "example": "Im Sommer trage ich gerne ein T-Shirt."
+    },
+    {
+      "german": "der Anzug",
+      "english": "the suit",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "anzug",
+      "example": "Er trägt einen Anzug, weil er ein Vorstellungsgespräch hat."
+    },
+    {
+      "german": "die Bluse",
+      "english": "the blouse",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "bluse",
+      "example": "Ich trage die Bluse gerne, weil sie sehr bequem ist."
+    },
+    {
+      "german": "der Gürtel",
+      "english": "the belt",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "guertel",
+      "example": "Ich brauche einen Gürtel, weil die Hose zu weit ist."
+    },
+    {
+      "german": "die Handschuhe",
+      "english": "the gloves",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "handschuhe",
+      "example": "Im Winter trage ich Handschuhe, weil meine Hände schnell frieren."
+    },
+    {
+      "german": "der Hut",
+      "english": "the hat",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "hut",
+      "example": "Im Sommer trage ich einen Hut, weil die Sonne stark scheint."
+    },
+    {
+      "german": "die Jeans",
+      "english": "the jeans",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "jeans",
+      "example": "Ich trage am liebsten Jeans, weil sie bequem sind."
+    },
+    {
+      "german": "die Krawatte",
+      "english": "the tie",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "krawatte",
+      "example": "Er trägt eine Krawatte zum Anzug, wenn er ins Büro geht."
+    },
+    {
+      "german": "der Pullover",
+      "english": "the sweater",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "pullover",
+      "example": "Ich ziehe einen Pullover an, wenn es draußen kalt wird."
+    },
+    {
+      "german": "der Schal",
+      "english": "the scarf",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "schal",
+      "example": "Ich trage einen Schal, weil es heute windig ist."
+    },
+    {
+      "german": "die Socken",
+      "english": "the socks",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "socken",
+      "example": "Ich ziehe warme Socken an, wenn es draußen kalt ist."
+    },
+    {
+      "german": "die Stiefel",
+      "english": "the boots",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "stiefel",
+      "example": "Ich trage Stiefel im Winter, weil sie warm und fest sind."
+    },
+    {
+      "german": "die Unterwäsche",
+      "english": "the underwear",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "unterwaesche",
+      "example": "Ich packe Unterwäsche ein, weil wir drei Tage verreisen."
+    },
+    {
+      "german": "die Turnschuhe",
+      "english": "the sneakers",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "turnschuhe",
+      "example": "Zum Sport ziehe ich Turnschuhe an, weil sie bequem sind."
+    },
+    {
+      "german": "die Hausschuhe",
+      "english": "the slippers",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "hausschuhe",
+      "example": "Zu Hause trage ich Hausschuhe, weil der Boden kalt ist."
+    },
+    {
+      "german": "die Sandalen",
+      "english": "the sandals",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "sandalen",
+      "example": "Im Sommer trage ich Sandalen, weil meine Füße Luft brauchen."
+    },
+    {
+      "german": "die Sonnenbrille",
+      "english": "the sunglasses",
+      "category": "Kleidung",
+      "level": "A2",
+      "imageName": "sonnenbrille",
+      "example": "Ich nehme meine Sonnenbrille mit, wenn die Sonne scheint."
+    },
+    {
+      "german": "die Badehose",
+      "english": "the swimming trunks",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "badehose",
+      "example": "Ich nehme die Badehose mit, obwohl das Wetter noch kühl ist."
+    },
+    {
+      "german": "der Bademantel",
+      "english": "the bathrobe",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "bademantel",
+      "example": "Nach dem Duschen ziehe ich den Bademantel an, damit mir nicht kalt wird."
+    },
+    {
+      "german": "die Kapuze",
+      "english": "the hood",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "kapuze",
+      "example": "Ich ziehe die Kapuze meiner Jacke hoch, obwohl der Regen fast aufgehört hat."
+    },
+    {
+      "german": "die Lederjacke",
+      "english": "the leather jacket",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "lederjacke",
+      "example": "Die Lederjacke sieht immer noch gut aus, obwohl sie schon zehn Jahre alt ist."
+    },
+    {
+      "german": "der Regenmantel",
+      "english": "the raincoat",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "regenmantel",
+      "example": "Ich nehme den Regenmantel mit, obwohl die Sonne gerade noch scheint."
+    },
+    {
+      "german": "die Weste",
+      "english": "the vest",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "weste",
+      "example": "Die Weste hält den Körper warm, obwohl sie keine Ärmel hat."
+    },
+    {
+      "german": "der Schlafanzug",
+      "english": "the pajamas",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "schlafanzug",
+      "example": "Ich ziehe meinen Schlafanzug an, damit ich es auf dem Sofa gemütlich habe."
+    },
+    {
+      "german": "das Sweatshirt",
+      "english": "the sweatshirt",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "sweatshirt",
+      "example": "Ich trage das Sweatshirt zu Hause, obwohl es schon einige Löcher hat."
+    },
+    {
+      "german": "die Strickjacke",
+      "english": "the cardigan",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "strickjacke",
+      "example": "Meine Oma hat mir eine Strickjacke gestrickt, die mich im Winter warm hält."
+    },
+    {
+      "german": "die Shorts",
+      "english": "the shorts",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "shorts",
+      "example": "Im Sommer trage ich lieber Shorts als eine Hose, damit mir nicht zu warm wird."
+    },
+    {
+      "german": "die Leggings",
+      "english": "the leggings",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "leggings",
+      "example": "Die Leggings sind beim Sport praktisch, obwohl sie nicht so warm wie eine Hose sind."
+    },
+    {
+      "german": "der Trainingsanzug",
+      "english": "the tracksuit",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "trainingsanzug",
+      "example": "Der Trainingsanzug ist sehr bequem, deshalb trage ich ihn auch zu Hause."
+    },
+    {
+      "german": "das Kostüm",
+      "english": "the women's suit",
+      "category": "Kleidung",
+      "level": "B1",
+      "imageName": "kostuem",
+      "example": "Sie kauft ein neues Kostüm fürs Büro, damit sie professionell aussieht."
+    },
+    {
+      "german": "der Smoking",
+      "english": "the tuxedo",
+      "category": "Kleidung",
+      "level": "B2",
+      "imageName": "smoking",
+      "example": "Bevor er zur Gala ging, lieh er sich einen Smoking von seinem besten Freund."
+    },
+    {
+      "german": "das Abendkleid",
+      "english": "the evening dress",
+      "category": "Kleidung",
+      "level": "B2",
+      "imageName": "abendkleid",
+      "example": "Nachdem sie das Abendkleid anprobiert hatte, wusste sie sofort, dass es perfekt passt."
+    },
+    {
+      "german": "der Reißverschluss",
+      "english": "the zipper",
+      "category": "Kleidung",
+      "level": "B2",
+      "imageName": "reissverschluss",
+      "example": "Bevor du die Jacke in die Waschmaschine gibst, solltest du den Reißverschluss schließen."
+    },
+    {
+      "german": "die Schürze",
+      "english": "the apron",
+      "category": "Kleidung",
+      "level": "B2",
+      "imageName": "schuerze",
+      "example": "Während er in der Küche kocht, trägt er immer eine Schürze über dem Hemd."
+    }
+  ]
+}
