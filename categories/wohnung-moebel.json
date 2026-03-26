@@ -1,0 +1,445 @@
+{
+  "lastUpdated": "2026-03-21T00:00:00Z",
+  "words": [
+    {
+      "german": "das Haus",
+      "english": "the house",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "haus",
+      "example": "Das Haus ist groß und schön."
+    },
+    {
+      "german": "die Wohnung",
+      "english": "the apartment",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "wohnung",
+      "example": "Meine Wohnung ist klein und gemütlich."
+    },
+    {
+      "german": "das Zimmer",
+      "english": "the room",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "zimmer",
+      "example": "Das Zimmer ist hell und warm."
+    },
+    {
+      "german": "die Küche",
+      "english": "the kitchen",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "kueche",
+      "example": "Ich koche jeden Abend in der Küche."
+    },
+    {
+      "german": "die Tür",
+      "english": "the door",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "tuer",
+      "example": "Ich öffne die Tür und gehe rein."
+    },
+    {
+      "german": "das Fenster",
+      "english": "the window",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "fenster",
+      "example": "Ich öffne das Fenster am Morgen."
+    },
+    {
+      "german": "das Bett",
+      "english": "the bed",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "bett",
+      "example": "Mein Bett ist groß und weich."
+    },
+    {
+      "german": "der Tisch",
+      "english": "the table",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "tisch",
+      "example": "Das Essen steht auf dem Tisch."
+    },
+    {
+      "german": "der Stuhl",
+      "english": "the chair",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "stuhl",
+      "example": "Ich sitze auf dem Stuhl am Tisch."
+    },
+    {
+      "german": "das Sofa",
+      "english": "the sofa",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "sofa",
+      "example": "Am Abend sitze ich gerne auf dem Sofa."
+    },
+    {
+      "german": "der Schrank",
+      "english": "the wardrobe/cabinet",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "schrank",
+      "example": "Meine Kleidung ist im Schrank."
+    },
+    {
+      "german": "die Lampe",
+      "english": "the lamp",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "lampe",
+      "example": "Die Lampe im Zimmer ist sehr hell."
+    },
+    {
+      "german": "die Treppe",
+      "english": "the stairs",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "treppe",
+      "example": "Ich gehe die Treppe hoch und runter."
+    },
+    {
+      "german": "der Schlüssel",
+      "english": "the key",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "schluessel",
+      "example": "Ich brauche den Schlüssel für die Tür."
+    },
+    {
+      "german": "die Dusche",
+      "english": "the shower",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "dusche",
+      "example": "Ich gehe jeden Morgen unter die Dusche."
+    },
+    {
+      "german": "die Toilette",
+      "english": "the toilet",
+      "category": "Wohnung & Möbel",
+      "level": "A1",
+      "imageName": "toilette",
+      "example": "Wo ist bitte die Toilette?"
+    },
+    {
+      "german": "das Regal",
+      "english": "the shelf",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "regal",
+      "example": "Ich stelle die Bücher ins Regal, weil der Tisch zu voll ist."
+    },
+    {
+      "german": "die Kommode",
+      "english": "the dresser",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "kommode",
+      "example": "Meine Socken sind in der Kommode, aber ich finde sie nie."
+    },
+    {
+      "german": "der Schreibtisch",
+      "english": "the desk",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "schreibtisch",
+      "example": "Ich arbeite am Schreibtisch, wenn ich von zu Hause arbeite."
+    },
+    {
+      "german": "der Sessel",
+      "english": "the armchair",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "sessel",
+      "example": "Mein Opa sitzt gerne im Sessel und liest, weil er dort am bequemsten sitzt."
+    },
+    {
+      "german": "der Teppich",
+      "english": "the carpet/rug",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "teppich",
+      "example": "Der Teppich im Wohnzimmer ist weich, aber ich muss ihn oft saugen."
+    },
+    {
+      "german": "der Vorhang",
+      "english": "the curtain",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "vorhang",
+      "example": "Ich schließe den Vorhang, wenn die Sonne zu stark scheint."
+    },
+    {
+      "german": "das Kissen",
+      "english": "the pillow/cushion",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "kissen",
+      "example": "Ich lege mein Kissen aufs Sofa, weil ich es dort gemütlicher finde."
+    },
+    {
+      "german": "die Decke",
+      "english": "the blanket",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "decke",
+      "example": "Im Winter brauche ich eine warme Decke, weil es nachts kalt wird."
+    },
+    {
+      "german": "der Spiegel",
+      "english": "the mirror",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "spiegel",
+      "example": "Ich schaue jeden Morgen in den Spiegel, wenn ich mich fertig mache."
+    },
+    {
+      "german": "die Badewanne",
+      "english": "the bathtub",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "badewanne",
+      "example": "Am Sonntag nehme ich ein heißes Bad in der Badewanne, weil es so entspannt."
+    },
+    {
+      "german": "das Waschbecken",
+      "english": "the sink",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "waschbecken",
+      "example": "Ich wasche mir die Hände am Waschbecken, wenn ich nach Hause komme."
+    },
+    {
+      "german": "der Kühlschrank",
+      "english": "the refrigerator",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "kuehlschrank",
+      "example": "Die Milch steht im Kühlschrank, aber er ist fast leer."
+    },
+    {
+      "german": "die Waschmaschine",
+      "english": "the washing machine",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "waschmaschine",
+      "example": "Ich wasche meine Kleidung in der Waschmaschine, weil es schneller geht."
+    },
+    {
+      "german": "die Heizung",
+      "english": "the heating",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "heizung",
+      "example": "Ich mache die Heizung an, wenn es draußen kalt wird."
+    },
+    {
+      "german": "die Miete",
+      "english": "the rent",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "miete",
+      "example": "Die Miete in der Stadt ist teuer, aber die Wohnung ist schön."
+    },
+    {
+      "german": "der Aufzug",
+      "english": "the elevator",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "aufzug",
+      "example": "Ich nehme den Aufzug, weil meine Wohnung im fünften Stock ist."
+    },
+    {
+      "german": "der Balkon",
+      "english": "the balcony",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "balkon",
+      "example": "Im Sommer sitze ich gerne auf dem Balkon und trinke Kaffee."
+    },
+    {
+      "german": "der Garten",
+      "english": "the garden",
+      "category": "Wohnung & Möbel",
+      "level": "A2",
+      "imageName": "garten",
+      "example": "Wir haben einen kleinen Garten, aber er ist sehr schön."
+    },
+    {
+      "german": "umziehen",
+      "english": "to move (house)",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "umziehen",
+      "example": "Wir ziehen nächsten Monat um, obwohl wir unsere Nachbarn vermissen werden."
+    },
+    {
+      "german": "einrichten",
+      "english": "to furnish",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "einrichten",
+      "example": "Ich richte meine neue Wohnung ein, obwohl ich noch nicht alle Möbel habe."
+    },
+    {
+      "german": "die Nebenkosten",
+      "english": "the utility costs",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "nebenkosten",
+      "example": "Die Nebenkosten sind im Winter höher, obwohl wir sparsam heizen."
+    },
+    {
+      "german": "der Vermieter",
+      "english": "the landlord",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "vermieter",
+      "example": "Unser Vermieter repariert alles schnell, deshalb sind wir zufrieden mit der Wohnung."
+    },
+    {
+      "german": "der Mieter",
+      "english": "the tenant",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "mieter",
+      "example": "Die Mieter im Haus sind sehr freundlich, deshalb fühlen wir uns wohl."
+    },
+    {
+      "german": "der Keller",
+      "english": "the basement",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "keller",
+      "example": "Wir lagern die alten Möbel im Keller, damit die Wohnung nicht zu voll wird."
+    },
+    {
+      "german": "der Dachboden",
+      "english": "the attic",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "dachboden",
+      "example": "Auf dem Dachboden stehen noch Kisten von früher, die wir nie aufgemacht haben."
+    },
+    {
+      "german": "die Matratze",
+      "english": "the mattress",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "matratze",
+      "example": "Eine gute Matratze ist wichtig für den Rücken, deshalb sollte man nicht sparen."
+    },
+    {
+      "german": "die Spülmaschine",
+      "english": "the dishwasher",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "spuelmaschine",
+      "example": "Die Spülmaschine spart viel Zeit, obwohl sie viel Wasser braucht."
+    },
+    {
+      "german": "der Staubsauger",
+      "english": "the vacuum cleaner",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "staubsauger",
+      "example": "Ich sauge den Teppich mit dem Staubsauger, obwohl er sehr laut ist."
+    },
+    {
+      "german": "die Steckdose",
+      "english": "the power outlet",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "steckdose",
+      "example": "In der Küche gibt es nur zwei Steckdosen, deshalb brauchen wir eine Verlängerung."
+    },
+    {
+      "german": "der Wasserhahn",
+      "english": "the faucet/tap",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "wasserhahn",
+      "example": "Der Wasserhahn tropft seit gestern, deshalb muss der Vermieter ihn reparieren."
+    },
+    {
+      "german": "das Handtuch",
+      "english": "the towel",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "handtuch",
+      "example": "Ich lege frische Handtücher ins Bad, damit die Gäste sich wohlfühlen."
+    },
+    {
+      "german": "die Bettwäsche",
+      "english": "the bedding/bed linen",
+      "category": "Wohnung & Möbel",
+      "level": "B1",
+      "imageName": "bettwaesche",
+      "example": "Ich wechsle die Bettwäsche jede Woche, damit das Bett immer frisch riecht."
+    },
+    {
+      "german": "der Mietvertrag",
+      "english": "the lease/rental contract",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "mietvertrag",
+      "example": "Bevor man in eine neue Wohnung einzieht, muss man den Mietvertrag genau lesen."
+    },
+    {
+      "german": "die Kaution",
+      "english": "the security deposit",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "kaution",
+      "example": "Bevor wir den Mietvertrag unterschrieben, mussten wir drei Monatsmieten als Kaution zahlen."
+    },
+    {
+      "german": "renovieren",
+      "english": "to renovate",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "renovieren",
+      "example": "Bevor die neuen Mieter einziehen, muss die Wohnung komplett renoviert werden."
+    },
+    {
+      "german": "streichen",
+      "english": "to paint (walls)",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "streichen",
+      "example": "Bevor wir die Möbel aufstellen, müssen wir alle Wände weiß streichen."
+    },
+    {
+      "german": "einziehen",
+      "english": "to move in",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "einziehen",
+      "example": "Nachdem wir den Mietvertrag unterschrieben hatten, konnten wir endlich einziehen."
+    },
+    {
+      "german": "ausziehen",
+      "english": "to move out",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "ausziehen",
+      "example": "Bevor man auszieht, muss man die Wohnung in einem guten Zustand hinterlassen."
+    },
+    {
+      "german": "die Klimaanlage",
+      "english": "the air conditioning",
+      "category": "Wohnung & Möbel",
+      "level": "B2",
+      "imageName": "klimaanlage",
+      "example": "Während die Sommer in Deutschland immer heißer werden, haben nur wenige Wohnungen eine Klimaanlage."
+    }
+  ]
+}
