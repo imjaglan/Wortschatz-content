@@ -1,0 +1,493 @@
+{
+  "lastUpdated": "2026-03-21T00:00:00Z",
+  "words": [
+    {
+      "german": "der Topf",
+      "english": "the pot",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "topf",
+      "example": "Ich koche Suppe im Topf."
+    },
+    {
+      "german": "die Pfanne",
+      "english": "the frying pan",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "pfanne",
+      "example": "Das Ei brät in der Pfanne."
+    },
+    {
+      "german": "das Messer",
+      "english": "the knife",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "messer",
+      "example": "Das Messer ist scharf und neu."
+    },
+    {
+      "german": "die Gabel",
+      "english": "the fork",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "gabel",
+      "example": "Ich esse mit Messer und Gabel."
+    },
+    {
+      "german": "der Löffel",
+      "english": "the spoon",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "loeffel",
+      "example": "Ich esse die Suppe mit dem Löffel."
+    },
+    {
+      "german": "der Teller",
+      "english": "the plate",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "teller",
+      "example": "Das Essen ist auf dem Teller."
+    },
+    {
+      "german": "die Tasse",
+      "english": "the cup",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "tasse",
+      "example": "Ich trinke Kaffee aus der Tasse."
+    },
+    {
+      "german": "das Glas",
+      "english": "the glass",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "glas",
+      "example": "Das Glas ist voll mit Wasser."
+    },
+    {
+      "german": "die Schüssel",
+      "english": "the bowl",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "schuessel",
+      "example": "Der Salat ist in der Schüssel."
+    },
+    {
+      "german": "der Herd",
+      "english": "the stove",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "herd",
+      "example": "Der Topf steht auf dem Herd."
+    },
+    {
+      "german": "der Backofen",
+      "english": "the oven",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "backofen",
+      "example": "Der Kuchen ist im Backofen."
+    },
+    {
+      "german": "schneiden",
+      "english": "to cut",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "schneiden",
+      "example": "Ich schneide das Brot mit dem Messer."
+    },
+    {
+      "german": "das Gericht",
+      "english": "the dish (meal)",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "gericht",
+      "example": "Das Gericht schmeckt sehr gut."
+    },
+    {
+      "german": "die Flasche",
+      "english": "the bottle",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "flasche",
+      "example": "Die Flasche Wasser steht auf dem Tisch."
+    },
+    {
+      "german": "der Deckel",
+      "english": "the lid",
+      "category": "Kochen & Küche",
+      "level": "A1",
+      "imageName": "deckel",
+      "example": "Ich mache den Deckel auf den Topf."
+    },
+    {
+      "german": "braten",
+      "english": "to fry",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "braten",
+      "example": "Ich brate das Fleisch in der Pfanne, weil es so am besten schmeckt."
+    },
+    {
+      "german": "backen",
+      "english": "to bake",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "backen",
+      "example": "Meine Oma hat gestern einen Kuchen gebacken, weil wir Besuch hatten."
+    },
+    {
+      "german": "rühren",
+      "english": "to stir",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "ruehren",
+      "example": "Du musst die Soße rühren, wenn sie auf dem Herd steht."
+    },
+    {
+      "german": "schälen",
+      "english": "to peel",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "schaelen",
+      "example": "Ich schäle die Kartoffeln, weil wir heute Abend kochen."
+    },
+    {
+      "german": "grillen",
+      "english": "to grill/barbecue",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "grillen",
+      "example": "Im Sommer grillen wir gerne im Garten, weil das Wetter schön ist."
+    },
+    {
+      "german": "würzen",
+      "english": "to season",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "wuerzen",
+      "example": "Ich würze das Fleisch mit Salz und Pfeffer, weil es besser schmeckt."
+    },
+    {
+      "german": "das Rezept",
+      "english": "the recipe",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "rezept",
+      "example": "Das Rezept ist einfach, aber das Gericht schmeckt trotzdem sehr gut."
+    },
+    {
+      "german": "die Zutat",
+      "english": "the ingredient",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "zutat",
+      "example": "Ich kaufe alle Zutaten im Supermarkt, weil ich heute kochen möchte."
+    },
+    {
+      "german": "die Soße",
+      "english": "the sauce",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "sosse",
+      "example": "Die Soße schmeckt besser, wenn man sie lange rührt."
+    },
+    {
+      "german": "das Gewürz",
+      "english": "the spice",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "gewuerz",
+      "example": "Dieses Gewürz ist scharf, aber es gibt dem Essen einen guten Geschmack."
+    },
+    {
+      "german": "der Pfeffer",
+      "english": "the pepper",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "pfeffer",
+      "example": "Ich gebe Pfeffer auf das Ei, weil es dann besser schmeckt."
+    },
+    {
+      "german": "das Öl",
+      "english": "the oil",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "oel",
+      "example": "Ich gebe Öl in die Pfanne, wenn ich Fleisch braten möchte."
+    },
+    {
+      "german": "der Essig",
+      "english": "the vinegar",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "essig",
+      "example": "Für den Salat braucht man Öl und Essig, weil er sonst langweilig schmeckt."
+    },
+    {
+      "german": "die Sahne",
+      "english": "the cream",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "sahne",
+      "example": "Ich gebe Sahne in die Soße, wenn sie zu scharf ist."
+    },
+    {
+      "german": "das Schneidebrett",
+      "english": "the cutting board",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "schneidebrett",
+      "example": "Ich schneide das Gemüse auf dem Schneidebrett, weil es den Tisch schützt."
+    },
+    {
+      "german": "die Mikrowelle",
+      "english": "the microwave",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "mikrowelle",
+      "example": "Ich wärme die Suppe in der Mikrowelle auf, weil es schneller geht."
+    },
+    {
+      "german": "der Wasserkocher",
+      "english": "the kettle",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "wasserkocher",
+      "example": "Ich benutze den Wasserkocher jeden Morgen, weil ich Tee trinke."
+    },
+    {
+      "german": "mischen",
+      "english": "to mix",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "mischen",
+      "example": "Ich mische Öl und Essig zusammen, weil ich eine Soße machen möchte."
+    },
+    {
+      "german": "servieren",
+      "english": "to serve",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "servieren",
+      "example": "Ich serviere das Essen auf dem Teller, wenn die Gäste kommen."
+    },
+    {
+      "german": "spülen",
+      "english": "to wash dishes",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "spuelen",
+      "example": "Nach dem Essen muss ich die Teller spülen, weil die Spülmaschine kaputt ist."
+    },
+    {
+      "german": "die Spüle",
+      "english": "the kitchen sink",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "spuele",
+      "example": "Die schmutzigen Teller stehen in der Spüle, aber ich spüle sie später."
+    },
+    {
+      "german": "der Schwamm",
+      "english": "the sponge",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "schwamm",
+      "example": "Ich putze den Topf mit dem Schwamm, weil er sehr schmutzig ist."
+    },
+    {
+      "german": "der Lappen",
+      "english": "the cloth/rag",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "lappen",
+      "example": "Ich wische den Tisch mit dem Lappen ab, wenn wir fertig gegessen haben."
+    },
+    {
+      "german": "der Mülleimer",
+      "english": "the trash can",
+      "category": "Kochen & Küche",
+      "level": "A2",
+      "imageName": "muelleimer",
+      "example": "Der Mülleimer ist voll, aber ich bringe ihn morgen raus."
+    },
+    {
+      "german": "dünsten",
+      "english": "to steam/braise",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "duensten",
+      "example": "Das Gemüse wird im Topf gedünstet, damit es weich und gesund bleibt."
+    },
+    {
+      "german": "kneten",
+      "english": "to knead",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "kneten",
+      "example": "Man muss den Teig mindestens zehn Minuten kneten, damit das Brot locker wird."
+    },
+    {
+      "german": "reiben",
+      "english": "to grate",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "reiben",
+      "example": "Ich reibe den Käse über die Nudeln, obwohl ich schon genug Soße habe."
+    },
+    {
+      "german": "abschmecken",
+      "english": "to taste/adjust seasoning",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "abschmecken",
+      "example": "Man sollte die Suppe am Ende abschmecken, damit sie genug Salz hat."
+    },
+    {
+      "german": "aufwärmen",
+      "english": "to reheat",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "aufwaermen",
+      "example": "Ich wärme das Essen von gestern auf, obwohl frisch kochen besser wäre."
+    },
+    {
+      "german": "der Teig",
+      "english": "the dough",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "teig",
+      "example": "Der Teig muss eine Stunde ruhen, damit er gut aufgeht."
+    },
+    {
+      "german": "die Brühe",
+      "english": "the broth",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "bruehe",
+      "example": "Die Brühe kocht schon seit einer Stunde, deshalb riecht die ganze Küche danach."
+    },
+    {
+      "german": "der Schneebesen",
+      "english": "the whisk",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "schneebesen",
+      "example": "Ich schlage die Sahne mit dem Schneebesen, obwohl ein Mixer schneller wäre."
+    },
+    {
+      "german": "der Kochlöffel",
+      "english": "the wooden spoon",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "kochloeffel",
+      "example": "Meine Oma rührt die Soße mit ihrem alten Kochlöffel, den sie seit Jahren hat."
+    },
+    {
+      "german": "das Sieb",
+      "english": "the sieve/strainer",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "sieb",
+      "example": "Ich gieße die Nudeln durch das Sieb, damit das Wasser ablaufen kann."
+    },
+    {
+      "german": "die Reibe",
+      "english": "the grater",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "reibe",
+      "example": "Die Reibe ist sehr scharf, deshalb muss man beim Käsereiben aufpassen."
+    },
+    {
+      "german": "das Backblech",
+      "english": "the baking tray",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "backblech",
+      "example": "Ich lege die Plätzchen auf das Backblech, damit sie gleichmäßig backen."
+    },
+    {
+      "german": "die Küchenwaage",
+      "english": "the kitchen scale",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "kuechenwaage",
+      "example": "Deutsche Rezepte verlangen genaue Mengen, deshalb braucht man eine Küchenwaage."
+    },
+    {
+      "german": "abkühlen",
+      "english": "to cool down",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "abkuehlen",
+      "example": "Der Kuchen muss erst abkühlen, damit man ihn aus der Form nehmen kann."
+    },
+    {
+      "german": "anbrennen",
+      "english": "to burn/scorch",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "anbrennen",
+      "example": "Die Soße ist angebrannt, obwohl ich die ganze Zeit gerührt habe."
+    },
+    {
+      "german": "überkochen",
+      "english": "to boil over",
+      "category": "Kochen & Küche",
+      "level": "B1",
+      "imageName": "ueberkochen",
+      "example": "Die Milch ist übergekocht, deshalb muss ich jetzt den Herd sauber machen."
+    },
+    {
+      "german": "marinieren",
+      "english": "to marinate",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "marinieren",
+      "example": "Bevor ich das Fleisch auf den Grill lege, mariniere ich es über Nacht."
+    },
+    {
+      "german": "pürieren",
+      "english": "to puree/blend",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "puerieren",
+      "example": "Nachdem die Suppe lange genug gekocht hat, püriere ich sie mit dem Mixer."
+    },
+    {
+      "german": "einfrieren",
+      "english": "to freeze",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "einfrieren",
+      "example": "Falls wir zu viel gekocht haben, friere ich den Rest für nächste Woche ein."
+    },
+    {
+      "german": "auftauen",
+      "english": "to thaw/defrost",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "auftauen",
+      "example": "Bevor man das Fleisch brät, muss man es im Kühlschrank langsam auftauen."
+    },
+    {
+      "german": "der Dosenöffner",
+      "english": "the can opener",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "dosenoeffner",
+      "example": "Während ich nach dem Dosenöffner suchte, fiel mir ein, dass ich ihn verliehen hatte."
+    },
+    {
+      "german": "das Nudelholz",
+      "english": "the rolling pin",
+      "category": "Kochen & Küche",
+      "level": "B2",
+      "imageName": "nudelholz",
+      "example": "Bevor man die Plätzchen aussticht, rollt man den Teig mit dem Nudelholz aus."
+    }
+  ]
+}
