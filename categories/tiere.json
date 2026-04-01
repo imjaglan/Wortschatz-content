@@ -1,0 +1,389 @@
+{
+  "lastUpdated": "2026-04-01T00:00:00Z",
+  "words": [
+    {
+      "german": "der Hund",
+      "english": "the dog",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "hund",
+      "example": "Mein Hund ist groß und freundlich."
+    },
+    {
+      "german": "die Katze",
+      "english": "the cat",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "katze",
+      "example": "Die Katze schläft gerne in der Sonne."
+    },
+    {
+      "german": "der Vogel",
+      "english": "the bird",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "vogel",
+      "example": "Der Vogel singt jeden Morgen im Baum."
+    },
+    {
+      "german": "der Fisch",
+      "english": "the fish",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "fisch",
+      "example": "Der Fisch schwimmt schnell durch das Wasser."
+    },
+    {
+      "german": "die Maus",
+      "english": "the mouse",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "maus",
+      "example": "Die kleine Maus frisst gerne Käse."
+    },
+    {
+      "german": "das Pferd",
+      "english": "the horse",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "pferd",
+      "example": "Das Pferd läuft schnell über die Wiese."
+    },
+    {
+      "german": "die Kuh",
+      "english": "the cow",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "kuh",
+      "example": "Die Kuh gibt uns jeden Tag Milch."
+    },
+    {
+      "german": "das Schwein",
+      "english": "the pig",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "schwein",
+      "example": "Das Schwein ist rosa und sehr dick."
+    },
+    {
+      "german": "das Huhn",
+      "english": "the chicken",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "huhn",
+      "example": "Das Huhn legt jeden Tag ein Ei."
+    },
+    {
+      "german": "die Ente",
+      "english": "the duck",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "ente",
+      "example": "Die Ente schwimmt gerne auf dem See."
+    },
+    {
+      "german": "das Tier",
+      "english": "the animal",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "tier",
+      "example": "Jedes Tier braucht Wasser und Futter."
+    },
+    {
+      "german": "der Zoo",
+      "english": "the zoo",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "zoo",
+      "example": "Am Wochenende gehen wir in den Zoo."
+    },
+    {
+      "german": "das Haustier",
+      "english": "the pet",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "haustier",
+      "example": "Mein Haustier ist ein kleiner Hund."
+    },
+    {
+      "german": "die Taube",
+      "english": "the pigeon",
+      "category": "Tiere",
+      "level": "A1",
+      "imageName": "taube",
+      "example": "Die Taube sitzt auf dem Dach und gurrt."
+    },
+    {
+      "german": "der Hase",
+      "english": "the rabbit",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "hase",
+      "example": "Der Hase ist schneller als die Katze im Garten."
+    },
+    {
+      "german": "der Bär",
+      "english": "the bear",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "baer",
+      "example": "Der Bär frisst gerne Fisch, aber auch süße Beeren."
+    },
+    {
+      "german": "der Elefant",
+      "english": "the elephant",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "elefant",
+      "example": "Der Elefant ist das größte Tier im ganzen Zoo."
+    },
+    {
+      "german": "der Löwe",
+      "english": "the lion",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "loewe",
+      "example": "Der Löwe ist stark und mutig, aber auch ziemlich faul."
+    },
+    {
+      "german": "der Affe",
+      "english": "the monkey",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "affe",
+      "example": "Der Affe klettert auf den Baum, weil er Hunger hat."
+    },
+    {
+      "german": "die Biene",
+      "english": "the bee",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "biene",
+      "example": "Die Biene macht süßen Honig, aber sie kann auch stechen."
+    },
+    {
+      "german": "der Fuchs",
+      "english": "the fox",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "fuchs",
+      "example": "Der Fuchs ist schlau, aber der Hund ist viel treuer."
+    },
+    {
+      "german": "das Schaf",
+      "english": "the sheep",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "schaf",
+      "example": "Das Schaf hat weiches Fell, wenn man es anfasst."
+    },
+    {
+      "german": "die Ziege",
+      "english": "the goat",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "ziege",
+      "example": "Die Ziege klettert auf die Felsen, weil sie mutig ist."
+    },
+    {
+      "german": "der Frosch",
+      "english": "the frog",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "frosch",
+      "example": "Der Frosch springt ins Wasser, wenn es laut donnert."
+    },
+    {
+      "german": "die Spinne",
+      "english": "the spider",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "spinne",
+      "example": "Viele Menschen haben Angst, wenn sie eine Spinne sehen."
+    },
+    {
+      "german": "der Bauernhof",
+      "english": "the farm",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "bauernhof",
+      "example": "Wir haben den Bauernhof besucht, weil die Kinder Tiere lieben."
+    },
+    {
+      "german": "füttern",
+      "english": "to feed",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "fuettern",
+      "example": "Ich füttere die Enten am See, weil sie Hunger haben."
+    },
+    {
+      "german": "bellen",
+      "english": "to bark",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "bellen",
+      "example": "Der Hund bellt laut, wenn jemand an der Tür klingelt."
+    },
+    {
+      "german": "der Igel",
+      "english": "the hedgehog",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "igel",
+      "example": "Der Igel hat spitze Stacheln, aber er ist ganz harmlos."
+    },
+    {
+      "german": "der Adler",
+      "english": "the eagle",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "adler",
+      "example": "Der Adler fliegt höher als alle anderen Vögel."
+    },
+    {
+      "german": "der Delfin",
+      "english": "the dolphin",
+      "category": "Tiere",
+      "level": "A2",
+      "imageName": "delfin",
+      "example": "Der Delfin springt aus dem Wasser, weil er gerne spielt."
+    },
+    {
+      "german": "die Schlange",
+      "english": "the snake",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "schlange",
+      "example": "Die Schlange liegt still im warmen Gras, obwohl sie sehr giftig sein kann."
+    },
+    {
+      "german": "der Schmetterling",
+      "english": "the butterfly",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "schmetterling",
+      "example": "Der Schmetterling hat bunte Flügel, sodass man ihn leicht im Garten erkennt."
+    },
+    {
+      "german": "der Hirsch",
+      "english": "the deer",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "hirsch",
+      "example": "Der Hirsch versteckt sich zwischen den Bäumen, obwohl er größer als ein Hund ist."
+    },
+    {
+      "german": "die Schildkröte",
+      "english": "the turtle",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "schildkroete",
+      "example": "Die Schildkröte bewegt sich sehr langsam, deshalb braucht sie keinen schnellen Fluchtweg."
+    },
+    {
+      "german": "der Papagei",
+      "english": "the parrot",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "papagei",
+      "example": "Der Papagei spricht Wörter nach, die sein Besitzer ihm jeden Tag beibringt."
+    },
+    {
+      "german": "die Ameise",
+      "english": "the ant",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "ameise",
+      "example": "Die Ameise trägt Futter, das viel schwerer ist als sie selbst."
+    },
+    {
+      "german": "streicheln",
+      "english": "to pet",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "streicheln",
+      "example": "Viele Kinder streicheln gerne die Katze, obwohl sie manchmal kratzt."
+    },
+    {
+      "german": "fressen",
+      "english": "to eat (animals)",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "fressen",
+      "example": "Die Katze frisst jeden Abend ihren Fisch, obwohl sie tagsüber schon Milch bekommt."
+    },
+    {
+      "german": "jagen",
+      "english": "to hunt",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "jagen",
+      "example": "Die Katze jagt die Maus durch den Garten, obwohl sie keinen Hunger hat."
+    },
+    {
+      "german": "der Wal",
+      "english": "the whale",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "wal",
+      "example": "Der Wal ist das größte Tier der Welt, obwohl er nur Plankton frisst."
+    },
+    {
+      "german": "der Seehund",
+      "english": "the seal",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "seehund",
+      "example": "Am Strand der Nordsee sieht man Seehunde, die sich in der Sonne ausruhen."
+    },
+    {
+      "german": "die Muschel",
+      "english": "the mussel/shell",
+      "category": "Tiere",
+      "level": "B1",
+      "imageName": "muschel",
+      "example": "An der Nordsee sammeln die Kinder Muscheln, die das Meer an den Strand spült."
+    },
+    {
+      "german": "der Esel",
+      "english": "the donkey",
+      "category": "Tiere",
+      "level": "B2",
+      "imageName": "esel",
+      "example": "Während andere Tiere auf dem Bauernhof spielen, trägt der Esel geduldig schwere Lasten."
+    },
+    {
+      "german": "die Gans",
+      "english": "the goose",
+      "category": "Tiere",
+      "level": "B2",
+      "imageName": "gans",
+      "example": "Nachdem die Gans laut geschnattert hatte, liefen alle Hühner erschrocken über den Hof."
+    },
+    {
+      "german": "der Hai",
+      "english": "the shark",
+      "category": "Tiere",
+      "level": "B2",
+      "imageName": "hai",
+      "example": "Solange der Hai im tiefen Meer bleibt, können die Fische ruhig schwimmen."
+    },
+    {
+      "german": "der Käfig",
+      "english": "the cage",
+      "category": "Tiere",
+      "level": "B2",
+      "imageName": "kaefig",
+      "example": "Nachdem wir einen Papagei bekommen hatten, mussten wir sofort einen großen Käfig kaufen."
+    },
+    {
+      "german": "die Qualle",
+      "english": "the jellyfish",
+      "category": "Tiere",
+      "level": "B2",
+      "imageName": "qualle",
+      "example": "Falls du an der Nordsee eine Qualle siehst, solltest du sie auf keinen Fall berühren."
+    }
+  ]
+}
