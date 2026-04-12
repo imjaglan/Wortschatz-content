@@ -2,12 +2,6 @@
   "schemaVersion": 1,
   "categories": [
     {
-      "name": "Tag 1",
-      "slug": "tag-1",
-      "wordCount": 40,
-      "updatedAt": "2026-03-04T00:00:00Z"
-    },
-    {
       "name": "Getränke",
       "slug": "getraenke",
       "wordCount": 23,
@@ -36,6 +30,12 @@
       "slug": "wohnung-moebel",
       "wordCount": 55,
       "updatedAt": "2026-04-02T00:00:00Z"
+    },
+    {
+      "name": "Gesundheitssystem & Versicherung",
+      "slug": "gesundheitssystem",
+      "wordCount": 54,
+      "updatedAt": "2026-04-11T00:00:00Z"
     },
     {
       "name": "Tiere",

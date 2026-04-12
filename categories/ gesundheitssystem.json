@@ -1,0 +1,438 @@
+{
+    "lastUpdated": "2026-04-11T00:00:00Z",
+    "words": [
+      {
+        "german": "der Arzt",
+        "english": "the doctor",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A1",
+        "imageName": "arzt",
+        "example": "Der Arzt ist nett und hilft mir."
+      },
+      {
+        "german": "krank",
+        "english": "sick",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A1",
+        "imageName": "krank",
+        "example": "Ich bin krank und bleibe im Bett."
+      },
+      {
+        "german": "gesund",
+        "english": "healthy",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A1",
+        "imageName": "gesund",
+        "example": "Er ist gesund und fühlt sich gut."
+      },
+      {
+        "german": "das Krankenhaus",
+        "english": "the hospital",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A1",
+        "imageName": "krankenhaus",
+        "example": "Das Krankenhaus ist groß und neu."
+      },
+      {
+        "german": "die Apotheke",
+        "english": "the pharmacy",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A1",
+        "imageName": "apotheke",
+        "example": "Die Apotheke ist neben dem Krankenhaus."
+      },
+      {
+        "german": "das Medikament",
+        "english": "the medication",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "medikament",
+        "example": "Ich nehme das Medikament, weil ich krank bin."
+      },
+      {
+        "german": "der Termin",
+        "english": "the appointment",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "termin",
+        "example": "Ich habe einen Termin beim Arzt, aber ich warte lange."
+      },
+      {
+        "german": "die Praxis",
+        "english": "the doctor's office",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "praxis",
+        "example": "Die Praxis ist voll, weil viele Leute krank sind."
+      },
+      {
+        "german": "der Zahnarzt",
+        "english": "the dentist",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "zahnarzt",
+        "example": "Ich gehe zum Zahnarzt, weil mein Zahn wehtut."
+      },
+      {
+        "german": "der Patient",
+        "english": "the patient",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "patient",
+        "example": "Der Patient wartet lange, aber der Arzt kommt bald."
+      },
+      {
+        "german": "das Fieber",
+        "english": "the fever",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "fieber",
+        "example": "Mein Kind hat Fieber, weil es eine Erkältung hat."
+      },
+      {
+        "german": "der Husten",
+        "english": "the cough",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "husten",
+        "example": "Ich habe Husten, aber ich nehme schon ein Medikament."
+      },
+      {
+        "german": "die Erkältung",
+        "english": "the cold (illness)",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "erkaeltung",
+        "example": "Meine Freundin hat eine Erkältung, aber warmer Tee hilft ihr."
+      },
+      {
+        "german": "die Grippe",
+        "english": "the flu",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "grippe",
+        "example": "Die Grippe war sehr schlimm, aber jetzt bin ich gesund."
+      },
+      {
+        "german": "die Kopfschmerzen",
+        "english": "the headache",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "kopfschmerzen",
+        "example": "Ich habe Kopfschmerzen, weil ich schlecht geschlafen habe."
+      },
+      {
+        "german": "die Bauchschmerzen",
+        "english": "the stomachache",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "bauchschmerzen",
+        "example": "Das Kind hat Bauchschmerzen, weil es zu viel gegessen hat."
+      },
+      {
+        "german": "die Rückenschmerzen",
+        "english": "the back pain",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "rueckenschmerzen",
+        "example": "Ich habe Rückenschmerzen, weil ich den ganzen Tag sitze."
+      },
+      {
+        "german": "das Pflaster",
+        "english": "the bandage/plaster",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "pflaster",
+        "example": "Ich brauche ein Pflaster, weil ich mich verletzt habe."
+      },
+      {
+        "german": "die Spritze",
+        "english": "the injection/syringe",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "spritze",
+        "example": "Ich bekomme eine Spritze, aber ich habe keine Angst."
+      },
+      {
+        "german": "die Allergie",
+        "english": "the allergy",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "allergie",
+        "example": "Meine Allergie ist im Frühling schlimm, aber Tabletten helfen mir."
+      },
+      {
+        "german": "schwanger",
+        "english": "pregnant",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "schwanger",
+        "example": "Sie geht oft zum Arzt, weil sie schwanger ist."
+      },
+      {
+        "german": "die Tablette",
+        "english": "the pill/tablet",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "tablette",
+        "example": "Ich nehme eine Tablette, weil ich Kopfschmerzen habe."
+      },
+      {
+        "german": "das Thermometer",
+        "english": "the thermometer",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "thermometer",
+        "example": "Ich brauche ein Thermometer, weil ich vielleicht Fieber habe."
+      },
+      {
+        "german": "die Wunde",
+        "english": "the wound",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "wunde",
+        "example": "Die Wunde am Arm tut weh, aber sie heilt schnell."
+      },
+      {
+        "german": "das Blut",
+        "english": "the blood",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "A2",
+        "imageName": "blut",
+        "example": "Der Arzt nimmt Blut ab, weil er mich untersuchen will."
+      },
+      {
+        "german": "der Krankenpfleger",
+        "english": "the nurse",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "krankenpfleger",
+        "example": "Der Krankenpfleger im Krankenhaus hilft den Patienten, obwohl er wenig Zeit hat."
+      },
+      {
+        "german": "die Krankenversicherung",
+        "english": "the health insurance",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "krankenversicherung",
+        "example": "Die Krankenversicherung übernimmt die Kosten, sodass der Patient nichts bezahlen muss."
+      },
+      {
+        "german": "die Überweisung",
+        "english": "the referral",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "ueberweisung",
+        "example": "Ich brauche eine Überweisung vom Arzt, damit ich zum Facharzt gehen kann."
+      },
+      {
+        "german": "der Facharzt",
+        "english": "the specialist",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "facharzt",
+        "example": "Der Patient geht zum Facharzt, obwohl der Termin erst in drei Wochen frei war."
+      },
+      {
+        "german": "die Operation",
+        "english": "the operation/surgery",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "operation",
+        "example": "Die Operation war erfolgreich, sodass der Patient bald nach Hause gehen kann."
+      },
+      {
+        "german": "behandeln",
+        "english": "to treat",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "behandeln",
+        "example": "Der Arzt behandelt den Patienten sofort, obwohl die Praxis heute sehr voll ist."
+      },
+      {
+        "german": "untersuchen",
+        "english": "to examine",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "untersuchen",
+        "example": "Der Arzt untersucht mich gründlich, damit er die richtige Diagnose stellen kann."
+      },
+      {
+        "german": "die Notaufnahme",
+        "english": "the emergency room",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "notaufnahme",
+        "example": "Die Schmerzen sind sehr stark, deshalb fahren wir sofort zur Notaufnahme."
+      },
+      {
+        "german": "der Krankenwagen",
+        "english": "the ambulance",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "krankenwagen",
+        "example": "Der Krankenwagen kommt schnell zum Krankenhaus, damit der Patient sofort behandelt wird."
+      },
+      {
+        "german": "die Krankschreibung",
+        "english": "the sick note",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "krankschreibung",
+        "example": "Ich brauche eine Krankschreibung vom Arzt, damit mein Arbeitgeber Bescheid weiß."
+      },
+      {
+        "german": "impfen",
+        "english": "to vaccinate",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "impfen",
+        "example": "Der Arzt impft mich gegen Grippe, sodass ich im Winter gesund bleibe."
+      },
+      {
+        "german": "die Diagnose",
+        "english": "the diagnosis",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "diagnose",
+        "example": "Der Arzt stellt die Diagnose schnell, damit er mich richtig behandeln kann."
+      },
+      {
+        "german": "die Nebenwirkung",
+        "english": "the side effect",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "nebenwirkung",
+        "example": "Das Medikament hat eine Nebenwirkung, obwohl der Arzt es mir empfohlen hat."
+      },
+      {
+        "german": "sich anstecken",
+        "english": "to get infected",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "anstecken",
+        "example": "Man kann sich leicht anstecken, deshalb sollte man bei Grippe zu Hause bleiben."
+      },
+      {
+        "german": "das Rezept",
+        "english": "the prescription",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "rezept",
+        "example": "Der Arzt schreibt ein Rezept, damit ich das Medikament in der Apotheke bekomme."
+      },
+      {
+        "german": "der Blutdruck",
+        "english": "the blood pressure",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "blutdruck",
+        "example": "Der Arzt misst meinen Blutdruck regelmäßig, damit er Probleme früh erkennen kann."
+      },
+      {
+        "german": "der Notruf",
+        "english": "the emergency call",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "notruf",
+        "example": "Man muss den Notruf wählen, damit der Krankenwagen schnell kommen kann."
+      },
+      {
+        "german": "die Erste Hilfe",
+        "english": "the first aid",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "erstehilfe",
+        "example": "Jeder sollte Erste Hilfe lernen, damit man in Notfällen richtig helfen kann."
+      },
+      {
+        "german": "der Chirurg",
+        "english": "the surgeon",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "chirurg",
+        "example": "Der Chirurg operiert den Patienten sofort, obwohl es schon spät in der Nacht ist."
+      },
+      {
+        "german": "die Versichertenkarte",
+        "english": "the insurance card",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "versichertenkarte",
+        "example": "Man muss die Versichertenkarte mitbringen, damit die Praxis die Behandlung abrechnen kann."
+      },
+      {
+        "german": "der Gips",
+        "english": "the cast",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "gips",
+        "example": "Der Arzt legt einen Gips an, damit der gebrochene Arm richtig heilen kann."
+      },
+      {
+        "german": "die Narbe",
+        "english": "the scar",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "narbe",
+        "example": "Die Narbe erinnert mich an einen Unfall, obwohl er schon lange her ist."
+      },
+      {
+        "german": "die Schwellung",
+        "english": "the swelling",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "schwellung",
+        "example": "Die Schwellung am Fuß wird nicht besser, deshalb gehe ich zum Arzt."
+      },
+      {
+        "german": "die Entzündung",
+        "english": "the inflammation",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B1",
+        "imageName": "entzuendung",
+        "example": "Die Entzündung im Ohr ist sehr schmerzhaft, sodass ich sofort zum Arzt gehe."
+      },
+      {
+        "german": "die Vorsorgeuntersuchung",
+        "english": "the preventive checkup",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B2",
+        "imageName": "vorsorgeuntersuchung",
+        "example": "Nachdem die Krankenversicherung die Kosten übernommen hat, geht der Patient zur Vorsorgeuntersuchung."
+      },
+      {
+        "german": "die Reha",
+        "english": "the rehabilitation",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B2",
+        "imageName": "reha",
+        "example": "Nachdem die Operation gut verlaufen ist, beginnt der Patient eine Reha zur Erholung."
+      },
+      {
+        "german": "der Burnout",
+        "english": "the burnout",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B2",
+        "imageName": "burnout",
+        "example": "Bevor der Stress zu einem Burnout führt, sollte man rechtzeitig zum Arzt gehen."
+      },
+      {
+        "german": "bewusstlos",
+        "english": "unconscious",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B2",
+        "imageName": "bewusstlos",
+        "example": "Falls ein Patient bewusstlos wird, muss man sofort den Krankenwagen rufen."
+      },
+      {
+        "german": "der Herzschlag",
+        "english": "the heartbeat",
+        "category": "Gesundheitssystem & Versicherung",
+        "level": "B2",
+        "imageName": "herzschlag",
+        "example": "Nachdem der Arzt den Herzschlag überprüft hat, sagt er, dass alles in Ordnung ist."
+      }
+    ]
+  }
+  
