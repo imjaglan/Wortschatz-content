@@ -1,0 +1,589 @@
+{
+  "lastUpdated": "2026-04-18T12:00:00Z",
+  "words": [
+    {
+      "german": "die Arbeit",
+      "english": "the work",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "arbeit",
+      "example": "Ich gehe jeden Tag zur Arbeit."
+    },
+    {
+      "german": "der Chef",
+      "english": "the boss",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "chef",
+      "example": "Der Chef ist heute im Büro."
+    },
+    {
+      "german": "das Büro",
+      "english": "the office",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "buero",
+      "example": "Das Büro ist groß und hell."
+    },
+    {
+      "german": "der Computer",
+      "english": "the computer",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "computer",
+      "example": "Der Computer ist neu und schnell."
+    },
+    {
+      "german": "die E-Mail",
+      "english": "the email",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "email",
+      "example": "Ich schreibe eine E-Mail an den Chef."
+    },
+    {
+      "german": "das Telefon",
+      "english": "the telephone",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "telefon",
+      "example": "Das Telefon klingelt laut und lange."
+    },
+    {
+      "german": "anrufen",
+      "english": "to call",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "anrufen",
+      "example": "Ich rufe den Chef an."
+    },
+    {
+      "german": "die Pause",
+      "english": "the break",
+      "category": "Berufsleben",
+      "level": "A1",
+      "imageName": "pause",
+      "example": "Ich mache eine kurze Pause."
+    },
+    {
+      "german": "der Beruf",
+      "english": "the profession",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "beruf",
+      "example": "Mein Beruf macht Spaß, weil ich gern arbeite."
+    },
+    {
+      "german": "der Kollege",
+      "english": "the colleague",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "kollege",
+      "example": "Mein Kollege hilft mir, wenn ich Fragen habe."
+    },
+    {
+      "german": "das Gehalt",
+      "english": "the salary",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "gehalt",
+      "example": "Das Gehalt kommt jeden Monat, wenn man arbeitet."
+    },
+    {
+      "german": "der Urlaub",
+      "english": "the vacation",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "urlaub",
+      "example": "Ich brauche Urlaub, weil die Arbeit stressig ist."
+    },
+    {
+      "german": "die Firma",
+      "english": "the company",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "firma",
+      "example": "Die Firma ist groß, aber der Chef kennt alle."
+    },
+    {
+      "german": "die Besprechung",
+      "english": "the meeting",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "besprechung",
+      "example": "Die Besprechung war lang, aber wir haben viel besprochen."
+    },
+    {
+      "german": "der Vertrag",
+      "english": "the contract",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "vertrag",
+      "example": "Ich habe den Vertrag unterschrieben, weil die Arbeit passt."
+    },
+    {
+      "german": "kündigen",
+      "english": "to quit/resign",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "kuendigen",
+      "example": "Er hat gekündigt, weil der Chef unfair war."
+    },
+    {
+      "german": "verdienen",
+      "english": "to earn",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "verdienen",
+      "example": "Sie verdient gut, aber sie arbeitet sehr viel."
+    },
+    {
+      "german": "der Lebenslauf",
+      "english": "the CV/resume",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "lebenslauf",
+      "example": "Mein Lebenslauf ist fertig, aber ich muss ihn prüfen."
+    },
+    {
+      "german": "das Vorstellungsgespräch",
+      "english": "the job interview",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "vorstellungsgespraech",
+      "example": "Das Vorstellungsgespräch war gut, weil ich ruhig war."
+    },
+    {
+      "german": "die Überstunden",
+      "english": "the overtime",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "ueberstunden",
+      "example": "Ich mache Überstunden, wenn viel Arbeit im Büro ist."
+    },
+    {
+      "german": "die Teilzeit",
+      "english": "the part-time",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "teilzeit",
+      "example": "Sie arbeitet in Teilzeit, weil sie ein Kind hat."
+    },
+    {
+      "german": "die Vollzeit",
+      "english": "the full-time",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "vollzeit",
+      "example": "Ich arbeite in Vollzeit, aber ich möchte weniger arbeiten."
+    },
+    {
+      "german": "der Praktikant",
+      "english": "the intern",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "praktikant",
+      "example": "Der Praktikant ist neu, aber er lernt schnell."
+    },
+    {
+      "german": "die Mittagspause",
+      "english": "the lunch break",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "mittagspause",
+      "example": "In der Mittagspause esse ich, wenn ich Zeit habe."
+    },
+    {
+      "german": "der Kunde",
+      "english": "the customer",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "kunde",
+      "example": "Der Kunde ruft an, aber ich bin beschäftigt."
+    },
+    {
+      "german": "der Mitarbeiter",
+      "english": "the employee",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "mitarbeiter",
+      "example": "Der neue Mitarbeiter ist fleißig, aber oft müde."
+    },
+    {
+      "german": "die Kantine",
+      "english": "the canteen",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "kantine",
+      "example": "In der Kantine esse ich, wenn ich Hunger habe."
+    },
+    {
+      "german": "drucken",
+      "english": "to print",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "drucken",
+      "example": "Ich drucke den Vertrag, weil der Chef ihn braucht."
+    },
+    {
+      "german": "die Aufgabe",
+      "english": "the task",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "aufgabe",
+      "example": "Die Aufgabe ist schwer, aber ich arbeite fleißig daran."
+    },
+    {
+      "german": "unterschreiben",
+      "english": "to sign",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "unterschreiben",
+      "example": "Ich unterschreibe den Vertrag, wenn alles richtig ist."
+    },
+    {
+      "german": "der Laptop",
+      "english": "the laptop",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "laptop",
+      "example": "Mein Laptop ist neu, aber schon sehr langsam."
+    },
+    {
+      "german": "der Drucker",
+      "english": "the printer",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "drucker",
+      "example": "Der Drucker steht im Büro, aber er ist oft kaputt."
+    },
+    {
+      "german": "die Unterlagen",
+      "english": "the documents",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "unterlagen",
+      "example": "Ich brauche die Unterlagen, weil der Chef sie sehen will."
+    },
+    {
+      "german": "der Kalender",
+      "english": "the calendar",
+      "category": "Berufsleben",
+      "level": "A2",
+      "imageName": "kalender",
+      "example": "Mein Kalender ist voll, aber ich finde immer Zeit."
+    },
+    {
+      "german": "die Abteilung",
+      "english": "the department",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "abteilung",
+      "example": "Unsere Abteilung hat viele neue Kollegen bekommen, obwohl das Büro klein ist."
+    },
+    {
+      "german": "sich bewerben",
+      "english": "to apply (for a job)",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "bewerben",
+      "example": "Er hat sich bei drei Firmen beworben, obwohl er schon Arbeit hatte."
+    },
+    {
+      "german": "der Arbeitgeber",
+      "english": "the employer",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "arbeitgeber",
+      "example": "Mein Arbeitgeber bietet Homeoffice an, sodass ich flexibel arbeiten kann."
+    },
+    {
+      "german": "das Arbeitszeugnis",
+      "english": "the work reference",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "arbeitszeugnis",
+      "example": "Das Arbeitszeugnis muss positiv formuliert sein, obwohl die Bewertung schlecht ist."
+    },
+    {
+      "german": "das Homeoffice",
+      "english": "the home office",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "homeoffice",
+      "example": "Ich arbeite oft im Homeoffice, obwohl ich das Büro manchmal vermisse."
+    },
+    {
+      "german": "die Deadline",
+      "english": "the deadline",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "deadline",
+      "example": "Wir müssen schneller arbeiten, damit wir die Deadline am Freitag einhalten."
+    },
+    {
+      "german": "das Projekt",
+      "english": "the project",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "projekt",
+      "example": "Das Projekt dauert drei Monate, sodass wir viel Zeit zum Planen haben."
+    },
+    {
+      "german": "die Präsentation",
+      "english": "the presentation",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "praesentation",
+      "example": "Die Präsentation war überzeugend, sodass der Chef das Projekt sofort genehmigt hat."
+    },
+    {
+      "german": "die Krankmeldung",
+      "english": "the sick report",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "krankmeldung",
+      "example": "Man muss die Krankmeldung am ersten Tag abgeben, damit der Arbeitgeber informiert ist."
+    },
+    {
+      "german": "die Stelle",
+      "english": "the position/job",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "stelle",
+      "example": "Die Stelle passt gut zu meinem Beruf, deshalb habe ich mich beworben."
+    },
+    {
+      "german": "befördern",
+      "english": "to promote",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "befoerdern",
+      "example": "Die Firma hat ihn befördert, obwohl er erst ein Jahr dort arbeitet."
+    },
+    {
+      "german": "einstellen",
+      "english": "to hire",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "einstellen",
+      "example": "Die Firma stellt neue Mitarbeiter ein, damit die Abteilung schneller arbeitet."
+    },
+    {
+      "german": "entlassen",
+      "english": "to lay off",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "entlassen",
+      "example": "Die Firma hat viele Kollegen entlassen, sodass die Stimmung im Büro schlecht ist."
+    },
+    {
+      "german": "leiten",
+      "english": "to manage/lead",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "leiten",
+      "example": "Sie leitet die Abteilung seit zwei Jahren, obwohl sie noch jung ist."
+    },
+    {
+      "german": "das Team",
+      "english": "the team",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "team",
+      "example": "Unser Team arbeitet sehr gut zusammen, obwohl wir alle verschieden sind."
+    },
+    {
+      "german": "die Arbeitszeit",
+      "english": "the working hours",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "arbeitszeit",
+      "example": "Meine Arbeitszeit ist flexibel, sodass ich morgens später kommen kann."
+    },
+    {
+      "german": "der Feiertag",
+      "english": "the public holiday",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "feiertag",
+      "example": "Am Feiertag bleibt das Büro geschlossen, damit alle Kollegen frei haben."
+    },
+    {
+      "german": "die Steuer",
+      "english": "the tax",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "steuer",
+      "example": "Man muss jedes Jahr Steuern zahlen, obwohl es niemand gerne macht."
+    },
+    {
+      "german": "die Rente",
+      "english": "the pension",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "rente",
+      "example": "In Deutschland bekommt man die Rente erst mit 67, obwohl viele früher aufhören möchten."
+    },
+    {
+      "german": "die Fachkraft",
+      "english": "the skilled worker",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "fachkraft",
+      "example": "Deutschland braucht viele Fachkräfte, damit die Wirtschaft weiterhin gut funktioniert."
+    },
+    {
+      "german": "der Feierabend",
+      "english": "the end of workday",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "feierabend",
+      "example": "Nach dem Feierabend liest er keine E-Mails mehr, obwohl der Chef schreibt."
+    },
+    {
+      "german": "diskutieren",
+      "english": "to discuss",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "diskutieren",
+      "example": "Wir diskutieren in der Besprechung lange, obwohl die Zeit knapp ist."
+    },
+    {
+      "german": "notieren",
+      "english": "to take notes",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "notieren",
+      "example": "Ich notiere wichtige Punkte in der Besprechung, damit ich nichts vergesse."
+    },
+    {
+      "german": "der Bewerber",
+      "english": "the applicant",
+      "category": "Berufsleben",
+      "level": "B1",
+      "imageName": "bewerber",
+      "example": "Der Bewerber wartet im Flur, obwohl das Vorstellungsgespräch schon begonnen hat."
+    },
+    {
+      "german": "die Führungskraft",
+      "english": "the manager/executive",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "fuehrungskraft",
+      "example": "Bevor die Führungskraft entscheidet, hört sie die Meinungen aller Kollegen an."
+    },
+    {
+      "german": "die Geschäftsreise",
+      "english": "the business trip",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "geschaeftsreise",
+      "example": "Bevor die Geschäftsreise beginnt, muss man alle Termine sorgfältig im Kalender planen."
+    },
+    {
+      "german": "die Videokonferenz",
+      "english": "the video conference",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "videokonferenz",
+      "example": "Während wir in der Videokonferenz waren, besprachen wir die Deadline für das Projekt."
+    },
+    {
+      "german": "pendeln",
+      "english": "to commute",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "pendeln",
+      "example": "Solange er zwischen zwei Städten pendelt, verbringt er täglich Stunden im Zug."
+    },
+    {
+      "german": "überzeugen",
+      "english": "to convince",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "ueberzeugen",
+      "example": "Um den Chef zu überzeugen, hat sie eine detaillierte Präsentation vorbereitet."
+    },
+    {
+      "german": "präsentieren",
+      "english": "to present",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "praesentieren",
+      "example": "Nachdem sie das Projekt präsentiert hatte, stellten die Kollegen viele Fragen."
+    },
+    {
+      "german": "organisieren",
+      "english": "to organize",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "organisieren",
+      "example": "Bevor man eine Besprechung organisiert, sollte man alle Kollegen per E-Mail informieren."
+    },
+    {
+      "german": "motivieren",
+      "english": "to motivate",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "motivieren",
+      "example": "Bevor ein Chef sein Team motivieren kann, muss er ihre Bedürfnisse verstehen."
+    },
+    {
+      "german": "delegieren",
+      "english": "to delegate",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "delegieren",
+      "example": "Um effizient zu arbeiten, sollte eine Führungskraft Aufgaben an das Team delegieren."
+    },
+    {
+      "german": "der Vorgesetzte",
+      "english": "the supervisor",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "vorgesetzte",
+      "example": "Nachdem der Vorgesetzte das Projekt genehmigt hatte, begann das Team sofort zu arbeiten."
+    },
+    {
+      "german": "die Karriereleiter",
+      "english": "the career ladder",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "karriereleiter",
+      "example": "Um die Karriereleiter zu erklimmen, braucht man viel Zeit und gute Kontakte."
+    },
+    {
+      "german": "führen",
+      "english": "to lead",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "fuehren",
+      "example": "Um ein Team erfolgreich zu führen, muss man den Kollegen gut zuhören."
+    },
+    {
+      "german": "verhandeln",
+      "english": "to negotiate",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "verhandeln",
+      "example": "Nachdem er lange verhandelt hatte, bekam er endlich ein besseres Gehalt."
+    },
+    {
+      "german": "einarbeiten",
+      "english": "to onboard/train in",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "einarbeiten",
+      "example": "Nachdem sich der neue Kollege eingearbeitet hatte, leitete er kleine Projekte selbst."
+    },
+    {
+      "german": "erledigen",
+      "english": "to get done/handle",
+      "category": "Berufsleben",
+      "level": "B2",
+      "imageName": "erledigen",
+      "example": "Bevor ich heute Feierabend mache, muss ich alle dringenden Aufgaben erledigen."
+    }
+  ]
+}
