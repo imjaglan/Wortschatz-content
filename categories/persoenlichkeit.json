@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T00:00:00Z",
+  "lastUpdated": "2026-05-03T00:00:00Z",
   "words": [
     {
       "german": "glücklich",
@@ -166,7 +166,7 @@
       "english": "in a good mood",
       "category": "Persönlichkeit",
       "level": "A2",
-      "imageName": "gutgelaunt",
+      "imageName": "gut-gelaunt",
       "example": "Ich bin gut gelaunt, wenn die Sonne scheint."
     },
     {
@@ -174,7 +174,7 @@
       "english": "in a bad mood / moody",
       "category": "Persönlichkeit",
       "level": "A2",
-      "imageName": "schlechtgelaunt",
+      "imageName": "schlecht-gelaunt",
       "example": "Er ist schlecht gelaunt, weil er kaum geschlafen hat."
     },
     {
@@ -242,14 +242,6 @@
       "example": "Das Kind ist so lebhaft, dass es nie still sitzen kann."
     },
     {
-      "german": "sich ärgern",
-      "english": "to get angry",
-      "category": "Persönlichkeit",
-      "level": "B1",
-      "imageName": "aergern",
-      "example": "Ich ärgere mich über den Lärm, obwohl ich sonst ein ruhiger Mensch bin."
-    },
-    {
       "german": "eingebildet",
       "english": "arrogant / conceited",
       "category": "Persönlichkeit",
@@ -272,30 +264,6 @@
       "level": "B2",
       "imageName": "humorlos",
       "example": "Während alle über den Witz lachten, blieb er völlig humorlos am Tisch sitzen."
-    },
-    {
-      "german": "die Persönlichkeit",
-      "english": "the personality",
-      "category": "Persönlichkeit",
-      "level": "B2",
-      "imageName": "persoenlichkeit",
-      "example": "Bevor man jemanden wirklich kennt, sollte man seine Persönlichkeit nicht zu schnell beurteilen."
-    },
-    {
-      "german": "der Angeber",
-      "english": "the show-off",
-      "category": "Persönlichkeit",
-      "level": "B2",
-      "imageName": "angeber",
-      "example": "Während er vor seinen Freunden mit dem neuen Auto prahlte, nannten ihn alle einen Angeber."
-    },
-    {
-      "german": "jemandem auf die Nerven gehen",
-      "english": "to get on someone's nerves",
-      "category": "Persönlichkeit",
-      "level": "B2",
-      "imageName": "nervengehen",
-      "example": "Falls dir jemand ständig auf die Nerven geht, solltest du das offen ansprechen."
     }
   ]
 }

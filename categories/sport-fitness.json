@@ -1,0 +1,589 @@
+{
+  "lastUpdated": "2026-05-16T00:00:00Z",
+  "words": [
+    {
+      "german": "trainieren",
+      "english": "to train",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "trainieren",
+      "example": "Ich trainiere heute im Park."
+    },
+    {
+      "german": "spielen",
+      "english": "to play",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "spielen",
+      "example": "Die Kinder spielen im Garten."
+    },
+    {
+      "german": "laufen",
+      "english": "to run / walk",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "laufen",
+      "example": "Ich laufe morgens durch den Park."
+    },
+    {
+      "german": "joggen",
+      "english": "to jog",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "joggen",
+      "example": "Wir joggen heute am Fluss."
+    },
+    {
+      "german": "rennen",
+      "english": "to run fast",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "rennen",
+      "example": "Der Junge rennt zum Ball."
+    },
+    {
+      "german": "spazieren gehen",
+      "english": "to go for a walk",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "spazierengehen",
+      "example": "Wir gehen nach dem Essen spazieren."
+    },
+    {
+      "german": "wandern",
+      "english": "to hike",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "wandern",
+      "example": "Im Sommer wandern wir in den Bergen."
+    },
+    {
+      "german": "springen",
+      "english": "to jump",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "springen",
+      "example": "Das Kind springt hoch in die Luft."
+    },
+    {
+      "german": "hüpfen",
+      "english": "to hop",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "huepfen",
+      "example": "Die Kinder hüpfen über die Linie."
+    },
+    {
+      "german": "schwimmen",
+      "english": "to swim",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "schwimmen",
+      "example": "Im Sommer schwimme ich gern."
+    },
+    {
+      "german": "werfen",
+      "english": "to throw",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "werfen",
+      "example": "Ich werfe den Ball weit."
+    },
+    {
+      "german": "fangen",
+      "english": "to catch",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "fangen",
+      "example": "Du fängst den Ball sicher."
+    },
+    {
+      "german": "gewinnen",
+      "english": "to win",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "gewinnen",
+      "example": "Unsere Mannschaft gewinnt das Spiel."
+    },
+    {
+      "german": "verlieren",
+      "english": "to lose",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "verlieren",
+      "example": "Ich verliere beim Tennis nicht gern."
+    },
+    {
+      "german": "schießen",
+      "english": "to shoot / kick",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "schiessen",
+      "example": "Er schießt den Ball ins Tor."
+    },
+    {
+      "german": "treffen",
+      "english": "to hit / score",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "treffen",
+      "example": "Sie trifft den Ball gut."
+    },
+    {
+      "german": "passen",
+      "english": "to pass",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "passen",
+      "example": "Ich passe den Ball schnell."
+    },
+    {
+      "german": "sich ausruhen",
+      "english": "to rest",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "sichausruhen",
+      "example": "Nach dem Lauf ruhe ich mich aus."
+    },
+    {
+      "german": "eine Pause machen",
+      "english": "to take a break",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "einepausemachen",
+      "example": "Wir machen jetzt eine kurze Pause."
+    },
+    {
+      "german": "tanzen",
+      "english": "to dance",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "tanzen",
+      "example": "Am Abend tanzen wir im Kurs."
+    },
+    {
+      "german": "der Ball",
+      "english": "the ball",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "ball",
+      "example": "Die Kinder spielen mit dem Ball im Park."
+    },
+    {
+      "german": "das Fahrrad",
+      "english": "the bike",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "fahrrad",
+      "example": "Ich fahre mit dem Fahrrad zur Schule."
+    },
+    {
+      "german": "das Tor",
+      "english": "the goal",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "tor",
+      "example": "Der Junge schießt den Ball ins Tor."
+    },
+    {
+      "german": "die Turnschuhe",
+      "english": "the sneakers",
+      "category": "Sport & Fitness",
+      "level": "A1",
+      "imageName": "turnschuhe",
+      "example": "Meine Turnschuhe sind weiß und bequem."
+    },
+    {
+      "german": "fit bleiben",
+      "english": "to stay fit",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "fitbleiben",
+      "example": "Ich bleibe fit, weil ich oft laufe."
+    },
+    {
+      "german": "klettern",
+      "english": "to climb",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "klettern",
+      "example": "Wir klettern langsam, weil die Wand hoch ist."
+    },
+    {
+      "german": "balancieren",
+      "english": "to balance",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "balancieren",
+      "example": "Das Kind balanciert langsam, weil der Balken wackelt."
+    },
+    {
+      "german": "tauchen",
+      "english": "to dive",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "tauchen",
+      "example": "Im Urlaub tauche ich, wenn das Meer ruhig ist."
+    },
+    {
+      "german": "surfen",
+      "english": "to surf",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "surfen",
+      "example": "Am Strand surfen wir, weil die Wellen gut sind."
+    },
+    {
+      "german": "rudern",
+      "english": "to row",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "rudern",
+      "example": "Wir rudern auf dem See, wenn es warm ist."
+    },
+    {
+      "german": "paddeln",
+      "english": "to paddle",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "paddeln",
+      "example": "Im Sommer paddeln wir, wenn der Fluss ruhig ist."
+    },
+    {
+      "german": "segeln",
+      "english": "to sail",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "segeln",
+      "example": "Wir segeln nur, wenn der Wind passt."
+    },
+    {
+      "german": "mitmachen",
+      "english": "to join in",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "mitmachen",
+      "example": "Ich mache beim Training mit, weil es Spaß macht."
+    },
+    {
+      "german": "zuschauen",
+      "english": "to watch",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "zuschauen",
+      "example": "Ich schaue heute nur zu, weil mein Knie wehtut."
+    },
+    {
+      "german": "dribbeln",
+      "english": "to dribble",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "dribbeln",
+      "example": "Beim Basketball dribbelt er schnell, weil der Weg frei ist."
+    },
+    {
+      "german": "aufschlagen",
+      "english": "to serve",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "aufschlagen",
+      "example": "Beim Tennis schlägt sie auf, wenn alle bereit sind."
+    },
+    {
+      "german": "blocken",
+      "english": "to block",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "blocken",
+      "example": "Beim Volleyball blockt er, wenn der Ball ans Netz kommt."
+    },
+    {
+      "german": "sich aufwärmen",
+      "english": "to warm up",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "sichaufwaermen",
+      "example": "Wir wärmen uns auf, weil es gleich losgeht."
+    },
+    {
+      "german": "sich dehnen",
+      "english": "to stretch",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "sichdehnen",
+      "example": "Ich dehne mich, weil meine Beine müde sind."
+    },
+    {
+      "german": "Yoga machen",
+      "english": "to do yoga",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "yogamachen",
+      "example": "Ich mache Yoga, wenn mein Rücken wehtut."
+    },
+    {
+      "german": "Pilates machen",
+      "english": "to do Pilates",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "pilatesmachen",
+      "example": "Meine Schwester macht Pilates, weil es ihr guttut."
+    },
+    {
+      "german": "sich verletzen",
+      "english": "to get injured",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "sichverletzen",
+      "example": "Beim Fußball verletzt er sich, weil der Boden nass ist."
+    },
+    {
+      "german": "stürzen",
+      "english": "to fall",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "stuerzen",
+      "example": "Beim Radfahren stürzt sie, weil die Straße nass ist."
+    },
+    {
+      "german": "hinfallen",
+      "english": "to fall down",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "hinfallen",
+      "example": "Das Kind fällt hin, aber es lacht sofort."
+    },
+    {
+      "german": "sich wehtun",
+      "english": "to hurt oneself",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "sichwehtun",
+      "example": "Ich tue mir weh, wenn ich falsch springe."
+    },
+    {
+      "german": "die Hantel",
+      "english": "the dumbbell",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "hantel",
+      "example": "Die Hantel ist schwer, aber ich hebe sie hoch."
+    },
+    {
+      "german": "der Helm",
+      "english": "the helmet",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "helm",
+      "example": "Ich trage einen Helm, wenn ich Fahrrad fahre."
+    },
+    {
+      "german": "die Mannschaft",
+      "english": "the team",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "mannschaft",
+      "example": "Meine Mannschaft gewinnt oft, weil wir viel trainieren."
+    },
+    {
+      "german": "die Medaille",
+      "english": "the medal",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "medaille",
+      "example": "Sie bekommt eine goldene Medaille, weil sie schnell schwimmt."
+    },
+    {
+      "german": "das Netz",
+      "english": "the net",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "netz",
+      "example": "Der Ball fliegt über das Netz, wenn ich gut treffe."
+    },
+    {
+      "german": "der Pokal",
+      "english": "the trophy",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "pokal",
+      "example": "Mein Bruder gewinnt einen Pokal, weil er schnell läuft."
+    },
+    {
+      "german": "der Schläger",
+      "english": "the racket",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "schlaeger",
+      "example": "Ich brauche einen neuen Schläger, weil meiner kaputt ist."
+    },
+    {
+      "german": "der Spieler",
+      "english": "the player",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "spieler",
+      "example": "Der Spieler rennt schnell, weil er ein Tor schießen will."
+    },
+    {
+      "german": "das Springseil",
+      "english": "the jump rope",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "springseil",
+      "example": "Das Kind springt mit dem Springseil, weil es Spaß macht."
+    },
+    {
+      "german": "der Trainer",
+      "english": "the coach",
+      "category": "Sport & Fitness",
+      "level": "A2",
+      "imageName": "trainer",
+      "example": "Der Trainer hilft mir, wenn ich müde bin."
+    },
+    {
+      "german": "teilnehmen",
+      "english": "to participate",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "teilnehmen",
+      "example": "Ich nehme am Firmenlauf teil, obwohl ich sonst nur selten jogge."
+    },
+    {
+      "german": "kämpfen",
+      "english": "to fight / compete",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "kaempfen",
+      "example": "Die Spieler kämpfen bis zum Ende, damit sie noch gewinnen."
+    },
+    {
+      "german": "anfeuern",
+      "english": "to cheer on",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "anfeuern",
+      "example": "Die Fans feuern die Mannschaft an, obwohl es stark regnet."
+    },
+    {
+      "german": "Gewichte heben",
+      "english": "to lift weights",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "gewichteheben",
+      "example": "Im Fitnessstudio hebe ich Gewichte, damit meine Arme stärker werden."
+    },
+    {
+      "german": "Krafttraining machen",
+      "english": "to do strength training",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "krafttrainingmachen",
+      "example": "Ich mache Krafttraining, obwohl ich früher fast nur gelaufen bin."
+    },
+    {
+      "german": "Liegestütze machen",
+      "english": "to do push-ups",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "liegestuetzemachen",
+      "example": "Mein Bruder macht Liegestütze, damit er zu Hause trainieren kann."
+    },
+    {
+      "german": "Kniebeugen machen",
+      "english": "to do squats",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "kniebeugenmachen",
+      "example": "Im Kurs machen wir Kniebeugen, obwohl die Beine schnell müde werden."
+    },
+    {
+      "german": "Bauchübungen machen",
+      "english": "to do ab exercises",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "bauchuebungenmachen",
+      "example": "Nach dem Aufwärmen machen wir Bauchübungen, damit der Rücken stabil bleibt."
+    },
+    {
+      "german": "abnehmen",
+      "english": "to lose weight",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "abnehmen",
+      "example": "Viele Menschen wollen abnehmen, obwohl regelmäßiger Sport viel Zeit braucht."
+    },
+    {
+      "german": "zunehmen",
+      "english": "to gain weight",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "zunehmen",
+      "example": "Manche Sportler wollen zunehmen, damit sie im Training mehr Kraft haben."
+    },
+    {
+      "german": "Muskeln aufbauen",
+      "english": "to build muscle",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "muskelnaufbauen",
+      "example": "Ich baue Muskeln auf, obwohl ich nur zweimal pro Woche trainiere."
+    },
+    {
+      "german": "Kalorien verbrennen",
+      "english": "to burn calories",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "kalorienverbrennen",
+      "example": "Beim Schwimmen verbrennt man Kalorien, obwohl es sich leicht anfühlt."
+    },
+    {
+      "german": "sich verbessern",
+      "english": "to improve",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "sichverbessern",
+      "example": "Ich verbessere mich beim Laufen langsam, obwohl ich nur montags trainiere."
+    },
+    {
+      "german": "umknicken",
+      "english": "to twist an ankle",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "umknicken",
+      "example": "Sie knickt beim Laufen mit dem Fuß um, obwohl der Weg eben aussieht."
+    },
+    {
+      "german": "heilen",
+      "english": "to heal",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "heilen",
+      "example": "Die Verletzung heilt langsam, obwohl ich das Bein viel schone."
+    },
+    {
+      "german": "der Boxhandschuh",
+      "english": "the boxing glove",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "boxhandschuh",
+      "example": "Beim Training trage ich Boxhandschuhe, damit meine Hände sicher bleiben."
+    },
+    {
+      "german": "der Schiedsrichter",
+      "english": "the referee",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "schiedsrichter",
+      "example": "Der Schiedsrichter zeigt eine rote Karte, obwohl der Spieler protestiert."
+    },
+    {
+      "german": "das Surfbrett",
+      "english": "the surfboard",
+      "category": "Sport & Fitness",
+      "level": "B1",
+      "imageName": "surfbrett",
+      "example": "Ich nehme mein Surfbrett mit ins Meer, obwohl die Wellen hoch sind."
+    }
+  ]
+}
