@@ -63,6 +63,13 @@
       "wordCount": 73,
       "createdAt": "2026-05-17T00:00:00Z",
       "updatedAt": "2026-05-17T00:00:00Z"
+    },
+    {
+      "name": "Verkehr & Transport",
+      "slug": "verkehr",
+      "wordCount": 57,
+      "createdAt": "2026-05-23T00:00:00Z",
+      "updatedAt": "2026-05-23T00:00:00Z"
     }
   ]
 }

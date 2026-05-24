@@ -1,0 +1,461 @@
+{
+  "lastUpdated": "2026-05-23T00:00:00Z",
+  "words": [
+    {
+      "german": "ankommen",
+      "english": "to arrive",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "ankommen",
+      "example": "Der Zug kommt pünktlich am Bahnhof an."
+    },
+    {
+      "german": "das Auto",
+      "english": "the car",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "auto",
+      "example": "Das Auto ist neu und schnell."
+    },
+    {
+      "german": "das Boot",
+      "english": "the boat",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "boot",
+      "example": "Im Sommer fahre ich gerne mit dem Boot."
+    },
+    {
+      "german": "das Fahrrad",
+      "english": "the bicycle",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "fahrrad",
+      "example": "Ich fahre jeden Tag Fahrrad."
+    },
+    {
+      "german": "das Flugzeug",
+      "english": "the airplane",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "flugzeug",
+      "example": "Das Flugzeug fliegt nach Berlin."
+    },
+    {
+      "german": "das Rad",
+      "english": "the wheel",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "rad",
+      "example": "Das Rad ist rund und schwarz."
+    },
+    {
+      "german": "das Schiff",
+      "english": "the ship",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "schiff",
+      "example": "Das Schiff fährt von Hamburg nach Kiel."
+    },
+    {
+      "german": "das Taxi",
+      "english": "the taxi",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "taxi",
+      "example": "Das Taxi wartet vor dem Haus."
+    },
+    {
+      "german": "der Bus",
+      "english": "the bus",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "bus",
+      "example": "Der Bus hält an der Haltestelle."
+    },
+    {
+      "german": "der Helm",
+      "english": "the helmet",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "helm",
+      "example": "Der Helm schützt den Kopf."
+    },
+    {
+      "german": "der Verkehr",
+      "english": "the traffic",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "verkehr",
+      "example": "Der Verkehr in der Stadt ist laut."
+    },
+    {
+      "german": "der Zug",
+      "english": "the train",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "zug",
+      "example": "Der Zug kommt um sechs Uhr."
+    },
+    {
+      "german": "fahren",
+      "english": "to drive / ride",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "fahren",
+      "example": "Ich fahre mit dem Bus zur Schule."
+    },
+    {
+      "german": "parken",
+      "english": "to park",
+      "category": "Verkehr & Transport",
+      "level": "A1",
+      "imageName": "parken",
+      "example": "Das Auto parkt vor dem Haus."
+    },
+    {
+      "german": "abbiegen",
+      "english": "to turn",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "abbiegen",
+      "example": "Das Auto biegt rechts ab, wenn die Ampel grün ist."
+    },
+    {
+      "german": "aussteigen",
+      "english": "to get off",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "aussteigen",
+      "example": "Ich steige aus, wenn der Bus anhält."
+    },
+    {
+      "german": "bremsen",
+      "english": "to brake",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "bremsen",
+      "example": "Ich bremse, wenn die Ampel rot wird."
+    },
+    {
+      "german": "das Benzin",
+      "english": "the gasoline",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "benzin",
+      "example": "Ich tanke Benzin, wenn mein Auto leer ist."
+    },
+    {
+      "german": "das Motorrad",
+      "english": "the motorcycle",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "motorrad",
+      "example": "Mein Bruder fährt gerne Motorrad, weil es schnell ist."
+    },
+    {
+      "german": "der Bahnsteig",
+      "english": "the platform",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "bahnsteig",
+      "example": "Der Zug steht am Bahnsteig, aber die Türen sind zu."
+    },
+    {
+      "german": "der Fahrer",
+      "english": "the driver",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fahrer",
+      "example": "Der Fahrer hat das Auto schnell geparkt."
+    },
+    {
+      "german": "der Fahrplan",
+      "english": "the timetable",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fahrplan",
+      "example": "Ich schaue auf den Fahrplan, wenn ich reise."
+    },
+    {
+      "german": "der Führerschein",
+      "english": "the driver's license",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fuehrerschein",
+      "example": "Ich mache meinen Führerschein, weil ich Auto fahren möchte."
+    },
+    {
+      "german": "der Fußgänger",
+      "english": "the pedestrian",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fussgaenger",
+      "example": "Der Fußgänger wartet, wenn die Ampel rot ist."
+    },
+    {
+      "german": "der LKW",
+      "english": "the truck",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "lkw",
+      "example": "Der LKW fährt langsam, weil er sehr schwer ist."
+    },
+    {
+      "german": "der Motor",
+      "english": "the engine",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "motor",
+      "example": "Der Motor läuft nicht, weil mein Auto kein Benzin hat."
+    },
+    {
+      "german": "der Reifen",
+      "english": "the tire",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "reifen",
+      "example": "Der Reifen ist kaputt, weil er alt ist."
+    },
+    {
+      "german": "der Roller",
+      "english": "the scooter",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "roller",
+      "example": "Viele junge Leute fahren Roller, wenn das Wetter schön ist."
+    },
+    {
+      "german": "der Sicherheitsgurt",
+      "english": "the seatbelt",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "sicherheitsgurt",
+      "example": "Ich lege den Sicherheitsgurt an, wenn ich Auto fahre."
+    },
+    {
+      "german": "der Stau",
+      "english": "the traffic jam",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "stau",
+      "example": "Wir stehen im Stau, weil ein Unfall passiert ist."
+    },
+    {
+      "german": "der Unfall",
+      "english": "the accident",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "unfall",
+      "example": "Der Unfall war schlimm, aber zum Glück hatte ich Versicherung."
+    },
+    {
+      "german": "der Zebrastreifen",
+      "english": "the crosswalk",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "zebrastreifen",
+      "example": "Ich gehe über den Zebrastreifen, wenn die Ampel grün ist."
+    },
+    {
+      "german": "die Autobahn",
+      "english": "the highway",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "autobahn",
+      "example": "Die Autos auf der Autobahn fahren schnell, aber sicher."
+    },
+    {
+      "german": "die Fahrkarte",
+      "english": "the ticket",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fahrkarte",
+      "example": "Ich brauche eine Fahrkarte, wenn ich Bus fahre."
+    },
+    {
+      "german": "die Fahrt",
+      "english": "the ride / trip",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "fahrt",
+      "example": "Die Fahrt war lang, aber sehr schön."
+    },
+    {
+      "german": "die S-Bahn",
+      "english": "the city train",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "sbahn",
+      "example": "Die S-Bahn ist voll, aber ich finde einen Platz."
+    },
+    {
+      "german": "die Straßenbahn",
+      "english": "the tram",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "strassenbahn",
+      "example": "Ich nehme die Straßenbahn, weil sie billig ist."
+    },
+    {
+      "german": "die U-Bahn",
+      "english": "the subway",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "ubahn",
+      "example": "Ich fahre mit der U-Bahn, weil sie schnell ist."
+    },
+    {
+      "german": "einsteigen",
+      "english": "to get on / board",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "einsteigen",
+      "example": "Wenn die Türen aufgehen, steigen wir ein."
+    },
+    {
+      "german": "tanken",
+      "english": "to refuel",
+      "category": "Verkehr & Transport",
+      "level": "A2",
+      "imageName": "tanken",
+      "example": "Ich muss heute tanken, weil mein Auto leer ist."
+    },
+    {
+      "german": "abschleppen",
+      "english": "to tow",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "abschleppen",
+      "example": "Mein Auto hat eine Panne, deshalb muss es abgeschleppt werden."
+    },
+    {
+      "german": "das Lenkrad",
+      "english": "the steering wheel",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "lenkrad",
+      "example": "Mein Vater hält das Lenkrad fest, obwohl die Straße glatt ist."
+    },
+    {
+      "german": "das Navi",
+      "english": "the GPS",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "navi",
+      "example": "Ich benutze das Navi, damit ich nicht im Stau stehe."
+    },
+    {
+      "german": "das Verkehrsschild",
+      "english": "the road sign",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "verkehrsschild",
+      "example": "Das Verkehrsschild zeigt eine scharfe Kurve, deshalb fahre ich vorsichtig."
+    },
+    {
+      "german": "der Fahrkartenautomat",
+      "english": "the ticket machine",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "fahrkartenautomat",
+      "example": "Der Fahrkartenautomat funktioniert heute nicht, obwohl ich eine Fahrkarte brauche."
+    },
+    {
+      "german": "der Rückspiegel",
+      "english": "the rearview mirror",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "rueckspiegel",
+      "example": "Ich schaue in den Rückspiegel, damit ich keinen Unfall habe."
+    },
+    {
+      "german": "der Schaffner",
+      "english": "the conductor",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "schaffner",
+      "example": "Der Schaffner kontrolliert meine Fahrkarte, obwohl ich gerade erst eingestiegen bin."
+    },
+    {
+      "german": "der Scheinwerfer",
+      "english": "the headlight",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "scheinwerfer",
+      "example": "Die Scheinwerfer leuchten hell, sodass ich im Nebel die Straße sehen kann."
+    },
+    {
+      "german": "der Strafzettel",
+      "english": "the parking ticket",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "strafzettel",
+      "example": "Ich habe einen Strafzettel bekommen, obwohl ich nur fünf Minuten geparkt habe."
+    },
+    {
+      "german": "die Geschwindigkeit",
+      "english": "the speed",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "geschwindigkeit",
+      "example": "Die Geschwindigkeit auf der Autobahn ist hoch, obwohl es viele Kontrollen gibt."
+    },
+    {
+      "german": "die Kfz-Versicherung",
+      "english": "the car insurance",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "kfzversicherung",
+      "example": "Die Kfz-Versicherung ist teuer, deshalb vergleichen viele Leute die Preise."
+    },
+    {
+      "german": "die Kurve",
+      "english": "the curve",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "kurve",
+      "example": "Vor der scharfen Kurve bremse ich stark, damit ich nicht rutsche."
+    },
+    {
+      "german": "die Linie",
+      "english": "the line / route",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "linie",
+      "example": "Die Linie U2 fährt zum Zoo, deshalb steige ich hier ein."
+    },
+    {
+      "german": "die Spur",
+      "english": "the lane",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "spur",
+      "example": "Auf der Autobahn wechsle ich oft die Spur, damit ich schneller vorankomme."
+    },
+    {
+      "german": "die Verspätung",
+      "english": "the delay",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "verspaetung",
+      "example": "Die Bahn hat heute zwanzig Minuten Verspätung, deshalb komme ich zu spät."
+    },
+    {
+      "german": "umsteigen",
+      "english": "to transfer",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "umsteigen",
+      "example": "Am Hauptbahnhof steige ich um, damit ich nach München komme."
+    },
+    {
+      "german": "überholen",
+      "english": "to overtake",
+      "category": "Verkehr & Transport",
+      "level": "B1",
+      "imageName": "ueberholen",
+      "example": "Auf der Autobahn überhole ich den LKW, der zu langsam fährt."
+    }
+  ]
+}
