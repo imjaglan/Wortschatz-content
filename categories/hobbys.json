@@ -1,0 +1,509 @@
+{
+  "lastUpdated": "2026-05-30T12:00:00Z",
+  "words": [
+    {
+      "german": "malen",
+      "english": "to paint",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "malen",
+      "example": "Das Kind malt ein buntes Bild."
+    },
+    {
+      "german": "zeichnen",
+      "english": "to draw",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "zeichnen",
+      "example": "Ich zeichne gern einen Hund."
+    },
+    {
+      "german": "singen",
+      "english": "to sing",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "singen",
+      "example": "Die Kinder singen ein schönes Lied."
+    },
+    {
+      "german": "Musik hören",
+      "english": "to listen to music",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "musikhoeren",
+      "example": "Ich höre gern laute Musik."
+    },
+    {
+      "german": "lesen",
+      "english": "to read",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "lesen",
+      "example": "Ich lese jeden Abend ein Buch."
+    },
+    {
+      "german": "fernsehen",
+      "english": "to watch TV",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "fernsehen",
+      "example": "Am Abend sehe ich gern fern."
+    },
+    {
+      "german": "das Buch",
+      "english": "the book",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "buch",
+      "example": "Das Buch ist dick und schwer."
+    },
+    {
+      "german": "der Film",
+      "english": "the film",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "film",
+      "example": "Wir sehen heute Abend einen Film."
+    },
+    {
+      "german": "der Buntstift",
+      "english": "the colored pencil",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "buntstift",
+      "example": "Das Kind malt mit einem Buntstift."
+    },
+    {
+      "german": "die Farbe",
+      "english": "the paint",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "farbe",
+      "example": "Die Farbe ist blau und nass."
+    },
+    {
+      "german": "die Schere",
+      "english": "the scissors",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "schere",
+      "example": "Die Schere ist klein und scharf."
+    },
+    {
+      "german": "das Museum",
+      "english": "the museum",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "museum",
+      "example": "Wir gehen am Sonntag ins Museum."
+    },
+    {
+      "german": "der Park",
+      "english": "the park",
+      "category": "Hobbys & Freizeit",
+      "level": "A1",
+      "imageName": "park",
+      "example": "Im Park spielen viele Kinder."
+    },
+    {
+      "german": "basteln",
+      "english": "to do crafts",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "basteln",
+      "example": "Die Kinder basteln gern, wenn es draußen regnet."
+    },
+    {
+      "german": "nähen",
+      "english": "to sew",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "naehen",
+      "example": "Meine Oma näht ein Kleid, weil sie es liebt."
+    },
+    {
+      "german": "stricken",
+      "english": "to knit",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "stricken",
+      "example": "Ich stricke im Winter Socken, weil es kalt ist."
+    },
+    {
+      "german": "fotografieren",
+      "english": "to take photos",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "fotografieren",
+      "example": "Ich fotografiere gern Tiere, wenn ich im Zoo bin."
+    },
+    {
+      "german": "der Pinsel",
+      "english": "the paintbrush",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "pinsel",
+      "example": "Ich male mit dem Pinsel, weil er weich ist."
+    },
+    {
+      "german": "die Wolle",
+      "english": "the wool",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "wolle",
+      "example": "Die Wolle ist weich und warm, aber teuer."
+    },
+    {
+      "german": "die Kamera",
+      "english": "the camera",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "kamera",
+      "example": "Ich habe eine neue Kamera gekauft, weil ich gern fotografiere."
+    },
+    {
+      "german": "das Fotoalbum",
+      "english": "the photo album",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "fotoalbum",
+      "example": "Wir schauen das Fotoalbum an, wenn Oma uns besucht."
+    },
+    {
+      "german": "die Gitarre",
+      "english": "the guitar",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "gitarre",
+      "example": "Mein Freund spielt Gitarre, wenn wir feiern."
+    },
+    {
+      "german": "das Klavier",
+      "english": "the piano",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "klavier",
+      "example": "Ich lerne Klavier, weil die Musik mich glücklich macht."
+    },
+    {
+      "german": "die Flöte",
+      "english": "the flute",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "floete",
+      "example": "Viele Kinder lernen Flöte, wenn sie klein sind."
+    },
+    {
+      "german": "das Mikrofon",
+      "english": "the microphone",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "mikrofon",
+      "example": "Ich singe ins Mikrofon, wenn ich Karaoke mache."
+    },
+    {
+      "german": "der Kopfhörer",
+      "english": "the headphones",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "kopfhoerer",
+      "example": "Ich höre Musik mit Kopfhörern, weil es leiser ist."
+    },
+    {
+      "german": "der Comic",
+      "english": "the comic book",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "comic",
+      "example": "Kinder lesen gern Comics, weil sie lustig sind."
+    },
+    {
+      "german": "die Zeitschrift",
+      "english": "the magazine",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "zeitschrift",
+      "example": "Ich lese eine Zeitschrift, wenn ich beim Arzt warte."
+    },
+    {
+      "german": "das Tagebuch",
+      "english": "the diary",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "tagebuch",
+      "example": "Ich schreibe ins Tagebuch, wenn ich traurig bin."
+    },
+    {
+      "german": "das Brettspiel",
+      "english": "the board game",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "brettspiel",
+      "example": "Wir spielen ein Brettspiel, wenn Freunde kommen."
+    },
+    {
+      "german": "das Kartenspiel",
+      "english": "the card game",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "kartenspiel",
+      "example": "Wir spielen ein Kartenspiel, wenn es regnet."
+    },
+    {
+      "german": "die Spielkarte",
+      "english": "the playing card",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "spielkarte",
+      "example": "Die Spielkarten sind alt, aber wir spielen gern."
+    },
+    {
+      "german": "der Würfel",
+      "english": "the dice",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "wuerfel",
+      "example": "Beim Spiel werfe ich den Würfel, wenn ich dran bin."
+    },
+    {
+      "german": "das Schach",
+      "english": "chess",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "schach",
+      "example": "Mein Opa spielt Schach, weil es ihn entspannt."
+    },
+    {
+      "german": "das Puzzle",
+      "english": "the jigsaw puzzle",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "puzzle",
+      "example": "Das Puzzle ist schwer, aber es macht Spaß."
+    },
+    {
+      "german": "das Videospiel",
+      "english": "the video game",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "videospiel",
+      "example": "Mein Bruder spielt Videospiele, wenn er Zeit hat."
+    },
+    {
+      "german": "die Spielkonsole",
+      "english": "the game console",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "spielkonsole",
+      "example": "Mein Sohn will eine Spielkonsole, weil alle Freunde eine haben."
+    },
+    {
+      "german": "die Bausteine",
+      "english": "the building blocks",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "bausteine",
+      "example": "Das Kind baut einen Turm, wenn es mit Bausteinen spielt."
+    },
+    {
+      "german": "sammeln",
+      "english": "to collect",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "sammeln",
+      "example": "Mein Sohn sammelt Steine, wenn wir spazieren gehen."
+    },
+    {
+      "german": "die Briefmarke",
+      "english": "the stamp",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "briefmarke",
+      "example": "Mein Opa sammelt Briefmarken, weil es ihn freut."
+    },
+    {
+      "german": "die Münze",
+      "english": "the coin",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "muenze",
+      "example": "Ich sammle Münzen, weil sie aus vielen Ländern kommen."
+    },
+    {
+      "german": "angeln",
+      "english": "to fish",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "angeln",
+      "example": "Mein Vater angelt gern, wenn das Wetter schön ist."
+    },
+    {
+      "german": "die Angel",
+      "english": "the fishing rod",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "angel",
+      "example": "Mein Opa fängt einen Fisch, wenn er die Angel benutzt."
+    },
+    {
+      "german": "gärtnern",
+      "english": "to garden",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "gaertnern",
+      "example": "Meine Oma gärtnert gern, weil sie Blumen liebt."
+    },
+    {
+      "german": "reiten",
+      "english": "to ride a horse",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "reiten",
+      "example": "Meine Schwester reitet gern, weil sie Pferde liebt."
+    },
+    {
+      "german": "zelten",
+      "english": "to camp",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "zelten",
+      "example": "Wir zelten im Sommer, wenn es warm ist."
+    },
+    {
+      "german": "das Zelt",
+      "english": "the tent",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "zelt",
+      "example": "Wir bauen das Zelt auf, wenn wir zelten gehen."
+    },
+    {
+      "german": "das Lagerfeuer",
+      "english": "the campfire",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "lagerfeuer",
+      "example": "Wir sitzen am Lagerfeuer, wenn es dunkel wird."
+    },
+    {
+      "german": "der Drachen",
+      "english": "the kite",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "drachen",
+      "example": "Die Kinder lassen einen Drachen steigen, wenn es windig ist."
+    },
+    {
+      "german": "das Picknick",
+      "english": "the picnic",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "picknick",
+      "example": "Wir machen ein Picknick, wenn die Sonne scheint."
+    },
+    {
+      "german": "das Konzert",
+      "english": "the concert",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "konzert",
+      "example": "Wir gehen ins Konzert, weil wir die Musik lieben."
+    },
+    {
+      "german": "der Freizeitpark",
+      "english": "the amusement park",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "freizeitpark",
+      "example": "Die Kinder lieben den Freizeitpark, weil er aufregend ist."
+    },
+    {
+      "german": "faulenzen",
+      "english": "to laze around",
+      "category": "Hobbys & Freizeit",
+      "level": "A2",
+      "imageName": "faulenzen",
+      "example": "Am Sonntag faulenze ich, weil ich nicht arbeite."
+    },
+    {
+      "german": "töpfern",
+      "english": "to do pottery",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "toepfern",
+      "example": "Im Kurs töpfere ich eine Vase, obwohl es nicht leicht ist."
+    },
+    {
+      "german": "die Leinwand",
+      "english": "the canvas",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "leinwand",
+      "example": "Der Maler malt ein Bild auf die Leinwand, das sehr bunt ist."
+    },
+    {
+      "german": "die Staffelei",
+      "english": "the easel",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "staffelei",
+      "example": "Die Staffelei steht am Fenster, damit der Maler genug Licht hat."
+    },
+    {
+      "german": "die Nähmaschine",
+      "english": "the sewing machine",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "naehmaschine",
+      "example": "Meine Mutter benutzt die Nähmaschine, mit der sie schnell näht."
+    },
+    {
+      "german": "das Gemälde",
+      "english": "the painting",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "gemaelde",
+      "example": "Im Museum hängt ein altes Gemälde, das sehr berühmt ist."
+    },
+    {
+      "german": "die Geige",
+      "english": "the violin",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "geige",
+      "example": "Meine Tochter übt jeden Tag Geige, damit sie im Konzert gut spielt."
+    },
+    {
+      "german": "die Trompete",
+      "english": "the trumpet",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "trompete",
+      "example": "Mein Nachbar spielt laut Trompete, obwohl die anderen Leute schlafen wollen."
+    },
+    {
+      "german": "das Schlagzeug",
+      "english": "the drums",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "schlagzeug",
+      "example": "Mein Sohn möchte Schlagzeug lernen, obwohl es sehr laut ist."
+    },
+    {
+      "german": "der Zauberwürfel",
+      "english": "the Rubik's cube",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "zauberwuerfel",
+      "example": "Mein Freund löst den Zauberwürfel so schnell, dass alle staunen."
+    },
+    {
+      "german": "die Dartscheibe",
+      "english": "the dartboard",
+      "category": "Hobbys & Freizeit",
+      "level": "B1",
+      "imageName": "dartscheibe",
+      "example": "In der Kneipe hängt eine Dartscheibe, auf die wir gern werfen."
+    }
+  ]
+}

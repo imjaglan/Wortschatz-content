@@ -70,6 +70,13 @@
       "wordCount": 57,
       "createdAt": "2026-05-23T00:00:00Z",
       "updatedAt": "2026-05-23T00:00:00Z"
+    },
+    {
+      "name": "Hobbys & Freizeit",
+      "slug": "hobbys",
+      "wordCount": 63,
+      "createdAt": "2026-05-30T00:00:00Z",
+      "updatedAt": "2026-05-30T00:00:00Z"
     }
   ]
 }
