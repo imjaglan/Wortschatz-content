@@ -1,0 +1,485 @@
+{
+  "lastUpdated": "2026-06-06T00:00:00Z",
+  "words": [
+    {
+      "german": "die Natur",
+      "english": "the nature",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "natur",
+      "example": "Ich liebe die Natur im Frühling."
+    },
+    {
+      "german": "der Berg",
+      "english": "the mountain",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "berg",
+      "example": "Die Berge in Bayern sind sehr hoch."
+    },
+    {
+      "german": "der Wald",
+      "english": "the forest",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "wald",
+      "example": "Wir gehen am Sonntag in den Wald."
+    },
+    {
+      "german": "der See",
+      "english": "the lake",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "see",
+      "example": "Im Sommer schwimmen wir im See."
+    },
+    {
+      "german": "das Meer",
+      "english": "the sea",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "meer",
+      "example": "Im Urlaub fahren wir ans Meer."
+    },
+    {
+      "german": "der Fluss",
+      "english": "the river",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "fluss",
+      "example": "Der Fluss fließt durch die Stadt."
+    },
+    {
+      "german": "der Baum",
+      "english": "the tree",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "baum",
+      "example": "Der Baum im Park ist sehr alt."
+    },
+    {
+      "german": "die Blume",
+      "english": "the flower",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "blume",
+      "example": "Ich kaufe Blumen auf dem Markt."
+    },
+    {
+      "german": "das Gras",
+      "english": "the grass",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "gras",
+      "example": "Das Gras ist grün und weich."
+    },
+    {
+      "german": "der Strand",
+      "english": "the beach",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "strand",
+      "example": "Die Kinder spielen am Strand."
+    },
+    {
+      "german": "der Stein",
+      "english": "the stone",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "stein",
+      "example": "Der Stein ist hart und schwer."
+    },
+    {
+      "german": "die Pflanze",
+      "english": "the plant",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "pflanze",
+      "example": "Die Pflanze braucht Wasser und Sonne."
+    },
+    {
+      "german": "das Blatt",
+      "english": "the leaf",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "blatt",
+      "example": "Im Herbst fallen die Blätter."
+    },
+    {
+      "german": "der Mond",
+      "english": "the moon",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "mond",
+      "example": "Der Mond scheint hell in der Nacht."
+    },
+    {
+      "german": "der Stern",
+      "english": "the star",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "stern",
+      "example": "Die Sterne leuchten am Himmel."
+    },
+    {
+      "german": "die Erde",
+      "english": "the earth",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "erde",
+      "example": "Die Erde im Garten ist nass."
+    },
+    {
+      "german": "das Feuer",
+      "english": "the fire",
+      "category": "Natur & Draußen",
+      "level": "A1",
+      "imageName": "feuer",
+      "example": "Das Feuer ist heiß und hell."
+    },
+    {
+      "german": "die Insel",
+      "english": "the island",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "insel",
+      "example": "Wir haben Urlaub auf einer kleinen Insel gemacht."
+    },
+    {
+      "german": "der Hügel",
+      "english": "the hill",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "huegel",
+      "example": "Hinter dem Haus ist ein kleiner Hügel, aber kein Berg."
+    },
+    {
+      "german": "das Feld",
+      "english": "the field",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "feld",
+      "example": "Die Bauern arbeiten auf dem Feld, wenn die Sonne scheint."
+    },
+    {
+      "german": "die Wiese",
+      "english": "the meadow",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "wiese",
+      "example": "Wir sitzen auf der Wiese, weil das Gras weich ist."
+    },
+    {
+      "german": "der Bach",
+      "english": "the stream",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "bach",
+      "example": "Der Bach ist viel kleiner als der Fluss."
+    },
+    {
+      "german": "der Teich",
+      "english": "the pond",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "teich",
+      "example": "Im Teich schwimmen Fische, aber das Wasser ist kalt."
+    },
+    {
+      "german": "der Weg",
+      "english": "the path",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "weg",
+      "example": "Der Weg durch den Wald ist lang, aber schön."
+    },
+    {
+      "german": "der Sand",
+      "english": "the sand",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "sand",
+      "example": "Die Kinder haben im Sand eine große Burg gebaut."
+    },
+    {
+      "german": "die Welle",
+      "english": "the wave",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "welle",
+      "example": "Die Wellen sind heute hoch, weil es windig ist."
+    },
+    {
+      "german": "der Pilz",
+      "english": "the mushroom",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "pilz",
+      "example": "Wir haben im Wald viele Pilze gefunden."
+    },
+    {
+      "german": "der Ast",
+      "english": "the branch",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "ast",
+      "example": "Der Hund bringt den Ast zurück, wenn ich ihn werfe."
+    },
+    {
+      "german": "die Landschaft",
+      "english": "the landscape",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "landschaft",
+      "example": "Die Landschaft in Bayern ist schöner als im Norden."
+    },
+    {
+      "german": "der Sonnenaufgang",
+      "english": "the sunrise",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "sonnenaufgang",
+      "example": "Ich stehe früh auf, weil ich den Sonnenaufgang sehen möchte."
+    },
+    {
+      "german": "der Sonnenuntergang",
+      "english": "the sunset",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "sonnenuntergang",
+      "example": "Wir sitzen am Strand, weil der Sonnenuntergang so schön ist."
+    },
+    {
+      "german": "das Holz",
+      "english": "the wood",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "holz",
+      "example": "Wir sammeln Holz im Wald, weil wir Feuer machen wollen."
+    },
+    {
+      "german": "der Schatten",
+      "english": "the shadow",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "schatten",
+      "example": "Wir sitzen im Schatten, weil die Sonne heute heiß ist."
+    },
+    {
+      "german": "die Pfütze",
+      "english": "the puddle",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "pfuetze",
+      "example": "Das Kind springt in jede Pfütze, wenn es geregnet hat."
+    },
+    {
+      "german": "der Felsen",
+      "english": "the rock",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "felsen",
+      "example": "Der Felsen ist viel größer als ein normaler Stein."
+    },
+    {
+      "german": "der Busch",
+      "english": "the bush",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "busch",
+      "example": "Ich habe die Büsche im Garten geschnitten."
+    },
+    {
+      "german": "wachsen",
+      "english": "to grow",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "wachsen",
+      "example": "Die Pflanze wächst schnell, wenn sie genug Wasser bekommt."
+    },
+    {
+      "german": "pflanzen",
+      "english": "to plant",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "pflanzen",
+      "example": "Wir haben im Frühling einen kleinen Baum gepflanzt."
+    },
+    {
+      "german": "gießen",
+      "english": "to water",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "giessen",
+      "example": "Ich gieße die Blumen, weil die Erde trocken ist."
+    },
+    {
+      "german": "pflücken",
+      "english": "to pick",
+      "category": "Natur & Draußen",
+      "level": "A2",
+      "imageName": "pfluecken",
+      "example": "Wir haben im Garten frische Äpfel gepflückt."
+    },
+    {
+      "german": "das Tal",
+      "english": "the valley",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "tal",
+      "example": "Das Dorf liegt in einem grünen Tal, das von hohen Bergen umgeben ist."
+    },
+    {
+      "german": "die Küste",
+      "english": "the coast",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "kueste",
+      "example": "An der Küste weht immer ein starker Wind, deshalb stehen dort viele Windräder."
+    },
+    {
+      "german": "der Wasserfall",
+      "english": "the waterfall",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "wasserfall",
+      "example": "Der Wasserfall ist so laut, dass man sein eigenes Wort kaum versteht."
+    },
+    {
+      "german": "die Höhle",
+      "english": "the cave",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "hoehle",
+      "example": "In der Höhle ist es dunkel und kalt, deshalb brauchen wir eine Taschenlampe."
+    },
+    {
+      "german": "der Gipfel",
+      "english": "the summit",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "gipfel",
+      "example": "Wir steigen früh los, damit wir den Gipfel vor dem Mittag erreichen."
+    },
+    {
+      "german": "das Ufer",
+      "english": "the shore",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "ufer",
+      "example": "Wir sitzen am Ufer des Sees, obwohl der Wind ziemlich kalt ist."
+    },
+    {
+      "german": "der Stamm",
+      "english": "the tree trunk",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "stamm",
+      "example": "Der Stamm des alten Baums ist so dick, dass wir ihn kaum umarmen können."
+    },
+    {
+      "german": "die Wurzel",
+      "english": "the root",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "wurzel",
+      "example": "Die Wurzeln des Baums sind so stark, dass sie den Bürgersteig anheben."
+    },
+    {
+      "german": "der Wanderweg",
+      "english": "the hiking trail",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "wanderweg",
+      "example": "Der Wanderweg führt durch den Wald, deshalb ist er im Sommer angenehm kühl."
+    },
+    {
+      "german": "der Nationalpark",
+      "english": "the national park",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "nationalpark",
+      "example": "Im Nationalpark leben viele Tiere, die man sonst nirgendwo in Deutschland sieht."
+    },
+    {
+      "german": "die Aussicht",
+      "english": "the view",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "aussicht",
+      "example": "Vom Gipfel hat man eine wunderbare Aussicht, deshalb lohnt sich der lange Weg."
+    },
+    {
+      "german": "der Horizont",
+      "english": "the horizon",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "horizont",
+      "example": "Die Sonne versinkt langsam am Horizont, sodass der Himmel ganz rot wird."
+    },
+    {
+      "german": "die Ernte",
+      "english": "the harvest",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "ernte",
+      "example": "Die Ernte war dieses Jahr sehr gut, deshalb sind die Äpfel günstig."
+    },
+    {
+      "german": "blühen",
+      "english": "to bloom",
+      "category": "Natur & Draußen",
+      "level": "B1",
+      "imageName": "bluehen",
+      "example": "Im Frühling blühen die Bäume so schön, dass viele Leute Fotos machen."
+    },
+    {
+      "german": "das Gebirge",
+      "english": "the mountain range",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "gebirge",
+      "example": "Während es in der Stadt noch warm ist, liegt im Gebirge schon Schnee."
+    },
+    {
+      "german": "der Gletscher",
+      "english": "the glacier",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "gletscher",
+      "example": "Nachdem wir stundenlang gewandert waren, standen wir endlich vor dem riesigen Gletscher."
+    },
+    {
+      "german": "die Klippe",
+      "english": "the cliff",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "klippe",
+      "example": "Bevor du an die Klippe gehst, schau dir den Weg genau an."
+    },
+    {
+      "german": "der Vulkan",
+      "english": "the volcano",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "vulkan",
+      "example": "Solange der Vulkan ruhig bleibt, dürfen Touristen bis zum Krater wandern."
+    },
+    {
+      "german": "die Quelle",
+      "english": "the spring",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "quelle",
+      "example": "Bevor der Fluss groß wird, beginnt er als kleine Quelle im Gebirge."
+    },
+    {
+      "german": "die Lichtung",
+      "english": "the clearing",
+      "category": "Natur & Draußen",
+      "level": "B2",
+      "imageName": "lichtung",
+      "example": "Nachdem wir lange durch den dichten Wald gelaufen waren, erreichten wir eine sonnige Lichtung."
+    }
+  ]
+}
