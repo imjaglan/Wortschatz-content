@@ -1,0 +1,453 @@
+{
+  "lastUpdated": "2026-06-13T12:00:00Z",
+  "words": [
+    {
+      "german": "bezahlen",
+      "english": "to pay",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "bezahlen",
+      "example": "Ich bezahle den Kaffee mit Karte."
+    },
+    {
+      "german": "billig",
+      "english": "cheap",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "billig",
+      "example": "Die Tasche ist billig und schön."
+    },
+    {
+      "german": "der Cent",
+      "english": "the cent",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "cent",
+      "example": "Der Apfel kostet fünfzig Cent."
+    },
+    {
+      "german": "einkaufen",
+      "english": "to shop",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "einkaufen",
+      "example": "Ich möchte heute im Supermarkt einkaufen."
+    },
+    {
+      "german": "der Euro",
+      "english": "the euro",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "euro",
+      "example": "Das Brot kostet zwei Euro."
+    },
+    {
+      "german": "das Geld",
+      "english": "the money",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "geld",
+      "example": "Ich habe heute kein Geld."
+    },
+    {
+      "german": "kaufen",
+      "english": "to buy",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "kaufen",
+      "example": "Ich kaufe einen Apfel und Milch."
+    },
+    {
+      "german": "der Preis",
+      "english": "the price",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "preis",
+      "example": "Der Preis für die Jacke ist hoch."
+    },
+    {
+      "german": "der Supermarkt",
+      "english": "the supermarket",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "supermarkt",
+      "example": "Ich kaufe Gemüse im Supermarkt."
+    },
+    {
+      "german": "teuer",
+      "english": "expensive",
+      "category": "Einkaufen & Geld",
+      "level": "A1",
+      "imageName": "teuer",
+      "example": "Das Auto ist sehr teuer."
+    },
+    {
+      "german": "das Angebot",
+      "english": "the offer",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "angebot",
+      "example": "Ich kaufe den Käse, weil er heute im Angebot ist."
+    },
+    {
+      "german": "anprobieren",
+      "english": "to try on",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "anprobieren",
+      "example": "Ich probiere die Jacke an, weil sie schön aussieht."
+    },
+    {
+      "german": "die Bankkarte",
+      "english": "the bank card",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "bankkarte",
+      "example": "Ich zahle mit der Bankkarte, weil ich kein Bargeld habe."
+    },
+    {
+      "german": "das Bargeld",
+      "english": "the cash",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "bargeld",
+      "example": "Ich zahle lieber mit Bargeld als mit Karte."
+    },
+    {
+      "german": "bestellen",
+      "english": "to order",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "bestellen",
+      "example": "Ich habe die neuen Schuhe gestern online bestellt."
+    },
+    {
+      "german": "der Discounter",
+      "english": "the discount store",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "discounter",
+      "example": "Beim Discounter ist das Essen oft billiger als woanders."
+    },
+    {
+      "german": "die Drogerie",
+      "english": "the drugstore",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "drogerie",
+      "example": "In der Drogerie kaufe ich Seife und Shampoo."
+    },
+    {
+      "german": "der Einkaufskorb",
+      "english": "the shopping basket",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "einkaufskorb",
+      "example": "Ich nehme nur einen Einkaufskorb, weil ich wenig kaufe."
+    },
+    {
+      "german": "die Einkaufstüte",
+      "english": "the shopping bag",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "einkaufstuete",
+      "example": "Ich brauche eine Einkaufstüte, weil ich viel gekauft habe."
+    },
+    {
+      "german": "der Einkaufswagen",
+      "english": "the shopping cart",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "einkaufswagen",
+      "example": "Der Einkaufswagen ist voll, aber ich brauche noch Brot."
+    },
+    {
+      "german": "das Einkaufszentrum",
+      "english": "the shopping mall",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "einkaufszentrum",
+      "example": "Wir gehen ins Einkaufszentrum, weil es dort viele Geschäfte gibt."
+    },
+    {
+      "german": "der Einkaufszettel",
+      "english": "the shopping list",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "einkaufszettel",
+      "example": "Ich schreibe einen Einkaufszettel, weil ich viel brauche."
+    },
+    {
+      "german": "der Flohmarkt",
+      "english": "the flea market",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "flohmarkt",
+      "example": "Auf dem Flohmarkt finde ich oft günstige Sachen."
+    },
+    {
+      "german": "der Geldautomat",
+      "english": "the ATM",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "geldautomat",
+      "example": "Ich gehe zum Geldautomaten, weil ich Bargeld brauche."
+    },
+    {
+      "german": "der Geldschein",
+      "english": "the banknote",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "geldschein",
+      "example": "Ich gebe dir einen Geldschein, wenn du Kleingeld brauchst."
+    },
+    {
+      "german": "günstig",
+      "english": "affordable",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "guenstig",
+      "example": "Die Schuhe sind heute günstiger als gestern."
+    },
+    {
+      "german": "der Gutschein",
+      "english": "the voucher",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "gutschein",
+      "example": "Ich kaufe einen Gutschein, weil ich kein Geschenk finde."
+    },
+    {
+      "german": "der Jutebeutel",
+      "english": "the cloth bag",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "jutebeutel",
+      "example": "Ich nehme immer einen Jutebeutel mit, weil Plastik schlecht ist."
+    },
+    {
+      "german": "die Kasse",
+      "english": "the checkout",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kasse",
+      "example": "Ich stelle mich an die Kasse, weil ich bezahlen möchte."
+    },
+    {
+      "german": "der Kassenbon",
+      "english": "the receipt",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kassenbon",
+      "example": "Ich habe den Kassenbon leider schon weggeworfen."
+    },
+    {
+      "german": "der Kassierer",
+      "english": "the cashier",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kassierer",
+      "example": "Der Kassierer sagt, dass alles zusammen zehn Euro kostet."
+    },
+    {
+      "german": "das Kaufhaus",
+      "english": "the department store",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kaufhaus",
+      "example": "Im Kaufhaus finde ich Kleidung, Schuhe und Spielzeug."
+    },
+    {
+      "german": "das Kleingeld",
+      "english": "the small change",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kleingeld",
+      "example": "Hast du Kleingeld, weil der Automat keine Karte nimmt?"
+    },
+    {
+      "german": "die Kreditkarte",
+      "english": "the credit card",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "kreditkarte",
+      "example": "Ich habe das Hotel mit der Kreditkarte bezahlt."
+    },
+    {
+      "german": "die Lieferung",
+      "english": "the delivery",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "lieferung",
+      "example": "Die Lieferung kommt morgen, wenn ich zu Hause bin."
+    },
+    {
+      "german": "der Onlineshop",
+      "english": "the online shop",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "onlineshop",
+      "example": "Im Onlineshop sind die Preise oft günstiger als im Laden."
+    },
+    {
+      "german": "die Pfandflasche",
+      "english": "the deposit bottle",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "pfandflasche",
+      "example": "Ich sammle die Pfandflaschen, weil ich das Geld zurückbekomme."
+    },
+    {
+      "german": "die Plastiktüte",
+      "english": "the plastic bag",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "plastiktuete",
+      "example": "Ich kaufe keine Plastiktüte, weil sie Geld kostet."
+    },
+    {
+      "german": "das Portemonnaie",
+      "english": "the wallet",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "portemonnaie",
+      "example": "Ich habe mein Portemonnaie zu Hause vergessen."
+    },
+    {
+      "german": "das Preisschild",
+      "english": "the price tag",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "preisschild",
+      "example": "Auf dem Preisschild steht, dass die Hose günstig ist."
+    },
+    {
+      "german": "der Rabatt",
+      "english": "the discount",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "rabatt",
+      "example": "Ich freue mich, weil es zehn Prozent Rabatt gibt."
+    },
+    {
+      "german": "die Rechnung",
+      "english": "the bill",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "rechnung",
+      "example": "Ich bezahle die Rechnung, wenn das Essen kommt."
+    },
+    {
+      "german": "das Schaufenster",
+      "english": "the shop window",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "schaufenster",
+      "example": "Im Schaufenster liegt eine Jacke, aber sie ist teuer."
+    },
+    {
+      "german": "sparen",
+      "english": "to save",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "sparen",
+      "example": "Ich spare Geld, weil ich ein neues Handy möchte."
+    },
+    {
+      "german": "das Sparschwein",
+      "english": "the piggy bank",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "sparschwein",
+      "example": "Das Kind freut sich, weil das Sparschwein voll ist."
+    },
+    {
+      "german": "der Verkäufer",
+      "english": "the salesperson",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "verkaeufer",
+      "example": "Der Verkäufer hilft mir, weil ich die Größe nicht finde."
+    },
+    {
+      "german": "verkaufen",
+      "english": "to sell",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "verkaufen",
+      "example": "Ich verkaufe meine alte Jacke, weil sie zu klein ist."
+    },
+    {
+      "german": "der Warenkorb",
+      "english": "the online cart",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "warenkorb",
+      "example": "Ich lege die Jacke in den Warenkorb und bezahle."
+    },
+    {
+      "german": "die Warteschlange",
+      "english": "the queue",
+      "category": "Einkaufen & Geld",
+      "level": "A2",
+      "imageName": "warteschlange",
+      "example": "Ich warte in der Warteschlange, weil viele Leute einkaufen."
+    },
+    {
+      "german": "der Ausverkauf",
+      "english": "the clearance sale",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "ausverkauf",
+      "example": "Im Ausverkauf kaufe ich viele Sachen, die ich eigentlich nicht brauche."
+    },
+    {
+      "german": "der Pfandautomat",
+      "english": "the bottle return machine",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "pfandautomat",
+      "example": "Ich stecke die Flaschen in den Pfandautomaten, der mir einen Bon gibt."
+    },
+    {
+      "german": "reduziert",
+      "english": "reduced",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "reduziert",
+      "example": "Die Winterjacken sind stark reduziert, sodass ich endlich eine kaufen kann."
+    },
+    {
+      "german": "das Schnäppchen",
+      "english": "the bargain",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "schnaeppchen",
+      "example": "Auf dem Flohmarkt habe ich ein echtes Schnäppchen gemacht, obwohl ich nichts suchte."
+    },
+    {
+      "german": "das Sonderangebot",
+      "english": "the special offer",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "sonderangebot",
+      "example": "Das Sonderangebot gilt nur heute, deshalb kaufe ich gleich zwei Packungen."
+    },
+    {
+      "german": "umtauschen",
+      "english": "to exchange",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "umtauschen",
+      "example": "Ich tausche die Hose um, damit ich eine größere Größe bekomme."
+    },
+    {
+      "german": "das Wechselgeld",
+      "english": "the change",
+      "category": "Einkaufen & Geld",
+      "level": "B1",
+      "imageName": "wechselgeld",
+      "example": "Ich habe mit einem großen Schein bezahlt, deshalb bekomme ich viel Wechselgeld."
+    }
+  ]
+}
