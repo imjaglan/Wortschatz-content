@@ -91,6 +91,34 @@
       "wordCount": 56,
       "createdAt": "2026-06-13T12:00:00Z",
       "updatedAt": "2026-06-13T12:00:00Z"
+    },
+    {
+      "name": "Werkzeug & Baumarkt",
+      "slug": "werkzeug",
+      "wordCount": 48,
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z"
+    },
+    {
+      "name": "Berufe",
+      "slug": "berufe",
+      "wordCount": 46,
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z"
+    },
+    {
+      "name": "Bad & Drogerie",
+      "slug": "bad-drogerie",
+      "wordCount": 49,
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z"
+    },
+    {
+      "name": "Schreibwaren & Büro",
+      "slug": "schreibwaren",
+      "wordCount": 45,
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z"
     }
   ]
 }

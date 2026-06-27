@@ -1,0 +1,365 @@
+{
+  "lastUpdated": "2026-06-27T00:00:00Z",
+  "words": [
+    {
+      "german": "der Bleistift",
+      "english": "the pencil",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "bleistift",
+      "example": "Der Bleistift ist gelb und spitz."
+    },
+    {
+      "german": "der Kugelschreiber",
+      "english": "the ballpoint pen",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "kugelschreiber",
+      "example": "Der Kugelschreiber schreibt blau und dünn."
+    },
+    {
+      "german": "der Stift",
+      "english": "the pen",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "stift",
+      "example": "Der Stift liegt auf dem Tisch."
+    },
+    {
+      "german": "das Heft",
+      "english": "the exercise book",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "heft",
+      "example": "Das Heft ist dünn und neu."
+    },
+    {
+      "german": "das Papier",
+      "english": "the paper",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "papier",
+      "example": "Das Papier ist weiß und glatt."
+    },
+    {
+      "german": "das Lineal",
+      "english": "the ruler",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "lineal",
+      "example": "Das Lineal ist lang und gerade."
+    },
+    {
+      "german": "der Radiergummi",
+      "english": "the eraser",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "radiergummi",
+      "example": "Der Radiergummi ist klein und weich."
+    },
+    {
+      "german": "der Spitzer",
+      "english": "the pencil sharpener",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "spitzer",
+      "example": "Der Spitzer macht den Bleistift spitz."
+    },
+    {
+      "german": "schreiben",
+      "english": "to write",
+      "category": "Schreibwaren & Büro",
+      "level": "A1",
+      "imageName": "schreiben",
+      "example": "Ich schreibe einen Brief mit dem Stift."
+    },
+    {
+      "german": "der Füller",
+      "english": "the fountain pen",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "fueller",
+      "example": "Ich schreibe mit dem Füller, weil er schön aussieht."
+    },
+    {
+      "german": "der Ordner",
+      "english": "the ring binder",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "ordner",
+      "example": "Im Ordner sind viele Blätter, weil ich alles sammle."
+    },
+    {
+      "german": "der Tacker",
+      "english": "the stapler",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "tacker",
+      "example": "Ich nehme den Tacker, wenn ich Papiere zusammenhefte."
+    },
+    {
+      "german": "die Büroklammer",
+      "english": "the paperclip",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "bueroklammer",
+      "example": "Die Büroklammer hält die Blätter, weil sie aus Metall ist."
+    },
+    {
+      "german": "der Textmarker",
+      "english": "the highlighter",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "textmarker",
+      "example": "Ich nehme den Textmarker, wenn etwas wichtig ist."
+    },
+    {
+      "german": "der Filzstift",
+      "english": "the felt-tip pen",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "filzstift",
+      "example": "Der Filzstift ist dick, aber er malt schön."
+    },
+    {
+      "german": "der Klebstoff",
+      "english": "the glue",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "klebstoff",
+      "example": "Ich nehme Klebstoff, weil das Papier reißt."
+    },
+    {
+      "german": "der Locher",
+      "english": "the hole punch",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "locher",
+      "example": "Ich nehme den Locher, weil das Blatt in den Ordner soll."
+    },
+    {
+      "german": "der Umschlag",
+      "english": "the envelope",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "umschlag",
+      "example": "Ich stecke den Brief in den Umschlag, wenn er fertig ist."
+    },
+    {
+      "german": "der Taschenrechner",
+      "english": "the calculator",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "taschenrechner",
+      "example": "Ich brauche den Taschenrechner, weil die Zahlen schwer sind."
+    },
+    {
+      "german": "der Notizblock",
+      "english": "the notepad",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "notizblock",
+      "example": "Ich schreibe auf den Notizblock, wenn ich etwas vergesse."
+    },
+    {
+      "german": "der Stempel",
+      "english": "the stamp",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "stempel",
+      "example": "Ich nehme den Stempel, wenn ich das Dokument fertig habe."
+    },
+    {
+      "german": "die Kreide",
+      "english": "the chalk",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "kreide",
+      "example": "Der Lehrer nimmt Kreide, weil er an die Tafel schreibt."
+    },
+    {
+      "german": "die Lupe",
+      "english": "the magnifying glass",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "lupe",
+      "example": "Ich nehme die Lupe, weil die Schrift sehr klein ist."
+    },
+    {
+      "german": "radieren",
+      "english": "to erase",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "radieren",
+      "example": "Ich radiere das Wort weg, weil es falsch ist."
+    },
+    {
+      "german": "anspitzen",
+      "english": "to sharpen",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "anspitzen",
+      "example": "Ich spitze den Bleistift an, wenn er stumpf ist."
+    },
+    {
+      "german": "stempeln",
+      "english": "to stamp",
+      "category": "Schreibwaren & Büro",
+      "level": "A2",
+      "imageName": "stempeln",
+      "example": "Ich stemple das Papier, wenn es fertig ist."
+    },
+    {
+      "german": "die Tafel",
+      "english": "the board",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "tafel",
+      "example": "An der Tafel steht die Aufgabe, die wir lösen müssen."
+    },
+    {
+      "german": "das Notizbuch",
+      "english": "the notebook",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "notizbuch",
+      "example": "Ich schreibe alle Ideen in das Notizbuch, das immer in meiner Tasche ist."
+    },
+    {
+      "german": "die Pinnwand",
+      "english": "the pinboard",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "pinnwand",
+      "example": "An der Pinnwand hängen viele Zettel, damit ich nichts vergesse."
+    },
+    {
+      "german": "die Haftnotiz",
+      "english": "the sticky note",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "haftnotiz",
+      "example": "Ich klebe eine Haftnotiz an den Spiegel, damit ich die Termine sehe."
+    },
+    {
+      "german": "das Geodreieck",
+      "english": "the set square",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "geodreieck",
+      "example": "Mit dem Geodreieck zeichne ich Linien, die ganz genau gerade sein müssen."
+    },
+    {
+      "german": "der Zirkel",
+      "english": "the compass",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "zirkel",
+      "example": "Mit dem Zirkel male ich einen Kreis, der ganz rund wird."
+    },
+    {
+      "german": "das Federmäppchen",
+      "english": "the pencil case",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "federmaeppchen",
+      "example": "Im Federmäppchen sind die Stifte, die ich für die Schule brauche."
+    },
+    {
+      "german": "der Schulranzen",
+      "english": "the school satchel",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "schulranzen",
+      "example": "Der Schulranzen ist voller Bücher, sodass das Kind ihn kaum tragen kann."
+    },
+    {
+      "german": "der Globus",
+      "english": "the globe",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "globus",
+      "example": "Auf dem Globus suche ich das Land, in dem meine Freunde wohnen."
+    },
+    {
+      "german": "die Schreibmaschine",
+      "english": "the typewriter",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "schreibmaschine",
+      "example": "Meine Oma hat eine alte Schreibmaschine, die noch sehr gut funktioniert."
+    },
+    {
+      "german": "lochen",
+      "english": "to hole-punch",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "lochen",
+      "example": "Ich loche die Blätter, damit sie in den Ordner passen."
+    },
+    {
+      "german": "abheften",
+      "english": "to file",
+      "category": "Schreibwaren & Büro",
+      "level": "B1",
+      "imageName": "abheften",
+      "example": "Ich hefte die Rechnungen ab, die ich später noch brauche."
+    },
+    {
+      "german": "die Tinte",
+      "english": "the ink",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "tinte",
+      "example": "Bevor ich mit dem Füller schreibe, fülle ich neue Tinte ein."
+    },
+    {
+      "german": "der Schnellhefter",
+      "english": "the flat file",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "schnellhefter",
+      "example": "Nachdem ich die Blätter gelocht habe, ordne ich sie in einen Schnellhefter."
+    },
+    {
+      "german": "die Karteikarte",
+      "english": "the index card",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "karteikarte",
+      "example": "Während ich Vokabeln lerne, schreibe ich jedes Wort auf eine Karteikarte."
+    },
+    {
+      "german": "die Klarsichthülle",
+      "english": "the plastic sleeve",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "klarsichthuelle",
+      "example": "Damit die Dokumente sauber bleiben, stecke ich sie in eine Klarsichthülle."
+    },
+    {
+      "german": "das Klemmbrett",
+      "english": "the clipboard",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "klemmbrett",
+      "example": "Falls ich im Stehen schreiben muss, nehme ich immer ein Klemmbrett mit."
+    },
+    {
+      "german": "die Weltkarte",
+      "english": "the world map",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "weltkarte",
+      "example": "Während andere ein Buch lesen, betrachte ich gern die große Weltkarte."
+    },
+    {
+      "german": "der Aktenvernichter",
+      "english": "the shredder",
+      "category": "Schreibwaren & Büro",
+      "level": "B2",
+      "imageName": "aktenvernichter",
+      "example": "Bevor ich die alten Papiere wegwerfe, schreddere ich sie im Aktenvernichter."
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "lastUpdated": "2026-06-27T00:00:00Z",
+  "words": [
+    {
+      "german": "das Werkzeug",
+      "english": "the tool",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "werkzeug",
+      "example": "Das Werkzeug liegt auf dem Tisch."
+    },
+    {
+      "german": "der Hammer",
+      "english": "the hammer",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "hammer",
+      "example": "Der Hammer ist schwer und alt."
+    },
+    {
+      "german": "der Nagel",
+      "english": "the nail",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "nagel",
+      "example": "Der Nagel ist klein und spitz."
+    },
+    {
+      "german": "die Schraube",
+      "english": "the screw",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "schraube",
+      "example": "Die Schraube ist klein und rund."
+    },
+    {
+      "german": "die Säge",
+      "english": "the saw",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "saege",
+      "example": "Die Säge ist alt und scharf."
+    },
+    {
+      "german": "die Leiter",
+      "english": "the ladder",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "leiter",
+      "example": "Die Leiter steht an der Wand."
+    },
+    {
+      "german": "der Eimer",
+      "english": "the bucket",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "eimer",
+      "example": "Der Eimer ist voll mit Wasser."
+    },
+    {
+      "german": "die Schaufel",
+      "english": "the shovel",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "schaufel",
+      "example": "Die Schaufel liegt im Garten."
+    },
+    {
+      "german": "die Taschenlampe",
+      "english": "the flashlight",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A1",
+      "imageName": "taschenlampe",
+      "example": "Die Taschenlampe leuchtet sehr hell."
+    },
+    {
+      "german": "der Schraubenzieher",
+      "english": "the screwdriver",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "schraubenzieher",
+      "example": "Ich brauche einen Schraubenzieher, weil die Schraube locker ist."
+    },
+    {
+      "german": "die Bohrmaschine",
+      "english": "the drill",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "bohrmaschine",
+      "example": "Die Bohrmaschine ist laut, wenn ich ein Loch bohre."
+    },
+    {
+      "german": "der Akkuschrauber",
+      "english": "the cordless screwdriver",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "akkuschrauber",
+      "example": "Der Akkuschrauber ist praktisch, weil er keine Kabel braucht."
+    },
+    {
+      "german": "die Zange",
+      "english": "the pliers",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "zange",
+      "example": "Ich nehme die Zange, weil der Nagel klemmt."
+    },
+    {
+      "german": "der Schraubenschlüssel",
+      "english": "the wrench",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "schraubenschluessel",
+      "example": "Der Schraubenschlüssel passt nicht, weil die Schraube zu groß ist."
+    },
+    {
+      "german": "der Zollstock",
+      "english": "the folding ruler",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "zollstock",
+      "example": "Ich nehme den Zollstock, weil ich die Tür messe."
+    },
+    {
+      "german": "das Maßband",
+      "english": "the tape measure",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "massband",
+      "example": "Das Maßband ist lang, aber es ist sehr dünn."
+    },
+    {
+      "german": "die Wasserwaage",
+      "english": "the spirit level",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "wasserwaage",
+      "example": "Die Wasserwaage zeigt, dass das Regal gerade ist."
+    },
+    {
+      "german": "der Dübel",
+      "english": "the wall plug",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "duebel",
+      "example": "Der Dübel hält die Schraube, wenn die Wand fest ist."
+    },
+    {
+      "german": "das Klebeband",
+      "english": "the tape",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "klebeband",
+      "example": "Das Klebeband klebt gut, weil es neu ist."
+    },
+    {
+      "german": "die Wandfarbe",
+      "english": "the wall paint",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "wandfarbe",
+      "example": "Die Wandfarbe ist weiß, weil das Zimmer hell wird."
+    },
+    {
+      "german": "der Farbroller",
+      "english": "the paint roller",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "farbroller",
+      "example": "Der Farbroller ist besser, weil er schneller als ein Pinsel ist."
+    },
+    {
+      "german": "der Bohrer",
+      "english": "the drill bit",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "bohrer",
+      "example": "Der Bohrer ist klein, aber er bohrt sehr tief."
+    },
+    {
+      "german": "das Schleifpapier",
+      "english": "the sandpaper",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "schleifpapier",
+      "example": "Ich nehme Schleifpapier, weil das Holz rau ist."
+    },
+    {
+      "german": "bohren",
+      "english": "to drill",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "bohren",
+      "example": "Ich bohre ein Loch, weil ich das Bild aufhängen will."
+    },
+    {
+      "german": "sägen",
+      "english": "to saw",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "saegen",
+      "example": "Ich säge das Brett, weil es zu lang ist."
+    },
+    {
+      "german": "hämmern",
+      "english": "to hammer",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "haemmern",
+      "example": "Ich hämmere den Nagel, wenn ich das Bild aufhänge."
+    },
+    {
+      "german": "schrauben",
+      "english": "to screw",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "schrauben",
+      "example": "Ich schraube das Regal fest, weil es wackelt."
+    },
+    {
+      "german": "messen",
+      "english": "to measure",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "messen",
+      "example": "Ich messe ganz genau, weil das Brett passen muss."
+    },
+    {
+      "german": "das Vorhängeschloss",
+      "english": "the padlock",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "vorhaengeschloss",
+      "example": "Ich schließe das Vorhängeschloss, weil das Fahrrad sicher sein soll."
+    },
+    {
+      "german": "die Harke",
+      "english": "the rake",
+      "category": "Werkzeug & Baumarkt",
+      "level": "A2",
+      "imageName": "harke",
+      "example": "Ich nehme die Harke, wenn viele Blätter im Garten liegen."
+    },
+    {
+      "german": "die Trittleiter",
+      "english": "the step ladder",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "trittleiter",
+      "example": "Ich hole die Trittleiter, damit ich an das hohe Regal komme."
+    },
+    {
+      "german": "die Schubkarre",
+      "english": "the wheelbarrow",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "schubkarre",
+      "example": "Ich fülle die Schubkarre mit Sand, den ich in den Garten bringe."
+    },
+    {
+      "german": "der Schraubstock",
+      "english": "the vise",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "schraubstock",
+      "example": "Der Schraubstock hält das Holz fest, sodass ich genau sägen kann."
+    },
+    {
+      "german": "der Winkelschleifer",
+      "english": "the angle grinder",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "winkelschleifer",
+      "example": "Der Winkelschleifer wirft viele Funken, obwohl ich sehr vorsichtig arbeite."
+    },
+    {
+      "german": "die Kettensäge",
+      "english": "the chainsaw",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "kettensaege",
+      "example": "Die Kettensäge ist gefährlich, deshalb trage ich immer eine Schutzbrille."
+    },
+    {
+      "german": "der Meißel",
+      "english": "the chisel",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "meissel",
+      "example": "Mit dem Meißel forme ich den Stein, den ich gefunden habe."
+    },
+    {
+      "german": "die Axt",
+      "english": "the axe",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "axt",
+      "example": "Ich spalte das Holz mit der Axt, damit wir Feuer machen können."
+    },
+    {
+      "german": "die Werkbank",
+      "english": "the workbench",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "werkbank",
+      "example": "An der Werkbank repariere ich alte Möbel, die kaputtgegangen sind."
+    },
+    {
+      "german": "der Werkzeugkasten",
+      "english": "the toolbox",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "werkzeugkasten",
+      "example": "Im Werkzeugkasten liegt alles, was ich für die Arbeit brauche."
+    },
+    {
+      "german": "das Verlängerungskabel",
+      "english": "the extension cord",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "verlaengerungskabel",
+      "example": "Die Steckdose ist zu weit weg, deshalb brauche ich ein Verlängerungskabel."
+    },
+    {
+      "german": "die Schutzbrille",
+      "english": "the safety goggles",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "schutzbrille",
+      "example": "Ich trage eine Schutzbrille, damit keine Späne in die Augen fliegen."
+    },
+    {
+      "german": "die Schraubzwinge",
+      "english": "the clamp",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "schraubzwinge",
+      "example": "Die Schraubzwinge hält die zwei Bretter fest, damit der Kleber gut trocknet."
+    },
+    {
+      "german": "die Klebepistole",
+      "english": "the glue gun",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B1",
+      "imageName": "klebepistole",
+      "example": "Mit der Klebepistole klebe ich das Holz, das sonst nicht hält."
+    },
+    {
+      "german": "der Schutzhelm",
+      "english": "the hard hat",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B2",
+      "imageName": "schutzhelm",
+      "example": "Bevor man die Baustelle betritt, muss man einen Schutzhelm aufsetzen."
+    },
+    {
+      "german": "die Kombizange",
+      "english": "the combination pliers",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B2",
+      "imageName": "kombizange",
+      "example": "Während ich den Draht durchschneide, halte ich ihn mit der Kombizange fest."
+    },
+    {
+      "german": "die Feile",
+      "english": "the file",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B2",
+      "imageName": "feile",
+      "example": "Nachdem ich das Metall gesägt habe, glätte ich die Kanten mit der Feile."
+    },
+    {
+      "german": "reparieren",
+      "english": "to repair",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B2",
+      "imageName": "reparieren",
+      "example": "Falls das Werkzeug kaputt ist, kann ich es meistens selbst reparieren."
+    },
+    {
+      "german": "schleifen",
+      "english": "to sand",
+      "category": "Werkzeug & Baumarkt",
+      "level": "B2",
+      "imageName": "schleifen",
+      "example": "Solange das Holz noch rau ist, muss ich es weiter schleifen."
+    }
+  ]
+}

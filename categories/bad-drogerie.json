@@ -1,0 +1,397 @@
+{
+  "lastUpdated": "2026-06-27T00:00:00Z",
+  "words": [
+    {
+      "german": "die Seife",
+      "english": "the soap",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "seife",
+      "example": "Die Seife riecht gut und frisch."
+    },
+    {
+      "german": "das Shampoo",
+      "english": "the shampoo",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "shampoo",
+      "example": "Das Shampoo ist für die Haare."
+    },
+    {
+      "german": "die Zahnbürste",
+      "english": "the toothbrush",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "zahnbuerste",
+      "example": "Die Zahnbürste ist blau und neu."
+    },
+    {
+      "german": "die Zahnpasta",
+      "english": "the toothpaste",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "zahnpasta",
+      "example": "Die Zahnpasta schmeckt nach Minze."
+    },
+    {
+      "german": "der Kamm",
+      "english": "the comb",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "kamm",
+      "example": "Der Kamm ist klein und rot."
+    },
+    {
+      "german": "die Bürste",
+      "english": "the brush",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "buerste",
+      "example": "Die Bürste liegt im Bad."
+    },
+    {
+      "german": "das Toilettenpapier",
+      "english": "the toilet paper",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "toilettenpapier",
+      "example": "Das Toilettenpapier ist weich und weiß."
+    },
+    {
+      "german": "der Rasierer",
+      "english": "the razor",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "rasierer",
+      "example": "Der Rasierer ist neu und scharf."
+    },
+    {
+      "german": "der Föhn",
+      "english": "the hairdryer",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "foehn",
+      "example": "Der Föhn macht die Haare trocken."
+    },
+    {
+      "german": "die Creme",
+      "english": "the cream",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "creme",
+      "example": "Die Creme ist weich und weiß."
+    },
+    {
+      "german": "das Taschentuch",
+      "english": "the tissue",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "taschentuch",
+      "example": "Das Taschentuch ist klein und weich."
+    },
+    {
+      "german": "duschen",
+      "english": "to shower",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "duschen",
+      "example": "Ich dusche jeden Morgen warm."
+    },
+    {
+      "german": "baden",
+      "english": "to bathe",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "baden",
+      "example": "Das Kind badet am Abend."
+    },
+    {
+      "german": "kämmen",
+      "english": "to comb",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "kaemmen",
+      "example": "Ich kämme jeden Tag meine Haare."
+    },
+    {
+      "german": "Zähne putzen",
+      "english": "to brush teeth",
+      "category": "Bad & Drogerie",
+      "level": "A1",
+      "imageName": "zaehneputzen",
+      "example": "Ich putze jeden Morgen die Zähne."
+    },
+    {
+      "german": "das Duschgel",
+      "english": "the shower gel",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "duschgel",
+      "example": "Ich nehme Duschgel, weil es besser als Seife riecht."
+    },
+    {
+      "german": "das Deo",
+      "english": "the deodorant",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "deo",
+      "example": "Ich benutze Deo, weil ich nicht schlecht riechen will."
+    },
+    {
+      "german": "die Nagelschere",
+      "english": "the nail scissors",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "nagelschere",
+      "example": "Ich nehme die Nagelschere, wenn die Nägel zu lang sind."
+    },
+    {
+      "german": "der Waschlappen",
+      "english": "the washcloth",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "waschlappen",
+      "example": "Ich wasche das Gesicht, weil der Waschlappen weich ist."
+    },
+    {
+      "german": "die Zahnseide",
+      "english": "the dental floss",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "zahnseide",
+      "example": "Ich benutze Zahnseide, weil sie die Zähne sauber macht."
+    },
+    {
+      "german": "das Wattestäbchen",
+      "english": "the cotton swab",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "wattestaebchen",
+      "example": "Das Wattestäbchen ist klein, aber es ist sehr praktisch."
+    },
+    {
+      "german": "das Parfüm",
+      "english": "the perfume",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "parfuem",
+      "example": "Das Parfüm riecht gut, weil es teuer ist."
+    },
+    {
+      "german": "die Sonnencreme",
+      "english": "the sunscreen",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "sonnencreme",
+      "example": "Ich nehme Sonnencreme, wenn die Sonne heiß ist."
+    },
+    {
+      "german": "der Lippenstift",
+      "english": "the lipstick",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "lippenstift",
+      "example": "Sie trägt roten Lippenstift, wenn sie ausgeht."
+    },
+    {
+      "german": "der Nagellack",
+      "english": "the nail polish",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "nagellack",
+      "example": "Der Nagellack ist rot, aber er trocknet langsam."
+    },
+    {
+      "german": "die Waage",
+      "english": "the scale",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "waage",
+      "example": "Ich stehe auf die Waage, wenn ich mein Gewicht prüfe."
+    },
+    {
+      "german": "die Windel",
+      "english": "the diaper",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "windel",
+      "example": "Die Windel ist nass, weil das Baby viel trinkt."
+    },
+    {
+      "german": "der Schnuller",
+      "english": "the pacifier",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "schnuller",
+      "example": "Das Baby ist ruhig, wenn es den Schnuller hat."
+    },
+    {
+      "german": "sich rasieren",
+      "english": "to shave",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "rasieren",
+      "example": "Ich rasiere mich, wenn der Bart zu lang ist."
+    },
+    {
+      "german": "föhnen",
+      "english": "to blow-dry",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "foehnen",
+      "example": "Ich föhne die Haare, wenn sie nass sind."
+    },
+    {
+      "german": "sich schminken",
+      "english": "to put on makeup",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "schminken",
+      "example": "Sie schminkt sich, wenn sie heute Abend ausgeht."
+    },
+    {
+      "german": "sich waschen",
+      "english": "to wash",
+      "category": "Bad & Drogerie",
+      "level": "A2",
+      "imageName": "waschen",
+      "example": "Ich wasche mir die Hände, weil sie schmutzig sind."
+    },
+    {
+      "german": "die Nagelfeile",
+      "english": "the nail file",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "nagelfeile",
+      "example": "Ich benutze die Nagelfeile, damit die Nägel schön rund werden."
+    },
+    {
+      "german": "der Nagelknipser",
+      "english": "the nail clipper",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "nagelknipser",
+      "example": "Meine Nägel sind zu lang geworden, deshalb nehme ich den Nagelknipser."
+    },
+    {
+      "german": "die Pinzette",
+      "english": "the tweezers",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "pinzette",
+      "example": "Mit der Pinzette ziehe ich den Splitter heraus, der im Finger steckt."
+    },
+    {
+      "german": "der Rasierschaum",
+      "english": "the shaving foam",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "rasierschaum",
+      "example": "Ich nehme Rasierschaum, damit der Rasierer besser über die Haut gleitet."
+    },
+    {
+      "german": "das Haargel",
+      "english": "the hair gel",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "haargel",
+      "example": "Er benutzt Haargel, sodass seine Haare den ganzen Tag halten."
+    },
+    {
+      "german": "die Bodylotion",
+      "english": "the body lotion",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "bodylotion",
+      "example": "Ich creme die trockene Haut mit Bodylotion ein, damit sie wieder weich wird."
+    },
+    {
+      "german": "die Wimperntusche",
+      "english": "the mascara",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "wimperntusche",
+      "example": "Sie trägt Wimperntusche auf, damit ihre Augen größer wirken."
+    },
+    {
+      "german": "das Mundwasser",
+      "english": "the mouthwash",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "mundwasser",
+      "example": "Ich benutze Mundwasser, obwohl ich die Zähne schon geputzt habe."
+    },
+    {
+      "german": "die Klobürste",
+      "english": "the toilet brush",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "klobuerste",
+      "example": "Die Klobürste steht neben der Toilette, die ich gerade geputzt habe."
+    },
+    {
+      "german": "der Kulturbeutel",
+      "english": "the toiletry bag",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "kulturbeutel",
+      "example": "Im Kulturbeutel ist alles, was ich auf Reisen brauche."
+    },
+    {
+      "german": "der Seifenspender",
+      "english": "the soap dispenser",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "seifenspender",
+      "example": "Am Waschbecken steht der Seifenspender, den ich jeden Morgen benutze."
+    },
+    {
+      "german": "sich eincremen",
+      "english": "to apply lotion",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "eincremen",
+      "example": "Nach dem Duschen creme ich mich ein, damit die Haut weich bleibt."
+    },
+    {
+      "german": "sich abtrocknen",
+      "english": "to dry off",
+      "category": "Bad & Drogerie",
+      "level": "B1",
+      "imageName": "abtrocknen",
+      "example": "Ich trockne mich mit dem Handtuch ab, das im Bad hängt."
+    },
+    {
+      "german": "das Wattepad",
+      "english": "the cotton pad",
+      "category": "Bad & Drogerie",
+      "level": "B2",
+      "imageName": "wattepad",
+      "example": "Bevor sie das Make-up entfernt, nimmt sie ein weiches Wattepad und etwas Wasser."
+    },
+    {
+      "german": "der Duschvorhang",
+      "english": "the shower curtain",
+      "category": "Bad & Drogerie",
+      "level": "B2",
+      "imageName": "duschvorhang",
+      "example": "Während ich dusche, hält der Duschvorhang das Wasser in der Dusche."
+    },
+    {
+      "german": "die Haarspülung",
+      "english": "the conditioner",
+      "category": "Bad & Drogerie",
+      "level": "B2",
+      "imageName": "haarspuelung",
+      "example": "Nachdem ich die Haare gewaschen habe, benutze ich noch eine Haarspülung."
+    },
+    {
+      "german": "das Schaumbad",
+      "english": "the bubble bath",
+      "category": "Bad & Drogerie",
+      "level": "B2",
+      "imageName": "schaumbad",
+      "example": "Falls ich mich entspannen will, mache ich mir abends ein warmes Schaumbad."
+    }
+  ]
+}

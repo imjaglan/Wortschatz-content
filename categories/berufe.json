@@ -1,0 +1,373 @@
+{
+  "lastUpdated": "2026-06-27T00:00:00Z",
+  "words": [
+    {
+      "german": "der Lehrer",
+      "english": "the teacher",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "lehrer",
+      "example": "Der Lehrer arbeitet in der Schule."
+    },
+    {
+      "german": "der Koch",
+      "english": "the cook",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "koch",
+      "example": "Der Koch kocht Suppe und Reis."
+    },
+    {
+      "german": "der Bäcker",
+      "english": "the baker",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "baecker",
+      "example": "Der Bäcker backt Brot und Kuchen."
+    },
+    {
+      "german": "der Polizist",
+      "english": "the police officer",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "polizist",
+      "example": "Der Polizist trägt eine blaue Uniform."
+    },
+    {
+      "german": "der Pilot",
+      "english": "the pilot",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "pilot",
+      "example": "Der Pilot fliegt ein großes Flugzeug."
+    },
+    {
+      "german": "der Bauer",
+      "english": "the farmer",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "bauer",
+      "example": "Der Bauer arbeitet auf dem Bauernhof."
+    },
+    {
+      "german": "der Kellner",
+      "english": "the waiter",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "kellner",
+      "example": "Der Kellner bringt Wasser und Wein."
+    },
+    {
+      "german": "der Friseur",
+      "english": "the hairdresser",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "friseur",
+      "example": "Der Friseur schneidet die Haare kurz."
+    },
+    {
+      "german": "die Krankenschwester",
+      "english": "the nurse",
+      "category": "Berufe",
+      "level": "A1",
+      "imageName": "krankenschwester",
+      "example": "Die Krankenschwester hilft im Krankenhaus."
+    },
+    {
+      "german": "der Mechaniker",
+      "english": "the mechanic",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "mechaniker",
+      "example": "Der Mechaniker repariert das Auto, weil der Motor kaputt ist."
+    },
+    {
+      "german": "der Maler",
+      "english": "the painter",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "maler",
+      "example": "Der Maler streicht die Wand, weil sie alt aussieht."
+    },
+    {
+      "german": "der Briefträger",
+      "english": "the mail carrier",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "brieftraeger",
+      "example": "Der Briefträger kommt früh, weil er viele Briefe bringt."
+    },
+    {
+      "german": "der Busfahrer",
+      "english": "the bus driver",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "busfahrer",
+      "example": "Der Busfahrer fährt den Bus, wenn viele Leute warten."
+    },
+    {
+      "german": "der Feuerwehrmann",
+      "english": "the firefighter",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "feuerwehrmann",
+      "example": "Der Feuerwehrmann löscht das Feuer, weil es stark brennt."
+    },
+    {
+      "german": "der Tierarzt",
+      "english": "the veterinarian",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "tierarzt",
+      "example": "Der Tierarzt hilft dem Hund, weil er krank ist."
+    },
+    {
+      "german": "der Gärtner",
+      "english": "the gardener",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "gaertner",
+      "example": "Der Gärtner gießt die Blumen, wenn es heiß ist."
+    },
+    {
+      "german": "der Metzger",
+      "english": "the butcher",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "metzger",
+      "example": "Der Metzger verkauft Fleisch und Wurst, weil viele Kunden kommen."
+    },
+    {
+      "german": "der Elektriker",
+      "english": "the electrician",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "elektriker",
+      "example": "Der Elektriker repariert die Lampe, weil das Licht aus ist."
+    },
+    {
+      "german": "der Klempner",
+      "english": "the plumber",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "klempner",
+      "example": "Der Klempner kommt, weil der Wasserhahn tropft."
+    },
+    {
+      "german": "der Tischler",
+      "english": "the carpenter",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "tischler",
+      "example": "Der Tischler baut Möbel, weil er gerne mit Holz arbeitet."
+    },
+    {
+      "german": "der Maurer",
+      "english": "the bricklayer",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "maurer",
+      "example": "Der Maurer baut die Wand, weil das Haus neu ist."
+    },
+    {
+      "german": "der Soldat",
+      "english": "the soldier",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "soldat",
+      "example": "Der Soldat trägt eine Uniform, wenn er arbeitet."
+    },
+    {
+      "german": "der Fotograf",
+      "english": "the photographer",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "fotograf",
+      "example": "Der Fotograf macht schöne Fotos, weil das Licht gut ist."
+    },
+    {
+      "german": "der Fischer",
+      "english": "the fisherman",
+      "category": "Berufe",
+      "level": "A2",
+      "imageName": "fischer",
+      "example": "Der Fischer fängt viele Fische, wenn das Wetter gut ist."
+    },
+    {
+      "german": "der Richter",
+      "english": "the judge",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "richter",
+      "example": "Der Richter trägt im Gericht eine schwarze Robe, die seine wichtige Rolle zeigt."
+    },
+    {
+      "german": "der Anwalt",
+      "english": "the lawyer",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "anwalt",
+      "example": "Der Anwalt hilft den Menschen, die ein Problem mit dem Gesetz haben."
+    },
+    {
+      "german": "der Architekt",
+      "english": "the architect",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "architekt",
+      "example": "Der Architekt zeichnet das Haus, das die Familie bauen möchte."
+    },
+    {
+      "german": "der Journalist",
+      "english": "the journalist",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "journalist",
+      "example": "Der Journalist schreibt einen Artikel, sodass alle die Nachrichten lesen können."
+    },
+    {
+      "german": "der Schornsteinfeger",
+      "english": "the chimney sweep",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "schornsteinfeger",
+      "example": "Der Schornsteinfeger reinigt den Kamin, obwohl die Arbeit sehr schmutzig ist."
+    },
+    {
+      "german": "der Bauarbeiter",
+      "english": "the construction worker",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "bauarbeiter",
+      "example": "Der Bauarbeiter trägt einen Schutzhelm, damit ihn nichts am Kopf verletzt."
+    },
+    {
+      "german": "der Astronaut",
+      "english": "the astronaut",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "astronaut",
+      "example": "Der Astronaut fliegt ins Weltall, obwohl die Reise sehr gefährlich ist."
+    },
+    {
+      "german": "der Kapitän",
+      "english": "the captain",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "kapitaen",
+      "example": "Der Kapitän steuert das Schiff, das über das weite Meer fährt."
+    },
+    {
+      "german": "der Optiker",
+      "english": "the optician",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "optiker",
+      "example": "Der Optiker verkauft Brillen, damit die Menschen besser sehen können."
+    },
+    {
+      "german": "der Florist",
+      "english": "the florist",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "florist",
+      "example": "Der Florist bindet die Blumen zu einem Strauß, den man verschenken kann."
+    },
+    {
+      "german": "der Taucher",
+      "english": "the diver",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "taucher",
+      "example": "Der Taucher schwimmt ins Meer, obwohl das Wasser sehr kalt ist."
+    },
+    {
+      "german": "der Zauberer",
+      "english": "the magician",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "zauberer",
+      "example": "Der Zauberer zeigt einen Trick, den die Kinder nicht verstehen."
+    },
+    {
+      "german": "der Schmied",
+      "english": "the blacksmith",
+      "category": "Berufe",
+      "level": "B1",
+      "imageName": "schmied",
+      "example": "Der Schmied formt das heiße Eisen, das im Feuer rot glüht."
+    },
+    {
+      "german": "der Schauspieler",
+      "english": "the actor",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "schauspieler",
+      "example": "Während die Kamera läuft, spielt der Schauspieler seine Rolle sehr überzeugend."
+    },
+    {
+      "german": "der Wissenschaftler",
+      "english": "the scientist",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "wissenschaftler",
+      "example": "Bevor der Wissenschaftler seine Ergebnisse zeigt, muss er viele Experimente machen."
+    },
+    {
+      "german": "der Imker",
+      "english": "the beekeeper",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "imker",
+      "example": "Nachdem der Imker die Bienen beruhigt hat, nimmt er den Honig aus dem Kasten."
+    },
+    {
+      "german": "der Winzer",
+      "english": "the winemaker",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "winzer",
+      "example": "Während andere noch schlafen, erntet der Winzer im Herbst seine reifen Trauben."
+    },
+    {
+      "german": "der Förster",
+      "english": "the forester",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "foerster",
+      "example": "Solange der Wald gesund bleibt, kümmert sich der Förster um die jungen Bäume."
+    },
+    {
+      "german": "der Clown",
+      "english": "the clown",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "clown",
+      "example": "Während die Kinder im Zirkus sitzen, macht der Clown viele lustige Tricks."
+    },
+    {
+      "german": "der Müllmann",
+      "english": "the garbage collector",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "muellmann",
+      "example": "Bevor die Stadt erwacht, leert der Müllmann schon die vollen Tonnen."
+    },
+    {
+      "german": "der Schäfer",
+      "english": "the shepherd",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "schaefer",
+      "example": "Während die Schafe auf der Wiese fressen, passt der Schäfer gut auf."
+    },
+    {
+      "german": "der Bademeister",
+      "english": "the lifeguard",
+      "category": "Berufe",
+      "level": "B2",
+      "imageName": "bademeister",
+      "example": "Solange Kinder im Wasser spielen, beobachtet der Bademeister jeden einzelnen Schwimmer."
+    }
+  ]
+}
