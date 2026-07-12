@@ -119,6 +119,20 @@
       "wordCount": 45,
       "createdAt": "2026-06-27T00:00:00Z",
       "updatedAt": "2026-06-27T00:00:00Z"
+    },
+    {
+      "name": "Alltagsverben",
+      "slug": "alltagsverben",
+      "wordCount": 76,
+      "createdAt": "2026-07-12T00:00:00Z",
+      "updatedAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "name": "Farben & Formen",
+      "slug": "farben-formen",
+      "wordCount": 62,
+      "createdAt": "2026-07-12T00:00:00Z",
+      "updatedAt": "2026-07-12T00:00:00Z"
     }
   ]
 }

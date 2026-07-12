@@ -1,0 +1,613 @@
+{
+  "lastUpdated": "2026-07-12T00:00:00Z",
+  "words": [
+    {
+      "german": "gehen",
+      "english": "to go",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "gehen",
+      "example": "Ich gehe nach Hause."
+    },
+    {
+      "german": "kommen",
+      "english": "to come",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "kommen",
+      "example": "Er kommt heute Abend."
+    },
+    {
+      "german": "essen",
+      "english": "to eat",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "essen",
+      "example": "Wir essen um zwölf Uhr."
+    },
+    {
+      "german": "trinken",
+      "english": "to drink",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "trinken",
+      "example": "Das Baby trinkt Milch."
+    },
+    {
+      "german": "schlafen",
+      "english": "to sleep",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "schlafen",
+      "example": "Das Kind schläft im Bett."
+    },
+    {
+      "german": "sitzen",
+      "english": "to sit",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "sitzen",
+      "example": "Ich sitze auf dem Stuhl."
+    },
+    {
+      "german": "stehen",
+      "english": "to stand",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "stehen",
+      "example": "Der Mann steht an der Tür."
+    },
+    {
+      "german": "liegen",
+      "english": "to lie",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "liegen",
+      "example": "Der Hund liegt auf dem Boden."
+    },
+    {
+      "german": "sehen",
+      "english": "to see",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "sehen",
+      "example": "Ich sehe einen Vogel."
+    },
+    {
+      "german": "hören",
+      "english": "to hear",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "hoeren",
+      "example": "Ich höre laute Musik."
+    },
+    {
+      "german": "geben",
+      "english": "to give",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "geben",
+      "example": "Ich gebe dir das Buch."
+    },
+    {
+      "german": "nehmen",
+      "english": "to take",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "nehmen",
+      "example": "Sie nimmt einen Apfel."
+    },
+    {
+      "german": "öffnen",
+      "english": "to open",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "oeffnen",
+      "example": "Ich öffne das Fenster."
+    },
+    {
+      "german": "fallen",
+      "english": "to fall",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "fallen",
+      "example": "Das Glas fällt auf den Boden."
+    },
+    {
+      "german": "tragen",
+      "english": "to carry",
+      "category": "Alltagsverben",
+      "level": "A1",
+      "imageName": "tragen",
+      "example": "Ich trage die schwere Tasche."
+    },
+    {
+      "german": "halten",
+      "english": "to hold",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "halten",
+      "example": "Das Kind hält den Ballon fest, weil der Wind stark ist."
+    },
+    {
+      "german": "lachen",
+      "english": "to laugh",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "lachen",
+      "example": "Die Kinder lachen, weil der Clown lustig ist."
+    },
+    {
+      "german": "weinen",
+      "english": "to cry",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "weinen",
+      "example": "Das Baby weint, weil es müde ist."
+    },
+    {
+      "german": "winken",
+      "english": "to wave",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "winken",
+      "example": "Ich winke, wenn der Zug abfährt."
+    },
+    {
+      "german": "zeigen",
+      "english": "to point / show",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "zeigen",
+      "example": "Ich zeige auf die Karte, wenn ich den Weg erkläre."
+    },
+    {
+      "german": "suchen",
+      "english": "to search",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "suchen",
+      "example": "Ich suche die Brille, weil ich sie nicht finde."
+    },
+    {
+      "german": "finden",
+      "english": "to find",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "finden",
+      "example": "Ich freue mich, wenn ich den Schlüssel finde."
+    },
+    {
+      "german": "rufen",
+      "english": "to call / shout",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "rufen",
+      "example": "Die Mutter ruft laut, weil das Kind weit weg ist."
+    },
+    {
+      "german": "fliegen",
+      "english": "to fly",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "fliegen",
+      "example": "Der Vogel fliegt weg, wenn die Katze kommt."
+    },
+    {
+      "german": "ziehen",
+      "english": "to pull",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "ziehen",
+      "example": "Ich ziehe an der Tür, weil sie klemmt."
+    },
+    {
+      "german": "drücken",
+      "english": "to press / push",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "druecken",
+      "example": "Ich drücke auf den Knopf, wenn ich klingeln will."
+    },
+    {
+      "german": "heben",
+      "english": "to lift",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "heben",
+      "example": "Ich hebe die Kiste, weil sie im Weg steht."
+    },
+    {
+      "german": "schieben",
+      "english": "to push",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "schieben",
+      "example": "Wir schieben das Auto, weil es nicht startet."
+    },
+    {
+      "german": "klopfen",
+      "english": "to knock",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "klopfen",
+      "example": "Ich klopfe an die Tür, wenn ich eintreten will."
+    },
+    {
+      "german": "fühlen",
+      "english": "to feel",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "fuehlen",
+      "example": "Ich fühle die Wand, weil es im Zimmer dunkel ist."
+    },
+    {
+      "german": "riechen",
+      "english": "to smell",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "riechen",
+      "example": "Die Blume riecht gut, weil sie ganz frisch ist."
+    },
+    {
+      "german": "schmecken",
+      "english": "to taste",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "schmecken",
+      "example": "Der Kuchen schmeckt süß, weil viel Zucker darin ist."
+    },
+    {
+      "german": "berühren",
+      "english": "to touch",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "beruehren",
+      "example": "Ich berühre den Ofen nicht, weil er heiß ist."
+    },
+    {
+      "german": "umarmen",
+      "english": "to hug",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "umarmen",
+      "example": "Ich umarme meine Oma, wenn ich sie sehe."
+    },
+    {
+      "german": "küssen",
+      "english": "to kiss",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "kuessen",
+      "example": "Sie küsst das Kind, wenn es schlafen geht."
+    },
+    {
+      "german": "rollen",
+      "english": "to roll",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "rollen",
+      "example": "Der Ball rollt weg, weil der Boden schräg ist."
+    },
+    {
+      "german": "drehen",
+      "english": "to turn",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "drehen",
+      "example": "Ich drehe den Schlüssel, wenn ich die Tür abschließe."
+    },
+    {
+      "german": "falten",
+      "english": "to fold",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "falten",
+      "example": "Ich falte das Papier, weil es in den Umschlag soll."
+    },
+    {
+      "german": "reißen",
+      "english": "to tear",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "reissen",
+      "example": "Das Papier reißt, weil ich zu stark ziehe."
+    },
+    {
+      "german": "kleben",
+      "english": "to stick / glue",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "kleben",
+      "example": "Ich klebe das Bild an die Wand, weil es mir gefällt."
+    },
+    {
+      "german": "wischen",
+      "english": "to wipe",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "wischen",
+      "example": "Ich wische den Tisch, weil er schmutzig ist."
+    },
+    {
+      "german": "fegen",
+      "english": "to sweep",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "fegen",
+      "example": "Ich fege den Boden, wenn viel Staub da ist."
+    },
+    {
+      "german": "füllen",
+      "english": "to fill",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "fuellen",
+      "example": "Ich fülle das Glas, wenn ich Durst habe."
+    },
+    {
+      "german": "leeren",
+      "english": "to empty",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "leeren",
+      "example": "Ich leere den Eimer, weil er ganz voll ist."
+    },
+    {
+      "german": "nicken",
+      "english": "to nod",
+      "category": "Alltagsverben",
+      "level": "A2",
+      "imageName": "nicken",
+      "example": "Ich nicke, wenn ich einverstanden bin."
+    },
+    {
+      "german": "treten",
+      "english": "to kick / step",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "treten",
+      "example": "Ich trete gegen den Ball, damit er ins Tor rollt."
+    },
+    {
+      "german": "packen",
+      "english": "to pack",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "packen",
+      "example": "Ich packe schon heute den Koffer, damit ich morgen nichts vergesse."
+    },
+    {
+      "german": "atmen",
+      "english": "to breathe",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "atmen",
+      "example": "Ich atme ganz tief, damit ich wieder ruhig werde."
+    },
+    {
+      "german": "kauen",
+      "english": "to chew",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "kauen",
+      "example": "Ich kaue das Brot langsam, obwohl ich großen Hunger habe."
+    },
+    {
+      "german": "kriechen",
+      "english": "to crawl",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "kriechen",
+      "example": "Das Baby kriecht über den Boden, obwohl es noch nicht laufen kann."
+    },
+    {
+      "german": "graben",
+      "english": "to dig",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "graben",
+      "example": "Der Hund gräbt ein tiefes Loch, obwohl die Erde hart ist."
+    },
+    {
+      "german": "schütten",
+      "english": "to pour",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "schuetten",
+      "example": "Ich schütte das alte Wasser weg, damit der Eimer wieder leer ist."
+    },
+    {
+      "german": "flüstern",
+      "english": "to whisper",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "fluestern",
+      "example": "Ich flüstere ganz leise, damit die anderen nicht aufwachen."
+    },
+    {
+      "german": "schreien",
+      "english": "to scream",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "schreien",
+      "example": "Das Kind schreit laut, obwohl ihm niemand wehtut."
+    },
+    {
+      "german": "gähnen",
+      "english": "to yawn",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "gaehnen",
+      "example": "Ich gähne die ganze Zeit, obwohl ich früh ins Bett gegangen bin."
+    },
+    {
+      "german": "niesen",
+      "english": "to sneeze",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "niesen",
+      "example": "Ich muss ständig niesen, obwohl ich gar nicht krank bin."
+    },
+    {
+      "german": "zwinkern",
+      "english": "to wink",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "zwinkern",
+      "example": "Er zwinkert mir kurz zu, damit ich das Geheimnis verstehe."
+    },
+    {
+      "german": "stapeln",
+      "english": "to stack",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "stapeln",
+      "example": "Ich staple die Teller vorsichtig, damit sie nicht umfallen."
+    },
+    {
+      "german": "schaukeln",
+      "english": "to swing",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "schaukeln",
+      "example": "Das Kind schaukelt immer höher, obwohl die Mutter es warnt."
+    },
+    {
+      "german": "rutschen",
+      "english": "to slide / slip",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "rutschen",
+      "example": "Ich rutsche auf dem Eis, obwohl ich langsam gehe."
+    },
+    {
+      "german": "stolpern",
+      "english": "to trip",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "stolpern",
+      "example": "Ich stolpere über den Stein, obwohl ich gut aufgepasst habe."
+    },
+    {
+      "german": "knien",
+      "english": "to kneel",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "knien",
+      "example": "Ich knie mich auf den Boden, damit ich unter das Bett schauen kann."
+    },
+    {
+      "german": "biegen",
+      "english": "to bend",
+      "category": "Alltagsverben",
+      "level": "B1",
+      "imageName": "biegen",
+      "example": "Ich biege den Draht vorsichtig, damit er in die richtige Form kommt."
+    },
+    {
+      "german": "schlucken",
+      "english": "to swallow",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "schlucken",
+      "example": "Nachdem ich die bittere Tablette geschluckt hatte, trank ich schnell etwas Wasser."
+    },
+    {
+      "german": "beißen",
+      "english": "to bite",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "beissen",
+      "example": "Während der Hund in den Schuh biss, konnten wir ihn kaum stoppen."
+    },
+    {
+      "german": "pusten",
+      "english": "to blow (out)",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "pusten",
+      "example": "Bevor alle klatschten, pustete das Kind alle Kerzen auf einmal aus."
+    },
+    {
+      "german": "zittern",
+      "english": "to shiver",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "zittern",
+      "example": "Nachdem wir lange im Regen gestanden hatten, zitterten wir vor Kälte."
+    },
+    {
+      "german": "schütteln",
+      "english": "to shake",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "schuetteln",
+      "example": "Bevor ich die Flasche öffne, schüttele ich sie kräftig, damit sich alles mischt."
+    },
+    {
+      "german": "gleiten",
+      "english": "to glide",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "gleiten",
+      "example": "Während das Boot über den ruhigen See glitt, war kein einziges Geräusch zu hören."
+    },
+    {
+      "german": "hocken",
+      "english": "to squat",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "hocken",
+      "example": "Nachdem er lange am Boden gehockt hatte, taten ihm beide Beine weh."
+    },
+    {
+      "german": "lecken",
+      "english": "to lick",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "lecken",
+      "example": "Während die Katze ihr Fell leckte, beobachtete sie uns ganz genau."
+    },
+    {
+      "german": "blasen",
+      "english": "to blow",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "blasen",
+      "example": "Bevor die heiße Suppe kalt wird, blase ich vorsichtig auf den Löffel."
+    },
+    {
+      "german": "sich bücken",
+      "english": "to bend down",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "buecken",
+      "example": "Nachdem ich mich gebückt hatte, hob ich den Schlüssel auf, der unter den Tisch gefallen war."
+    },
+    {
+      "german": "sich strecken",
+      "english": "to stretch",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "strecken",
+      "example": "Sobald ich morgens aufwache, strecke ich mich, damit mein Körper langsam wach wird."
+    },
+    {
+      "german": "sich lehnen",
+      "english": "to lean",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "lehnen",
+      "example": "Während wir auf den Bus warteten, lehnte ich mich an die Wand, die noch warm von der Sonne war."
+    },
+    {
+      "german": "zerbrechen",
+      "english": "to shatter",
+      "category": "Alltagsverben",
+      "level": "B2",
+      "imageName": "zerbrechen",
+      "example": "Nachdem die Vase vom Tisch gefallen war, zerbrach sie in viele kleine Scherben."
+    }
+  ]
+}

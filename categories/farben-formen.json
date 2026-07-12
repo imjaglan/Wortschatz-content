@@ -1,0 +1,501 @@
+{
+  "lastUpdated": "2026-07-12T00:00:00Z",
+  "words": [
+    {
+      "german": "rot",
+      "english": "red",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "rot",
+      "example": "Die Blume ist rot."
+    },
+    {
+      "german": "blau",
+      "english": "blue",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "blau",
+      "example": "Der Himmel ist blau."
+    },
+    {
+      "german": "gelb",
+      "english": "yellow",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "gelb",
+      "example": "Die Sonne ist gelb."
+    },
+    {
+      "german": "grün",
+      "english": "green",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "gruen",
+      "example": "Das Gras ist grün."
+    },
+    {
+      "german": "schwarz",
+      "english": "black",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "schwarz",
+      "example": "Die Katze ist schwarz."
+    },
+    {
+      "german": "weiß",
+      "english": "white",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "weiss",
+      "example": "Der Schnee ist weiß."
+    },
+    {
+      "german": "braun",
+      "english": "brown",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "braun",
+      "example": "Der Bär ist braun."
+    },
+    {
+      "german": "rosa",
+      "english": "pink",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "rosa",
+      "example": "Das Kleid ist rosa."
+    },
+    {
+      "german": "grau",
+      "english": "grey",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "grau",
+      "example": "Die Wolke ist grau."
+    },
+    {
+      "german": "lila",
+      "english": "purple",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "lila",
+      "example": "Ich mag Lila, weil es eine ruhige Farbe ist."
+    },
+    {
+      "german": "bunt",
+      "english": "colourful",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "bunt",
+      "example": "Der Ballon ist bunt, weil er viele Farben hat."
+    },
+    {
+      "german": "pink",
+      "english": "bright pink",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "pink",
+      "example": "Ihre Tasche ist pink, weil sie die Farbe liebt."
+    },
+    {
+      "german": "hell",
+      "english": "light / bright",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "hell",
+      "example": "Das Zimmer ist hell, wenn die Sonne scheint."
+    },
+    {
+      "german": "dunkel",
+      "english": "dark",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "dunkel",
+      "example": "Der Flur ist dunkel, wenn das Licht aus ist."
+    },
+    {
+      "german": "violett",
+      "english": "violet",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "violett",
+      "example": "Der Himmel wird abends violett, obwohl er tagsüber ganz blau war."
+    },
+    {
+      "german": "türkis",
+      "english": "turquoise",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "tuerkis",
+      "example": "Das Meer schimmert türkis, obwohl der Himmel heute grau ist."
+    },
+    {
+      "german": "beige",
+      "english": "beige",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "beige",
+      "example": "Die Wände sind beige, damit der Raum ruhig und warm wirkt."
+    },
+    {
+      "german": "golden",
+      "english": "golden",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "golden",
+      "example": "Die Blätter leuchten golden, obwohl der Herbst schon fast vorbei ist."
+    },
+    {
+      "german": "silbern",
+      "english": "silver",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "silbern",
+      "example": "Der Mond schimmert silbern, sodass der ganze See hell wird."
+    },
+    {
+      "german": "dunkelblau",
+      "english": "dark blue",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "dunkelblau",
+      "example": "Er trägt einen dunkelblauen Anzug, damit er seriös wirkt."
+    },
+    {
+      "german": "hellgrün",
+      "english": "light green",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "hellgruen",
+      "example": "Die jungen Blätter sind hellgrün, obwohl der Baum noch fast kahl ist."
+    },
+    {
+      "german": "gestreift",
+      "english": "striped",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "gestreift",
+      "example": "Ich nehme das gestreifte Hemd, obwohl das karierte auch schön wäre."
+    },
+    {
+      "german": "kariert",
+      "english": "checked",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "kariert",
+      "example": "Die Decke ist rot kariert, damit sie gemütlich aussieht."
+    },
+    {
+      "german": "einfarbig",
+      "english": "plain / single-coloured",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "einfarbig",
+      "example": "Nachdem sie das bunte Hemd zurückgelegt hatte, wählte sie ein einfarbiges, das schlichter wirkte."
+    },
+    {
+      "german": "gepunktet",
+      "english": "dotted / spotted",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "gepunktet",
+      "example": "Während die anderen einfarbige Kleider trugen, fiel ihr gepunktetes Kleid sofort auf."
+    },
+    {
+      "german": "blass",
+      "english": "pale",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "blass",
+      "example": "Nachdem er lange krank gewesen war, wirkte seine Haut noch immer blass."
+    },
+    {
+      "german": "leuchtend",
+      "english": "glowing / vivid",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "leuchtend",
+      "example": "Bevor die Sonne unterging, färbte sich der ganze Himmel in ein leuchtendes Rot."
+    },
+    {
+      "german": "der Kreis",
+      "english": "the circle",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "kreis",
+      "example": "Der Kreis ist ganz rund."
+    },
+    {
+      "german": "das Quadrat",
+      "english": "the square",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "quadrat",
+      "example": "Das Quadrat hat vier Seiten."
+    },
+    {
+      "german": "das Dreieck",
+      "english": "the triangle",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "dreieck",
+      "example": "Das Dreieck hat drei Ecken."
+    },
+    {
+      "german": "der Punkt",
+      "english": "the dot / point",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "punkt",
+      "example": "Auf dem Papier ist ein kleiner Punkt."
+    },
+    {
+      "german": "das Rechteck",
+      "english": "the rectangle",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "rechteck",
+      "example": "Die Tür ist ein Rechteck, weil sie lang und schmal ist."
+    },
+    {
+      "german": "der Strich",
+      "english": "the line / stroke",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "strich",
+      "example": "Ich male einen Strich, wenn ich die zwei Punkte verbinde."
+    },
+    {
+      "german": "das Oval",
+      "english": "the oval",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "oval",
+      "example": "Das Ei hat die Form von einem Oval, weil es nicht ganz rund ist."
+    },
+    {
+      "german": "die Kugel",
+      "english": "the sphere",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "kugel",
+      "example": "Der Ball ist eine Kugel, weil er von allen Seiten rund ist."
+    },
+    {
+      "german": "die Ecke",
+      "english": "the corner",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "ecke",
+      "example": "Der Tisch hat vier Ecken, wenn man genau hinschaut."
+    },
+    {
+      "german": "die Kante",
+      "english": "the edge",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "kante",
+      "example": "Ich fasse die Kante vorsichtig an, damit ich mich nicht schneide."
+    },
+    {
+      "german": "die Fläche",
+      "english": "the surface / area",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "flaeche",
+      "example": "Die Fläche ist groß genug, sodass alle Kinder darauf malen können."
+    },
+    {
+      "german": "der Zylinder",
+      "english": "the cylinder",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "zylinder",
+      "example": "Die Dose hat die Form von einem Zylinder, obwohl der Deckel flach ist."
+    },
+    {
+      "german": "der Kegel",
+      "english": "the cone",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "kegel",
+      "example": "Das Eis steckt in einem Kegel, damit man es gut halten kann."
+    },
+    {
+      "german": "die Pyramide",
+      "english": "the pyramid",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "pyramide",
+      "example": "Die Pyramide läuft nach oben spitz zu, obwohl sie unten sehr breit ist."
+    },
+    {
+      "german": "die Raute",
+      "english": "the rhombus / diamond",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "raute",
+      "example": "Nachdem das Kind das Quadrat gedreht hatte, sah es plötzlich wie eine Raute aus."
+    },
+    {
+      "german": "das Sechseck",
+      "english": "the hexagon",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "sechseck",
+      "example": "Während wir die Wabe betrachteten, erkannten wir, dass jede Zelle ein Sechseck ist."
+    },
+    {
+      "german": "das Fünfeck",
+      "english": "the pentagon",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "fuenfeck",
+      "example": "Bevor er das Fünfeck zeichnete, überlegte er, wie die fünf Ecken gleich weit auseinanderliegen."
+    },
+    {
+      "german": "der Halbkreis",
+      "english": "the semicircle",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "halbkreis",
+      "example": "Die Kinder saßen in einem Halbkreis, der sich langsam um den Erzähler schloss."
+    },
+    {
+      "german": "die Spirale",
+      "english": "the spiral",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "spirale",
+      "example": "Während der Künstler die Linie weiterzog, entstand eine Spirale, die sich nach innen drehte."
+    },
+    {
+      "german": "der Bogen",
+      "english": "the arc",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "bogen",
+      "example": "Nachdem der Regen aufgehört hatte, spannte sich ein bunter Bogen über den Himmel."
+    },
+    {
+      "german": "die Diagonale",
+      "english": "the diagonal",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "diagonale",
+      "example": "Falls du die Diagonale ziehst, teilst du das Quadrat in zwei gleiche Dreiecke."
+    },
+    {
+      "german": "die Symmetrie",
+      "english": "the symmetry",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "symmetrie",
+      "example": "Während ich das Muster betrachtete, fiel mir die genaue Symmetrie der beiden Hälften auf."
+    },
+    {
+      "german": "der Umriss",
+      "english": "the outline",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "umriss",
+      "example": "Bevor er die Farben ausmalte, zeichnete er nur den Umriss der Figur."
+    },
+    {
+      "german": "rund",
+      "english": "round",
+      "category": "Farben & Formen",
+      "level": "A1",
+      "imageName": "rund",
+      "example": "Der Ball ist rund."
+    },
+    {
+      "german": "das Muster",
+      "english": "the pattern",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "muster",
+      "example": "Der Stoff hat ein schönes Muster, weil sich viele Formen wiederholen."
+    },
+    {
+      "german": "eckig",
+      "english": "angular / square",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "eckig",
+      "example": "Der Tisch ist eckig, weil er vier harte Kanten hat."
+    },
+    {
+      "german": "spitz",
+      "english": "pointed",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "spitz",
+      "example": "Der Bleistift ist spitz, wenn ich ihn anspitze."
+    },
+    {
+      "german": "gerade",
+      "english": "straight",
+      "category": "Farben & Formen",
+      "level": "A2",
+      "imageName": "gerade",
+      "example": "Die Linie ist gerade, weil ich ein Lineal benutze."
+    },
+    {
+      "german": "krumm",
+      "english": "crooked",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "krumm",
+      "example": "Der alte Baum ist ganz krumm, obwohl er noch sehr stark ist."
+    },
+    {
+      "german": "schräg",
+      "english": "slanted",
+      "category": "Farben & Formen",
+      "level": "B1",
+      "imageName": "schraeg",
+      "example": "Das Bild hängt schräg, sodass ich es gerade rücken muss."
+    },
+    {
+      "german": "kantig",
+      "english": "angular / edgy",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "kantig",
+      "example": "Nachdem der Stein geschliffen worden war, wirkte er weniger kantig."
+    },
+    {
+      "german": "geschwungen",
+      "english": "curved / flowing",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "geschwungen",
+      "example": "Während sie ihren Namen schrieb, zog sie jeden Buchstaben schön geschwungen."
+    },
+    {
+      "german": "symmetrisch",
+      "english": "symmetrical",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "symmetrisch",
+      "example": "Falls beide Seiten genau gleich aussehen, nennt man die Figur symmetrisch."
+    },
+    {
+      "german": "geometrisch",
+      "english": "geometric",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "geometrisch",
+      "example": "Bevor er das Muster entwarf, ordnete er viele geometrische Formen nebeneinander."
+    },
+    {
+      "german": "spiralförmig",
+      "english": "spiral-shaped",
+      "category": "Farben & Formen",
+      "level": "B2",
+      "imageName": "spiralfoermig",
+      "example": "Nachdem die Treppe fertig war, wand sie sich spiralförmig nach oben."
+    }
+  ]
+}
